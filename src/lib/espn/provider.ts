@@ -37,7 +37,9 @@ export function parseTable(html: string): ScoreImportRow[] {
     .get();
 
   const playerIndex = getColumnIndex(headings, "PLAYER");
+  const positionIndex = getColumnIndex(headings, "POS");
   const scoreIndex = getColumnIndex(headings, "SCORE");
+  const thruIndex = getColumnIndex(headings, "THRU");
   const r1Index = getColumnIndex(headings, "R1");
   const r2Index = getColumnIndex(headings, "R2");
   const r3Index = getColumnIndex(headings, "R3");
@@ -61,7 +63,9 @@ export function parseTable(html: string): ScoreImportRow[] {
 
     rows.push({
       name,
+      position: readCell(cells, positionIndex),
       status: readCell(cells, scoreIndex),
+      thru: readCell(cells, thruIndex),
       r1: safeNumber(readCell(cells, r1Index)),
       r2: safeNumber(readCell(cells, r2Index)),
       r3: safeNumber(readCell(cells, r3Index)),

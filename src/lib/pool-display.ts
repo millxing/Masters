@@ -82,11 +82,41 @@ function getScoreSortValue(score: PlayerScore, effectiveTotal: number, completed
     return effectiveTotal - totalPar;
   }
 
+  if (completedRounds === 0) {
+    const liveToPar = parseToParValue(score.status);
+    if (Number.isFinite(liveToPar)) {
+      return liveToPar;
+    }
+  }
+
   if (typeof score.total === "number" && completedRounds > 0) {
     return score.total - completedRounds * roundPar;
   }
 
   return worstScoreToPar + 1;
+}
+
+function parseToParValue(value: string) {
+  const trimmed = value.trim().toUpperCase();
+  if (!trimmed) return Number.POSITIVE_INFINITY;
+  if (trimmed === "E") return 0;
+  if (/^[+-]?\d+$/.test(trimmed)) return Number(trimmed);
+  return Number.POSITIVE_INFINITY;
+}
+
+function parsePositionValue(value: string) {
+  const trimmed = value.trim().toUpperCase();
+  if (!trimmed) return Number.POSITIVE_INFINITY;
+  if (trimmed === "CUT") return Number.POSITIVE_INFINITY;
+  const numeric = trimmed.replace(/^T/, "");
+  return /^\d+$/.test(numeric) ? Number(numeric) : Number.POSITIVE_INFINITY;
+}
+
+function parseThruValue(value: string) {
+  const trimmed = value.trim().toUpperCase();
+  if (!trimmed || trimmed === "-") return Number.POSITIVE_INFINITY;
+  if (trimmed === "F") return 18;
+  return /^\d+$/.test(trimmed) ? Number(trimmed) : Number.POSITIVE_INFINITY;
 }
 
 export function getParticipantInitials(name: string) {
@@ -256,15 +286,15 @@ export function buildGolferScoreboardRows(playerScores: PlayerScore[]): GolferSc
   let previousRank = 0;
 
   return ordered.map((score, index) => {
-    let position = "";
-    let positionValue = Number.POSITIVE_INFINITY;
+    let position = score.position?.trim() ?? "";
+    let positionValue = parsePositionValue(position);
     const roundValues = score.rounds.map((round, roundIndex) =>
       typeof round === "number" ? round : fallbackPerRound[roundIndex]
     );
     const effectiveTotal = roundValues.reduce((sum, round) => sum + round, 0);
     const completedRounds = score.rounds.filter((round): round is number => typeof round === "number").length;
 
-    if (typeof score.total === "number") {
+    if (!position && typeof score.total === "number") {
       if (score.total !== previousTotal) {
         previousRank = nextRank;
         previousTotal = score.total;
@@ -283,8 +313,8 @@ export function buildGolferScoreboardRows(playerScores: PlayerScore[]): GolferSc
       golferName: score.golferName,
       score: getScoreDisplay(score),
       scoreValue: getScoreSortValue(score, effectiveTotal, completedRounds, worstScoreToPar),
-      hole: "-",
-      holeValue: Number.POSITIVE_INFINITY,
+      hole: score.thru?.trim() || "-",
+      holeValue: parseThruValue(score.thru ?? ""),
       rounds: score.rounds.map((round) => round ?? "—"),
       roundValues,
       total: score.total ?? "—",

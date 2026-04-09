@@ -90,7 +90,7 @@ export function GolferScoreboardTable({ rows }: { rows: GolferScoreboardRow[] })
               <th><button type="button" className="scoreboard-sort-button" onClick={() => handleSort("position")}>Pos{getIndicator("position")}</button></th>
               <th><button type="button" className="scoreboard-sort-button" onClick={() => handleSort("player")}>Player{getIndicator("player")}</button></th>
               <th><button type="button" className="scoreboard-sort-button" onClick={() => handleSort("score")}>Score{getIndicator("score")}</button></th>
-              <th><button type="button" className="scoreboard-sort-button" onClick={() => handleSort("hole")}>Hole{getIndicator("hole")}</button></th>
+              <th><button type="button" className="scoreboard-sort-button" onClick={() => handleSort("hole")}>Thru{getIndicator("hole")}</button></th>
               <th><button type="button" className="scoreboard-sort-button" onClick={() => handleSort("r1")}>R1{getIndicator("r1")}</button></th>
               <th><button type="button" className="scoreboard-sort-button" onClick={() => handleSort("r2")}>R2{getIndicator("r2")}</button></th>
               <th><button type="button" className="scoreboard-sort-button" onClick={() => handleSort("r3")}>R3{getIndicator("r3")}</button></th>

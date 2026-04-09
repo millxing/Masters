@@ -61,13 +61,15 @@ for (const row of rows) {
     continue;
   }
 
-  playerScores.push({
-    snapshotId: "",
-    golferCode: golfer.code,
-    golferName: golfer.name,
-    status: row.status ?? "",
-    rounds: [row.r1 ?? null, row.r2 ?? null, row.r3 ?? null, row.r4 ?? null],
-    total: row.total ?? null
+    playerScores.push({
+      snapshotId: "",
+      golferCode: golfer.code,
+      golferName: golfer.name,
+      position: row.position ?? "",
+      thru: row.thru ?? "",
+      status: row.status ?? "",
+      rounds: [row.r1 ?? null, row.r2 ?? null, row.r3 ?? null, row.r4 ?? null],
+      total: row.total ?? null
   });
 }
 
@@ -205,7 +207,9 @@ function parseEspnTable(html) {
     .get();
 
   const playerIndex = getColumnIndex(headings, "PLAYER");
+  const positionIndex = getColumnIndex(headings, "POS");
   const scoreIndex = getColumnIndex(headings, "SCORE");
+  const thruIndex = getColumnIndex(headings, "THRU");
   const r1Index = getColumnIndex(headings, "R1");
   const r2Index = getColumnIndex(headings, "R2");
   const r3Index = getColumnIndex(headings, "R3");
@@ -229,7 +233,9 @@ function parseEspnTable(html) {
 
     rows.push({
       name,
+      position: readCell(cells, positionIndex),
       status: readCell(cells, scoreIndex),
+      thru: readCell(cells, thruIndex),
       r1: safeNumber(readCell(cells, r1Index)),
       r2: safeNumber(readCell(cells, r2Index)),
       r3: safeNumber(readCell(cells, r3Index)),

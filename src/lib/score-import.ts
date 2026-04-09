@@ -25,7 +25,9 @@ export function parseCsvImport(csvText: string): ScoreImportRow[] {
   return parsed.data.map((row) => ({
     code: row.code || row.golfer_code || row.golferCode || undefined,
     name: row.name || row.golfer || row.player || undefined,
+    position: row.position || row.pos || undefined,
     status: row.status || "",
+    thru: row.thru || row.hole || undefined,
     r1: safeNumber(row.r1),
     r2: safeNumber(row.r2),
     r3: safeNumber(row.r3),
@@ -55,6 +57,8 @@ function mapRowsToScores(rows: ScoreImportRow[], golfers: Golfer[]) {
       snapshotId: "",
       golferCode: golfer.code,
       golferName: golfer.name,
+      position: row.position ?? "",
+      thru: row.thru ?? "",
       status: row.status ?? "",
       rounds: [row.r1 ?? null, row.r2 ?? null, row.r3 ?? null, row.r4 ?? null],
       total: row.total ?? null

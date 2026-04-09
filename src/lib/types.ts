@@ -58,6 +58,8 @@ export type PlayerScore = {
   snapshotId: string;
   golferCode: string;
   golferName: string;
+  position?: string;
+  thru?: string;
   status: string;
   rounds: Array<number | null>;
   total: number | null;
@@ -104,6 +106,8 @@ export type Database = {
 export type ScoreImportRow = {
   code?: string;
   name?: string;
+  position?: string;
+  thru?: string;
   status?: string;
   r1?: number | null;
   r2?: number | null;

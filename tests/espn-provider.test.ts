@@ -11,6 +11,7 @@ describe("parseTable", () => {
             <th>POS</th>
             <th>PLAYER</th>
             <th>SCORE</th>
+            <th>THRU</th>
             <th>R1</th>
             <th>R2</th>
             <th>R3</th>
@@ -25,6 +26,7 @@ describe("parseTable", () => {
             <td>1</td>
             <td>Rory McIlroy</td>
             <td>-11</td>
+            <td>F</td>
             <td>72</td>
             <td>66</td>
             <td>66</td>
@@ -37,6 +39,7 @@ describe("parseTable", () => {
             <td>T36</td>
             <td>Ludvig Åberg</td>
             <td>E</td>
+            <td>14</td>
             <td>68</td>
             <td>75</td>
             <td>74</td>
@@ -51,7 +54,9 @@ describe("parseTable", () => {
     expect(parseTable(html)).toEqual([
       {
         name: "Rory McIlroy",
+        position: "1",
         status: "-11",
+        thru: "F",
         r1: 72,
         r2: 66,
         r3: 66,
@@ -60,7 +65,9 @@ describe("parseTable", () => {
       },
       {
         name: "Ludvig Åberg",
+        position: "T36",
         status: "E",
+        thru: "14",
         r1: 68,
         r2: 75,
         r3: 74,

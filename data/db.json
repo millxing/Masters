@@ -1758,6 +1758,14 @@
       "importedAt": "2026-04-09T13:25:09.033Z",
       "sourceLabel": "ESPN leaderboard",
       "rawPayload": "[\n  {\n    \"name\": \"José María Olazábal\",\n    \"status\": \"-2\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 14\n  },\n  {\n    \"name\": \"Jackson Herrington (a)\",\n    \"status\": \"-1\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 15\n  },\n  {\n    \"name\": \"Max Greyserman\",\n    \"status\": \"-1\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 12\n  },\n  {\n    \"name\": \"Kurt Kitayama\",\n    \"status\": \"-1\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 8\n  },\n  {\n    \"name\": \"Max Homa\",\n    \"status\": \"E\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 23\n  },\n  {\n    \"name\": \"Ángel Cabrera\",\n    \"status\": \"E\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 16\n  },\n  {\n    \"name\": \"Sami Välimäki\",\n    \"status\": \"E\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 16\n  },\n  {\n    \"name\": \"Vijay Singh\",\n    \"status\": \"E\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 9\n  },\n  {\n    \"name\": \"Matt McCarty\",\n    \"status\": \"E\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 9\n  },\n  {\n    \"name\": \"Kristoffer Reitan\",\n    \"status\": \"E\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 9\n  },\n  {\n    \"name\": \"Casey Jarvis\",\n    \"status\": \"E\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 9\n  },\n  {\n    \"name\": \"Brandon Holtz (a)\",\n    \"status\": \"E\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 4\n  },\n  {\n    \"name\": \"Nico Echavarria\",\n    \"status\": \"E\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 4\n  },\n  {\n    \"name\": \"Haotong Li\",\n    \"status\": \"+1\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 28\n  },\n  {\n    \"name\": \"Rasmus Neergaard-Petersen\",\n    \"status\": \"+1\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 17\n  },\n  {\n    \"name\": \"Charl Schwartzel\",\n    \"status\": \"+1\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 14\n  },\n  {\n    \"name\": \"Rasmus Højgaard\",\n    \"status\": \"+1\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 10\n  },\n  {\n    \"name\": \"Bubba Watson\",\n    \"status\": \"+1\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 5\n  },\n  {\n    \"name\": \"Johnny Keefer\",\n    \"status\": \"+2\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 29\n  },\n  {\n    \"name\": \"Naoyuki Kataoka\",\n    \"status\": \"+2\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 25\n  },\n  {\n    \"name\": \"Aldrich Potgieter\",\n    \"status\": \"+2\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 18\n  },\n  {\n    \"name\": \"Ryan Fox\",\n    \"status\": \"+2\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 15\n  },\n  {\n    \"name\": \"Carlos Ortiz\",\n    \"status\": \"+7\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 30\n  },\n  {\n    \"name\": \"Cameron Smith\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Jake Knapp\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Sam Burns\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Nick Taylor\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Keegan Bradley\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Ryan Gerard\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Jason Day\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Dustin Johnson\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Shane Lowry\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Tommy Fleetwood\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Patrick Reed\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Akshay Bhatia\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Matt Fitzpatrick\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Bryson DeChambeau\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Xander Schauffele\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Russell Henley\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Hideki Matsuyama\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Collin Morikawa\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Rory McIlroy\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Cameron Young\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Mason Howell (a)\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Alex Noren\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Patrick Cantlay\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Viktor Hovland\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Sungjae Im\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Sam Stevens\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Brian Campbell\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Andrew Novak\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Tom McKibbin\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Mike Weir\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Wyndham Clark\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Mateo Pulcini (a)\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Zach Johnson\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Michael Kim\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Nicolai Højgaard\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Danny Willett\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Davis Riley\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Ethan Fang (a)\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Adam Scott\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Brian Harman\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Daniel Berger\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Fred Couples\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Min Woo Lee\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Fifa Laopakdee (a)\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Sergio García\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Aaron Rai\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Jacob Bridgeman\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Corey Conners\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Harry Hall\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Michael Brennan\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Tyrrell Hatton\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Maverick McNealy\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"J.J. Spaun\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Jon Rahm\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Ludvig Åberg\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Chris Gotterup\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Justin Rose\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Jordan Spieth\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Brooks Koepka\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Justin Thomas\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Sepp Straka\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Ben Griffin\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Gary Woodland\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Scottie Scheffler\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Robert MacIntyre\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Harris English\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Si Woo Kim\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Marco Penge\",\n    \"status\": \"-\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  }\n]"
+    },
+    {
+      "id": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "tournamentId": "masters-pool",
+      "source": "espn",
+      "importedAt": "2026-04-09T13:32:03.099Z",
+      "sourceLabel": "ESPN leaderboard",
+      "rawPayload": "[\n  {\n    \"name\": \"José María Olazábal\",\n    \"position\": \"1\",\n    \"status\": \"-2\",\n    \"thru\": \"5\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 18\n  },\n  {\n    \"name\": \"Jackson Herrington (a)\",\n    \"position\": \"T2\",\n    \"status\": \"-1\",\n    \"thru\": \"4\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 15\n  },\n  {\n    \"name\": \"Max Greyserman\",\n    \"position\": \"T2\",\n    \"status\": \"-1\",\n    \"thru\": \"4\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 15\n  },\n  {\n    \"name\": \"Kurt Kitayama\",\n    \"position\": \"T2\",\n    \"status\": \"-1\",\n    \"thru\": \"2\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 8\n  },\n  {\n    \"name\": \"Max Homa\",\n    \"position\": \"T5\",\n    \"status\": \"E\",\n    \"thru\": \"6\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 23\n  },\n  {\n    \"name\": \"Ángel Cabrera\",\n    \"position\": \"T5\",\n    \"status\": \"E\",\n    \"thru\": \"4\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 16\n  },\n  {\n    \"name\": \"Sami Välimäki\",\n    \"position\": \"T5\",\n    \"status\": \"E\",\n    \"thru\": \"4\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 16\n  },\n  {\n    \"name\": \"Vijay Singh\",\n    \"position\": \"T5\",\n    \"status\": \"E\",\n    \"thru\": \"3\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 13\n  },\n  {\n    \"name\": \"Matt McCarty\",\n    \"position\": \"T5\",\n    \"status\": \"E\",\n    \"thru\": \"3\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 13\n  },\n  {\n    \"name\": \"Kristoffer Reitan\",\n    \"position\": \"T5\",\n    \"status\": \"E\",\n    \"thru\": \"2\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 9\n  },\n  {\n    \"name\": \"Casey Jarvis\",\n    \"position\": \"T5\",\n    \"status\": \"E\",\n    \"thru\": \"2\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 9\n  },\n  {\n    \"name\": \"Brandon Holtz (a)\",\n    \"position\": \"T5\",\n    \"status\": \"E\",\n    \"thru\": \"1\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 4\n  },\n  {\n    \"name\": \"Nico Echavarria\",\n    \"position\": \"T5\",\n    \"status\": \"E\",\n    \"thru\": \"1\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 4\n  },\n  {\n    \"name\": \"Haotong Li\",\n    \"position\": \"T14\",\n    \"status\": \"+1\",\n    \"thru\": \"7\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 28\n  },\n  {\n    \"name\": \"Rasmus Neergaard-Petersen\",\n    \"position\": \"T14\",\n    \"status\": \"+1\",\n    \"thru\": \"5\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 21\n  },\n  {\n    \"name\": \"Charl Schwartzel\",\n    \"position\": \"T14\",\n    \"status\": \"+1\",\n    \"thru\": \"4\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 17\n  },\n  {\n    \"name\": \"Rasmus Højgaard\",\n    \"position\": \"T14\",\n    \"status\": \"+1\",\n    \"thru\": \"3\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 14\n  },\n  {\n    \"name\": \"Bubba Watson\",\n    \"position\": \"T14\",\n    \"status\": \"+1\",\n    \"thru\": \"1\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 5\n  },\n  {\n    \"name\": \"Johnny Keefer\",\n    \"position\": \"T19\",\n    \"status\": \"+2\",\n    \"thru\": \"7\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 29\n  },\n  {\n    \"name\": \"Naoyuki Kataoka\",\n    \"position\": \"T19\",\n    \"status\": \"+2\",\n    \"thru\": \"6\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 25\n  },\n  {\n    \"name\": \"Ryan Fox\",\n    \"position\": \"T19\",\n    \"status\": \"+2\",\n    \"thru\": \"4\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 18\n  },\n  {\n    \"name\": \"Aldrich Potgieter\",\n    \"position\": \"22\",\n    \"status\": \"+3\",\n    \"thru\": \"5\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 23\n  },\n  {\n    \"name\": \"Carlos Ortiz\",\n    \"position\": \"23\",\n    \"status\": \"+7\",\n    \"thru\": \"6\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": 30\n  },\n  {\n    \"name\": \"Cameron Smith\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"9:19 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Jake Knapp\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"9:19 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Sam Burns\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"9:19 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Nick Taylor\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"9:31 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Keegan Bradley\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"9:31 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Ryan Gerard\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"9:31 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Jason Day\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"9:43 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Dustin Johnson\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"9:43 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Shane Lowry\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"9:43 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Tommy Fleetwood\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"9:55 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Patrick Reed\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"9:55 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Akshay Bhatia\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"9:55 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Matt Fitzpatrick\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"10:07 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Bryson DeChambeau\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"10:07 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Xander Schauffele\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"10:07 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Russell Henley\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"10:19 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Hideki Matsuyama\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"10:19 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Collin Morikawa\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"10:19 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Rory McIlroy\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"10:31 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Cameron Young\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"10:31 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Mason Howell (a)\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"10:31 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Alex Noren\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"10:43 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Patrick Cantlay\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"10:43 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Viktor Hovland\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"10:43 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Sungjae Im\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:03 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Sam Stevens\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:03 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Brian Campbell\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:15 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Andrew Novak\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:15 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Tom McKibbin\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:15 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Mike Weir\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:27 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Wyndham Clark\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:27 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Mateo Pulcini (a)\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:27 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Zach Johnson\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:39 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Michael Kim\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:39 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Nicolai Højgaard\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:39 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Danny Willett\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:51 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Davis Riley\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:51 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Ethan Fang (a)\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"11:51 AM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Adam Scott\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:03 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Brian Harman\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:03 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Daniel Berger\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:03 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Fred Couples\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:15 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Min Woo Lee\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:15 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Fifa Laopakdee (a)\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:15 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Sergio García\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:27 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Aaron Rai\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:27 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Jacob Bridgeman\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:27 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Corey Conners\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:44 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Harry Hall\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:44 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Michael Brennan\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:44 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Tyrrell Hatton\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:56 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Maverick McNealy\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:56 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"J.J. Spaun\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"12:56 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Jon Rahm\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:08 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Ludvig Åberg\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:08 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Chris Gotterup\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:08 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Justin Rose\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:20 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Jordan Spieth\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:20 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Brooks Koepka\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:20 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Justin Thomas\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:32 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Sepp Straka\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:32 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Ben Griffin\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:32 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Gary Woodland\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:44 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Scottie Scheffler\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:44 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Robert MacIntyre\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:44 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Harris English\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:56 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Si Woo Kim\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:56 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  },\n  {\n    \"name\": \"Marco Penge\",\n    \"position\": \"-\",\n    \"status\": \"-\",\n    \"thru\": \"1:56 PM\",\n    \"r1\": null,\n    \"r2\": null,\n    \"r3\": null,\n    \"r4\": null,\n    \"total\": null\n  }\n]"
     }
   ],
   "playerScores": [
@@ -6341,6 +6349,1371 @@
       "snapshotId": "snapshot_cadcf5af95ed43f8982ee63eb0c8c27a",
       "golferCode": "47",
       "golferName": "Marco Penge",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "91",
+      "golferName": "Jose Maria Olazabal",
+      "position": "1",
+      "thru": "5",
+      "status": "-2",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 18
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "86",
+      "golferName": "Jackson Herrington",
+      "position": "T2",
+      "thru": "4",
+      "status": "-1",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 15
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "59",
+      "golferName": "Max Greyserman",
+      "position": "T2",
+      "thru": "4",
+      "status": "-1",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 15
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "35",
+      "golferName": "Kurt Kitayama",
+      "position": "T2",
+      "thru": "2",
+      "status": "-1",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 8
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "44",
+      "golferName": "Max Homa",
+      "position": "T5",
+      "thru": "6",
+      "status": "E",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 23
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "81",
+      "golferName": "Angel Cabrera",
+      "position": "T5",
+      "thru": "4",
+      "status": "E",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 16
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "71",
+      "golferName": "Sami Valimaki",
+      "position": "T5",
+      "thru": "4",
+      "status": "E",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 16
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "84",
+      "golferName": "Vijay Singh",
+      "position": "T5",
+      "thru": "3",
+      "status": "E",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 13
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "67",
+      "golferName": "Matt McCarty",
+      "position": "T5",
+      "thru": "3",
+      "status": "E",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 13
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "61",
+      "golferName": "Kristoffer Reitan",
+      "position": "T5",
+      "thru": "2",
+      "status": "E",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 9
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "62",
+      "golferName": "Casey Jarvis",
+      "position": "T5",
+      "thru": "2",
+      "status": "E",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 9
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "88",
+      "golferName": "Brandon Holtz",
+      "position": "T5",
+      "thru": "1",
+      "status": "E",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 4
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "66",
+      "golferName": "Nico Echavarria",
+      "position": "T5",
+      "thru": "1",
+      "status": "E",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 4
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "65",
+      "golferName": "Haotong Li",
+      "position": "T14",
+      "thru": "7",
+      "status": "+1",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 28
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "69",
+      "golferName": "Rasmus Neergaard-Petersen",
+      "position": "T14",
+      "thru": "5",
+      "status": "+1",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 21
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "75",
+      "golferName": "Charl Schwartzel",
+      "position": "T14",
+      "thru": "4",
+      "status": "+1",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 17
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "45",
+      "golferName": "Rasmus Hojgaard",
+      "position": "T14",
+      "thru": "3",
+      "status": "+1",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 14
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "76",
+      "golferName": "Bubba Watson",
+      "position": "T14",
+      "thru": "1",
+      "status": "+1",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 5
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "72",
+      "golferName": "John Keefer",
+      "position": "T19",
+      "thru": "7",
+      "status": "+2",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 29
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "87",
+      "golferName": "Naoyuki Kataoka",
+      "position": "T19",
+      "thru": "6",
+      "status": "+2",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 25
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "55",
+      "golferName": "Ryan Fox",
+      "position": "T19",
+      "thru": "4",
+      "status": "+2",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 18
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "70",
+      "golferName": "Aldrich Potgieter",
+      "position": "22",
+      "thru": "5",
+      "status": "+3",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 23
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "63",
+      "golferName": "Carlos Ortiz",
+      "position": "23",
+      "thru": "6",
+      "status": "+7",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": 30
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "38",
+      "golferName": "Cameron Smith",
+      "position": "-",
+      "thru": "9:19 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "28",
+      "golferName": "Jake Knapp",
+      "position": "-",
+      "thru": "9:19 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "30",
+      "golferName": "Sam Burns",
+      "position": "-",
+      "thru": "9:19 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "51",
+      "golferName": "Nick Taylor",
+      "position": "-",
+      "thru": "9:31 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "46",
+      "golferName": "Keegan Bradley",
+      "position": "-",
+      "thru": "9:31 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "50",
+      "golferName": "Ryan Gerard",
+      "position": "-",
+      "thru": "9:31 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "26",
+      "golferName": "Jason Day",
+      "position": "-",
+      "thru": "9:43 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "60",
+      "golferName": "Dustin Johnson",
+      "position": "-",
+      "thru": "9:43 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "29",
+      "golferName": "Shane Lowry",
+      "position": "-",
+      "thru": "9:43 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "8",
+      "golferName": "Tommy Fleetwood",
+      "position": "-",
+      "thru": "9:55 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "17",
+      "golferName": "Patrick Reed",
+      "position": "-",
+      "thru": "9:55 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "24",
+      "golferName": "Akshay Bhatia",
+      "position": "-",
+      "thru": "9:55 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "9",
+      "golferName": "Matt Fitzpatrick",
+      "position": "-",
+      "thru": "10:07 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "4",
+      "golferName": "Bryson DeChambeau",
+      "position": "-",
+      "thru": "10:07 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "6",
+      "golferName": "Xander Schauffele",
+      "position": "-",
+      "thru": "10:07 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "20",
+      "golferName": "Russell Henley",
+      "position": "-",
+      "thru": "10:19 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "14",
+      "golferName": "Hideki Matsuyama",
+      "position": "-",
+      "thru": "10:19 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "10",
+      "golferName": "Collin Morikawa",
+      "position": "-",
+      "thru": "10:19 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "3",
+      "golferName": "Rory McIlroy",
+      "position": "-",
+      "thru": "10:31 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "7",
+      "golferName": "Cameron Young",
+      "position": "-",
+      "thru": "10:31 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "83",
+      "golferName": "Mason Howell",
+      "position": "-",
+      "thru": "10:31 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "49",
+      "golferName": "Alex Noren",
+      "position": "-",
+      "thru": "10:43 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "23",
+      "golferName": "Patrick Cantlay",
+      "position": "-",
+      "thru": "10:43 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "19",
+      "golferName": "Viktor Hovland",
+      "position": "-",
+      "thru": "10:43 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "43",
+      "golferName": "Sung-Jae Im",
+      "position": "-",
+      "thru": "11:03 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "54",
+      "golferName": "Sam Stevens",
+      "position": "-",
+      "thru": "11:03 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "78",
+      "golferName": "Brian Campbell",
+      "position": "-",
+      "thru": "11:15 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "68",
+      "golferName": "Andrew Novak",
+      "position": "-",
+      "thru": "11:15 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "64",
+      "golferName": "Tom McKibbin",
+      "position": "-",
+      "thru": "11:15 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "89",
+      "golferName": "Mike Weir",
+      "position": "-",
+      "thru": "11:27 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "56",
+      "golferName": "Wyndham Clark",
+      "position": "-",
+      "thru": "11:27 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "85",
+      "golferName": "Mateo Pulcini",
+      "position": "-",
+      "thru": "11:27 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "77",
+      "golferName": "Zach Johnson",
+      "position": "-",
+      "thru": "11:39 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "58",
+      "golferName": "Michael Kim",
+      "position": "-",
+      "thru": "11:39 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "34",
+      "golferName": "Nicolai Hojgaard",
+      "position": "-",
+      "thru": "11:39 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "80",
+      "golferName": "Danny Willett",
+      "position": "-",
+      "thru": "11:51 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "74",
+      "golferName": "Davis Riley",
+      "position": "-",
+      "thru": "11:51 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "79",
+      "golferName": "Ethan Fang",
+      "position": "-",
+      "thru": "11:51 AM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "25",
+      "golferName": "Adam Scott",
+      "position": "-",
+      "thru": "12:03 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "53",
+      "golferName": "Brian Harman",
+      "position": "-",
+      "thru": "12:03 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "41",
+      "golferName": "Daniel Berger",
+      "position": "-",
+      "thru": "12:03 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "90",
+      "golferName": "Fred Couples",
+      "position": "-",
+      "thru": "12:15 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "21",
+      "golferName": "Min Woo Lee",
+      "position": "-",
+      "thru": "12:15 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "82",
+      "golferName": "Pongsapak Laopakdee",
+      "position": "-",
+      "thru": "12:15 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "57",
+      "golferName": "Sergio Garcia",
+      "position": "-",
+      "thru": "12:27 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "52",
+      "golferName": "Aaron Rai",
+      "position": "-",
+      "thru": "12:27 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "36",
+      "golferName": "Jacob Bridgeman",
+      "position": "-",
+      "thru": "12:27 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "33",
+      "golferName": "Corey Conners",
+      "position": "-",
+      "thru": "12:44 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "48",
+      "golferName": "Harry Hall",
+      "position": "-",
+      "thru": "12:44 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "73",
+      "golferName": "Michael Brennan",
+      "position": "-",
+      "thru": "12:44 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "27",
+      "golferName": "Tyrrell Hatton",
+      "position": "-",
+      "thru": "12:56 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "37",
+      "golferName": "Maverick McNealy",
+      "position": "-",
+      "thru": "12:56 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "31",
+      "golferName": "J.J. Spaun",
+      "position": "-",
+      "thru": "12:56 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "2",
+      "golferName": "Jon Rahm",
+      "position": "-",
+      "thru": "1:08 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "5",
+      "golferName": "Ludvig Aberg",
+      "position": "-",
+      "thru": "1:08 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "15",
+      "golferName": "Chris Gotterup",
+      "position": "-",
+      "thru": "1:08 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "11",
+      "golferName": "Justin Rose",
+      "position": "-",
+      "thru": "1:20 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "16",
+      "golferName": "Jordan Spieth",
+      "position": "-",
+      "thru": "1:20 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "13",
+      "golferName": "Brooks Koepka",
+      "position": "-",
+      "thru": "1:20 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "22",
+      "golferName": "Justin Thomas",
+      "position": "-",
+      "thru": "1:32 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "32",
+      "golferName": "Sepp Straka",
+      "position": "-",
+      "thru": "1:32 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "42",
+      "golferName": "Ben Griffin",
+      "position": "-",
+      "thru": "1:32 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "40",
+      "golferName": "Gary Woodland",
+      "position": "-",
+      "thru": "1:44 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "1",
+      "golferName": "Scottie Scheffler",
+      "position": "-",
+      "thru": "1:44 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "12",
+      "golferName": "Robert MacIntyre",
+      "position": "-",
+      "thru": "1:44 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "39",
+      "golferName": "Harris English",
+      "position": "-",
+      "thru": "1:56 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "18",
+      "golferName": "Si Woo Kim",
+      "position": "-",
+      "thru": "1:56 PM",
+      "status": "-",
+      "rounds": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null
+    },
+    {
+      "snapshotId": "snapshot_416cd2e14831456b94fab9735b7d487d",
+      "golferCode": "47",
+      "golferName": "Marco Penge",
+      "position": "-",
+      "thru": "1:56 PM",
       "status": "-",
       "rounds": [
         null,
