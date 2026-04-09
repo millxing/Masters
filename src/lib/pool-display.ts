@@ -93,7 +93,7 @@ function getScoreSortValue(score: PlayerScore, effectiveTotal: number, completed
     return score.total - completedRounds * roundPar;
   }
 
-  return worstScoreToPar + 1;
+  return Number.POSITIVE_INFINITY;
 }
 
 function parseToParValue(value: string) {

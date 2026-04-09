@@ -14,6 +14,17 @@ function compareNumber(left: number, right: number, direction: SortDirection) {
   return direction === "asc" ? left - right : right - left;
 }
 
+function compareNumberWithMissing(left: number, right: number, direction: SortDirection) {
+  const leftMissing = !Number.isFinite(left);
+  const rightMissing = !Number.isFinite(right);
+
+  if (leftMissing && rightMissing) return 0;
+  if (leftMissing) return 1;
+  if (rightMissing) return -1;
+
+  return compareNumber(left, right, direction);
+}
+
 export function GolferScoreboardTable({ rows }: { rows: GolferScoreboardRow[] }) {
   const [sortKey, setSortKey] = useState<SortKey>("position");
   const [sortDirection, setSortDirection] = useState<SortDirection>("asc");
@@ -41,19 +52,19 @@ export function GolferScoreboardTable({ rows }: { rows: GolferScoreboardRow[] })
     switch (sortKey) {
       case "position":
         return (
-          compareNumber(left.positionValue, right.positionValue, sortDirection) ||
+          compareNumberWithMissing(left.positionValue, right.positionValue, sortDirection) ||
           compareText(left.golferName, right.golferName, "asc")
         );
       case "player":
         return compareText(left.golferName, right.golferName, sortDirection);
       case "score":
         return (
-          compareNumber(left.scoreValue, right.scoreValue, sortDirection) ||
+          compareNumberWithMissing(left.scoreValue, right.scoreValue, sortDirection) ||
           compareText(left.golferName, right.golferName, "asc")
         );
       case "hole":
         return (
-          compareNumber(left.holeValue, right.holeValue, sortDirection) ||
+          compareNumberWithMissing(left.holeValue, right.holeValue, sortDirection) ||
           compareText(left.golferName, right.golferName, "asc")
         );
       case "r1":
@@ -62,13 +73,13 @@ export function GolferScoreboardTable({ rows }: { rows: GolferScoreboardRow[] })
       case "r4": {
         const roundIndex = Number(sortKey[1]) - 1;
         return (
-          compareNumber(left.roundValues[roundIndex] ?? Number.POSITIVE_INFINITY, right.roundValues[roundIndex] ?? Number.POSITIVE_INFINITY, sortDirection) ||
+          compareNumberWithMissing(left.roundValues[roundIndex] ?? Number.POSITIVE_INFINITY, right.roundValues[roundIndex] ?? Number.POSITIVE_INFINITY, sortDirection) ||
           compareText(left.golferName, right.golferName, "asc")
         );
       }
       case "total":
         return (
-          compareNumber(left.totalValue, right.totalValue, sortDirection) ||
+          compareNumberWithMissing(left.totalValue, right.totalValue, sortDirection) ||
           compareText(left.golferName, right.golferName, "asc")
         );
       default:
