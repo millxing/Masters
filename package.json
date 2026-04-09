@@ -10,6 +10,8 @@
     "dev:live": "MASTERS_MODE=live next dev",
     "build": "next build",
     "build:static": "STATIC_EXPORT=1 next build",
+    "refresh:espn": "node scripts/refresh-espn.mjs",
+    "deploy:pages": "bash scripts/deploy-pages.sh",
     "start": "next start",
     "typecheck": "node scripts/typecheck.mjs",
     "test": "vitest run"
