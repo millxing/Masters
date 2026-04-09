@@ -13,6 +13,10 @@ const env = {
 };
 
 const tournamentId = getArgValue("--tournament-id") ?? env.ESPN_TOURNAMENT_ID;
+const espnNameAliases = new Map([
+  ["johnnykeefer", "johnkeefer"],
+  ["fifalaopakdee", "pongsapaklaopakdee"]
+]);
 
 if (!tournamentId) {
   console.error("Missing ESPN_TOURNAMENT_ID. Set it in .env.local or pass --tournament-id=<id>.");
@@ -39,13 +43,18 @@ if (rows.length === 0) {
 }
 
 const golfersByCode = new Map(db.golfers.map((golfer) => [golfer.code, golfer]));
-const golfersByName = new Map(db.golfers.map((golfer) => [normalizeName(golfer.name), golfer]));
+const golfersByName = new Map();
+for (const golfer of db.golfers) {
+  golfersByName.set(normalizeName(golfer.name), golfer);
+}
 const unmapped = [];
 const playerScores = [];
 
 for (const row of rows) {
+  const normalizedRowName = row.name ? normalizeName(row.name) : undefined;
   const golfer = (row.code ? golfersByCode.get(row.code) : undefined)
-    ?? (row.name ? golfersByName.get(normalizeName(row.name)) : undefined);
+    ?? (normalizedRowName ? golfersByName.get(normalizedRowName) : undefined)
+    ?? (normalizedRowName ? golfersByName.get(espnNameAliases.get(normalizedRowName)) : undefined);
 
   if (!golfer) {
     unmapped.push(row);
@@ -143,6 +152,10 @@ function getArgValue(flag) {
 
 function normalizeName(value) {
   return value
+    .replace(/\s*\([^)]*\)\s*/g, " ")
+    .replace(/[øØ]/g, "o")
+    .replace(/[æÆ]/g, "ae")
+    .replace(/[åÅ]/g, "a")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase()
