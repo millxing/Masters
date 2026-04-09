@@ -62,7 +62,7 @@ export const payoutLines = [
   "Final Score: 50.0% of pot",
   "Unbroken ties split the pot equally.",
   "",
-  "$65 entry. All proceeds distributed to winners.",
+  "$75 entry. All proceeds distributed to winners.",
   "",
   "All payments, distributions made via Venmo (@robschoen)."
 ];

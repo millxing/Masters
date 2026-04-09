@@ -20,7 +20,7 @@ function buildDefaultTournament(): Tournament {
     name: "Masters Pool",
     year: 2026,
     lockTimeIso: config.defaultLockTimeIso,
-    entryFee: 65,
+    entryFee: 75,
     payoutPercentages: {
       round1: 12.5,
       round2: 12.5,
