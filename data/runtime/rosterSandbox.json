@@ -1,0 +1,993 @@
+{
+  "tournament": {
+    "id": "masters-pool",
+    "name": "Masters Pool",
+    "year": 2026,
+    "lockTimeIso": "2026-04-09T15:00:00.000Z",
+    "entryFee": 65,
+    "payoutPercentages": {
+      "round1": 12.5,
+      "round2": 12.5,
+      "round3": 12.5,
+      "round4": 12.5,
+      "final": 50
+    },
+    "viewerPasscode": "green-jacket",
+    "updatedAt": "2026-04-06T01:39:22Z"
+  },
+  "golfers": [
+    {
+      "code": "1",
+      "name": "Scottie Scheffler",
+      "odds": 410,
+      "probability": 0.1407,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "2",
+      "name": "Jon Rahm",
+      "odds": 850,
+      "probability": 0.0756,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "3",
+      "name": "Rory McIlroy",
+      "odds": 1025,
+      "probability": 0.0638,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "4",
+      "name": "Bryson DeChambeau",
+      "odds": 1100,
+      "probability": 0.0598,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "5",
+      "name": "Ludvig Aberg",
+      "odds": 1750,
+      "probability": 0.0388,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "6",
+      "name": "Xander Schauffele",
+      "odds": 1850,
+      "probability": 0.0368,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "7",
+      "name": "Cameron Young",
+      "odds": 2400,
+      "probability": 0.0287,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "8",
+      "name": "Tommy Fleetwood",
+      "odds": 2500,
+      "probability": 0.0276,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "9",
+      "name": "Matt Fitzpatrick",
+      "odds": 2600,
+      "probability": 0.0266,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "10",
+      "name": "Collin Morikawa",
+      "odds": 3100,
+      "probability": 0.0224,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "11",
+      "name": "Justin Rose",
+      "odds": 3600,
+      "probability": 0.0194,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "12",
+      "name": "Jordan Spieth",
+      "odds": 3800,
+      "probability": 0.0184,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "13",
+      "name": "Brooks Koepka",
+      "odds": 3800,
+      "probability": 0.0184,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "14",
+      "name": "Hideki Matsuyama",
+      "odds": 3900,
+      "probability": 0.0179,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "15",
+      "name": "Robert MacIntyre",
+      "odds": 4000,
+      "probability": 0.0175,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "16",
+      "name": "Russell Henley",
+      "odds": 4200,
+      "probability": 0.0167,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "17",
+      "name": "Chris Gotterup",
+      "odds": 4300,
+      "probability": 0.0163,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "18",
+      "name": "Patrick Reed",
+      "odds": 4500,
+      "probability": 0.0156,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "19",
+      "name": "Viktor Hovland",
+      "odds": 4600,
+      "probability": 0.0153,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "20",
+      "name": "Si Woo Kim",
+      "odds": 4700,
+      "probability": 0.015,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "21",
+      "name": "Min Woo Lee",
+      "odds": 5400,
+      "probability": 0.013,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "22",
+      "name": "Justin Thomas",
+      "odds": 5500,
+      "probability": 0.0128,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "23",
+      "name": "Patrick Cantlay",
+      "odds": 5700,
+      "probability": 0.0124,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "24",
+      "name": "Adam Scott",
+      "odds": 6200,
+      "probability": 0.0114,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "25",
+      "name": "Akshay Bhatia",
+      "odds": 6600,
+      "probability": 0.0107,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "26",
+      "name": "Sepp Straka",
+      "odds": 6700,
+      "probability": 0.0106,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "27",
+      "name": "Jason Day",
+      "odds": 6900,
+      "probability": 0.0102,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "28",
+      "name": "Jake Knapp",
+      "odds": 6900,
+      "probability": 0.0102,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "29",
+      "name": "Tyrrell Hatton",
+      "odds": 6900,
+      "probability": 0.0102,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "30",
+      "name": "Shane Lowry",
+      "odds": 7000,
+      "probability": 0.0101,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "31",
+      "name": "Sam Burns",
+      "odds": 7200,
+      "probability": 0.0098,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "32",
+      "name": "Corey Conners",
+      "odds": 8200,
+      "probability": 0.0086,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "33",
+      "name": "Nicolai Hojgaard",
+      "odds": 8400,
+      "probability": 0.0084,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "34",
+      "name": "Kurt Kitayama",
+      "odds": 8800,
+      "probability": 0.0081,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "35",
+      "name": "J.J. Spaun",
+      "odds": 8800,
+      "probability": 0.0081,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "36",
+      "name": "Jacob Bridgeman",
+      "odds": 9400,
+      "probability": 0.0076,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "37",
+      "name": "Maverick McNealy",
+      "odds": 9800,
+      "probability": 0.0072,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "38",
+      "name": "Cameron Smith",
+      "odds": 10000,
+      "probability": 0.0071,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "39",
+      "name": "Harris English",
+      "odds": 10500,
+      "probability": 0.0068,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "40",
+      "name": "Gary Woodland",
+      "odds": 11000,
+      "probability": 0.0065,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "41",
+      "name": "Ben Griffin",
+      "odds": 11000,
+      "probability": 0.0065,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "42",
+      "name": "Daniel Berger",
+      "odds": 11000,
+      "probability": 0.0065,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "43",
+      "name": "Max Homa",
+      "odds": 11500,
+      "probability": 0.0062,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "44",
+      "name": "Sung-Jae Im",
+      "odds": 12000,
+      "probability": 0.0059,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "45",
+      "name": "Rasmus Hojgaard",
+      "odds": 13000,
+      "probability": 0.0055,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "46",
+      "name": "Keegan Bradley",
+      "odds": 14000,
+      "probability": 0.0051,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "47",
+      "name": "Harry Hall",
+      "odds": 16000,
+      "probability": 0.0045,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "48",
+      "name": "Marco Penge",
+      "odds": 16000,
+      "probability": 0.0045,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "49",
+      "name": "Alex Noren",
+      "odds": 16500,
+      "probability": 0.0043,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "50",
+      "name": "Ryan Gerard",
+      "odds": 17000,
+      "probability": 0.0042,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "51",
+      "name": "Nick Taylor",
+      "odds": 19500,
+      "probability": 0.0037,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "52",
+      "name": "Aaron Rai",
+      "odds": 19500,
+      "probability": 0.0037,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "53",
+      "name": "Brian Harman",
+      "odds": 20000,
+      "probability": 0.0036,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "54",
+      "name": "Sam Stevens",
+      "odds": 21000,
+      "probability": 0.0034,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "55",
+      "name": "Sergio Garcia",
+      "odds": 22500,
+      "probability": 0.0032,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "56",
+      "name": "Ryan Fox",
+      "odds": 22500,
+      "probability": 0.0032,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "57",
+      "name": "Wyndham Clark",
+      "odds": 22500,
+      "probability": 0.0032,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "58",
+      "name": "Max Greyserman",
+      "odds": 23000,
+      "probability": 0.0031,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "59",
+      "name": "Dustin Johnson",
+      "odds": 24000,
+      "probability": 0.003,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "60",
+      "name": "Casey Jarvis",
+      "odds": 25000,
+      "probability": 0.0029,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "61",
+      "name": "Carlos Ortiz",
+      "odds": 26000,
+      "probability": 0.0027,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "62",
+      "name": "Haotong Li",
+      "odds": 28000,
+      "probability": 0.0025,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "63",
+      "name": "Tom McKibbin",
+      "odds": 28000,
+      "probability": 0.0025,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "64",
+      "name": "Nico Echavarria",
+      "odds": 31000,
+      "probability": 0.0023,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "65",
+      "name": "Kristoffer Reitan",
+      "odds": 31000,
+      "probability": 0.0023,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "66",
+      "name": "Rasmus Neergaard-Petersen",
+      "odds": 32500,
+      "probability": 0.0022,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "67",
+      "name": "John Keefer",
+      "odds": 34000,
+      "probability": 0.0021,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "68",
+      "name": "Michael Kim",
+      "odds": 35000,
+      "probability": 0.002,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "69",
+      "name": "Andrew Novak",
+      "odds": 40000,
+      "probability": 0.0018,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "70",
+      "name": "Aldrich Potgieter",
+      "odds": 41000,
+      "probability": 0.0017,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "71",
+      "name": "Michael Brennan",
+      "odds": 43000,
+      "probability": 0.0017,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "72",
+      "name": "Sami Valimaki",
+      "odds": 52500,
+      "probability": 0.0014,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "73",
+      "name": "Davis Riley",
+      "odds": 60000,
+      "probability": 0.0012,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "74",
+      "name": "Charl Schwartzel",
+      "odds": 60000,
+      "probability": 0.0012,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "75",
+      "name": "Bubba Watson",
+      "odds": 60000,
+      "probability": 0.0012,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "76",
+      "name": "Zach Johnson",
+      "odds": 60000,
+      "probability": 0.0012,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "77",
+      "name": "Brian Campbell",
+      "odds": 250000,
+      "probability": 0.0003,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "78",
+      "name": "Ethan Fang",
+      "odds": 250000,
+      "probability": 0.0003,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "79",
+      "name": "Danny Willett",
+      "odds": 250000,
+      "probability": 0.0003,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "80",
+      "name": "Pongsapak Laopakdee",
+      "odds": 400000,
+      "probability": 0.0002,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "81",
+      "name": "Vijay Singh",
+      "odds": 450000,
+      "probability": 0.0002,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "82",
+      "name": "Mason Howell",
+      "odds": 450000,
+      "probability": 0.0002,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "83",
+      "name": "Mateo Pulcini",
+      "odds": 450000,
+      "probability": 0.0002,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "84",
+      "name": "Jackson Herrington",
+      "odds": 450000,
+      "probability": 0.0002,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "85",
+      "name": "Angel Cabrera",
+      "odds": 450000,
+      "probability": 0.0002,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "86",
+      "name": "Naoyuki Kataoka",
+      "odds": 450000,
+      "probability": 0.0002,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "87",
+      "name": "Brandon Holtz",
+      "odds": 500000,
+      "probability": 0.0001,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "88",
+      "name": "Mike Weir",
+      "odds": 500000,
+      "probability": 0.0001,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "89",
+      "name": "Fred Couples",
+      "odds": 500000,
+      "probability": 0.0001,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    },
+    {
+      "code": "90",
+      "name": "Jose Maria Olazabal",
+      "odds": 500000,
+      "probability": 0.0001,
+      "isActive": true,
+      "createdAt": "2026-04-06T01:39:22Z",
+      "updatedAt": "2026-04-06T01:39:22Z"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "submission_88b3f38f0e4b49649d53f014b4a6168f",
+      "tournamentId": "masters-pool",
+      "participantName": "AAA",
+      "email": "AAA@yahoo.com",
+      "venmoHandle": null,
+      "teamName": "111",
+      "picks": [
+        "2",
+        "6",
+        "17",
+        "25",
+        "28"
+      ],
+      "probabilityTotal": 0.1496,
+      "paymentStatus": "pending",
+      "editTokenHash": "94144580e2b497d048a098b660dea9e2e96d75b596965ec9231a997a20ce5e3e",
+      "createdAt": "2026-04-06T01:43:53.507Z",
+      "updatedAt": "2026-04-06T01:43:53.507Z",
+      "lockedAt": null,
+      "editCode": "tree"
+    },
+    {
+      "id": "submission_78ea23af92c24116919ea06869867e8c",
+      "tournamentId": "masters-pool",
+      "participantName": "AAA",
+      "email": "AAA@yahoo.com",
+      "venmoHandle": null,
+      "teamName": "111",
+      "picks": [
+        "5",
+        "15",
+        "24",
+        "29",
+        "32",
+        "8",
+        "20"
+      ],
+      "probabilityTotal": 0.1291,
+      "paymentStatus": "pending",
+      "editCode": "port",
+      "createdAt": "2026-04-06T12:00:07.919Z",
+      "updatedAt": "2026-04-06T12:00:07.919Z",
+      "lockedAt": null
+    },
+    {
+      "id": "submission_7b40c5c5acac4899b00a426caa114332",
+      "tournamentId": "masters-pool",
+      "participantName": "AAA",
+      "email": "AAA@yahoo.com",
+      "venmoHandle": null,
+      "teamName": "111",
+      "picks": [
+        "5",
+        "15",
+        "24",
+        "29",
+        "32",
+        "8",
+        "20"
+      ],
+      "probabilityTotal": 0.1291,
+      "paymentStatus": "pending",
+      "editCode": "nova",
+      "createdAt": "2026-04-06T12:00:29.463Z",
+      "updatedAt": "2026-04-06T12:00:29.463Z",
+      "lockedAt": null
+    },
+    {
+      "id": "submission_98ec4db376f1461eaf3bc2ea7842b729",
+      "tournamentId": "masters-pool",
+      "participantName": "AAA",
+      "email": "AAA@yahoo.com",
+      "venmoHandle": null,
+      "teamName": "111",
+      "picks": [
+        "5",
+        "15",
+        "24",
+        "29",
+        "32",
+        "8",
+        "20"
+      ],
+      "probabilityTotal": 0.1291,
+      "paymentStatus": "pending",
+      "editCode": "wren",
+      "createdAt": "2026-04-06T12:00:29.774Z",
+      "updatedAt": "2026-04-06T12:00:29.774Z",
+      "lockedAt": null
+    },
+    {
+      "id": "submission_ccd141f6094c401daabeb2313c0abf2e",
+      "tournamentId": "masters-pool",
+      "participantName": "AAA",
+      "email": "AAA@yahoo.com",
+      "venmoHandle": null,
+      "teamName": "111",
+      "picks": [
+        "5",
+        "15",
+        "24",
+        "29",
+        "32",
+        "8",
+        "20"
+      ],
+      "probabilityTotal": 0.1291,
+      "paymentStatus": "pending",
+      "editCode": "envy",
+      "createdAt": "2026-04-06T12:00:30.453Z",
+      "updatedAt": "2026-04-06T12:00:30.453Z",
+      "lockedAt": null
+    },
+    {
+      "id": "submission_6a6ddc77a0354d458ad397bce5bceb2d",
+      "tournamentId": "masters-pool",
+      "participantName": "BBBB",
+      "email": "BBBB@yahoo.com",
+      "venmoHandle": null,
+      "teamName": "222",
+      "picks": [
+        "6",
+        "7",
+        "9",
+        "19",
+        "24",
+        "25"
+      ],
+      "probabilityTotal": 0.1295,
+      "paymentStatus": "pending",
+      "editCode": "glad",
+      "createdAt": "2026-04-06T12:10:44.895Z",
+      "updatedAt": "2026-04-06T12:10:44.895Z",
+      "lockedAt": null
+    },
+    {
+      "id": "submission_cae1b46aac964a98a8424f50b32bce9c",
+      "tournamentId": "masters-pool",
+      "participantName": "BBBB",
+      "email": "BBBB@yahoo.com",
+      "venmoHandle": null,
+      "teamName": "222",
+      "picks": [
+        "6",
+        "7",
+        "9",
+        "19",
+        "24",
+        "25"
+      ],
+      "probabilityTotal": 0.1295,
+      "paymentStatus": "pending",
+      "editCode": "dahl",
+      "createdAt": "2026-04-06T12:10:53.729Z",
+      "updatedAt": "2026-04-06T12:10:53.729Z",
+      "lockedAt": null
+    }
+  ],
+  "scoreSnapshots": [],
+  "playerScores": [],
+  "derivedTeamStandings": []
+}

@@ -1,0 +1,1628 @@
+[
+  {
+    "sourceFile": "MastersPool2026_AlphaInAugusta.xlsx",
+    "teamName": "Alpha in Augusta",
+    "participantName": "Brett Risser",
+    "picks": [
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "11",
+        "name": "Justin Rose",
+        "probability": 0.0198
+      },
+      {
+        "code": "14",
+        "name": "Hideki Matsuyama",
+        "probability": 0.0183
+      },
+      {
+        "code": "16",
+        "name": "Jordan Spieth",
+        "probability": 0.0162
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "25",
+        "name": "Adam Scott",
+        "probability": 0.0115
+      },
+      {
+        "code": "26",
+        "name": "Jason Day",
+        "probability": 0.0105
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1475
+  },
+  {
+    "sourceFile": "MastersPool2026_AmenCorner.xlsx",
+    "teamName": "Amen Corner",
+    "participantName": "Shep Perkins",
+    "picks": [
+      {
+        "code": "5",
+        "name": "Ludvig Aberg",
+        "probability": 0.0396
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "15",
+        "name": "Chris Gotterup",
+        "probability": 0.0166
+      },
+      {
+        "code": "22",
+        "name": "Justin Thomas",
+        "probability": 0.013
+      },
+      {
+        "code": "23",
+        "name": "Patrick Cantlay",
+        "probability": 0.0125
+      },
+      {
+        "code": "33",
+        "name": "Corey Conners",
+        "probability": 0.0088
+      }
+    ],
+    "pickCount": 7,
+    "probabilityTotal": 0.1476
+  },
+  {
+    "sourceFile": "MastersPool2026_BGold.xlsx",
+    "teamName": "BGold",
+    "participantName": "Brett Goldstein",
+    "picks": [
+      {
+        "code": "5",
+        "name": "Ludvig Aberg",
+        "probability": 0.0396
+      },
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      }
+    ],
+    "pickCount": 5,
+    "probabilityTotal": 0.1494
+  },
+  {
+    "sourceFile": "MastersPool2026_BeTheBall.xlsx",
+    "teamName": "Be the ball, Danny",
+    "participantName": "James Wands",
+    "picks": [
+      {
+        "code": "3",
+        "name": "Rory McIlroy",
+        "probability": 0.0607
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "19",
+        "name": "Viktor Hovland",
+        "probability": 0.0155
+      }
+    ],
+    "pickCount": 5,
+    "probabilityTotal": 0.1491
+  },
+  {
+    "sourceFile": "MastersPool2026_CaptainBirdies.xlsx",
+    "teamName": "Captain Birdies",
+    "participantName": "Kathryn Michalewicz",
+    "picks": [
+      {
+        "code": "21",
+        "name": "Min Woo Lee",
+        "probability": 0.0132
+      },
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "15",
+        "name": "Chris Gotterup",
+        "probability": 0.0166
+      },
+      {
+        "code": "22",
+        "name": "Justin Thomas",
+        "probability": 0.013
+      },
+      {
+        "code": "11",
+        "name": "Justin Rose",
+        "probability": 0.0198
+      },
+      {
+        "code": "23",
+        "name": "Patrick Cantlay",
+        "probability": 0.0125
+      },
+      {
+        "code": "30",
+        "name": "Sam Burns",
+        "probability": 0.01
+      },
+      {
+        "code": "13",
+        "name": "Brooks Koepka",
+        "probability": 0.0188
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1414
+  },
+  {
+    "sourceFile": "MastersPool2026_FirmAndFurious.xlsx",
+    "teamName": "Firm & Furious",
+    "participantName": "Zachary Williams",
+    "picks": [
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "10",
+        "name": "Collin Morikawa",
+        "probability": 0.0223
+      },
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "14",
+        "name": "Hideki Matsuyama",
+        "probability": 0.0183
+      },
+      {
+        "code": "18",
+        "name": "Si Woo Kim",
+        "probability": 0.0155
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "33",
+        "name": "Corey Conners",
+        "probability": 0.0088
+      },
+      {
+        "code": "34",
+        "name": "Nicolai Hojgaard",
+        "probability": 0.0086
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1447
+  },
+  {
+    "sourceFile": "MastersPool2026_ForeRight.xlsx",
+    "teamName": "Fore Right!",
+    "participantName": "Jacob Norris",
+    "picks": [
+      {
+        "code": "4",
+        "name": "Bryson DeChambeau",
+        "probability": 0.0607
+      },
+      {
+        "code": "4",
+        "name": "Bryson DeChambeau",
+        "probability": 0.0607
+      },
+      {
+        "code": "24",
+        "name": "Akshay Bhatia",
+        "probability": 0.0123
+      },
+      {
+        "code": "24",
+        "name": "Akshay Bhatia",
+        "probability": 0.0123
+      },
+      {
+        "code": "51",
+        "name": "Nick Taylor",
+        "probability": 0.0039
+      }
+    ],
+    "pickCount": 5,
+    "probabilityTotal": 0.1499
+  },
+  {
+    "sourceFile": "MastersPool2026_Foreign Landslide.xlsx",
+    "teamName": "Foreign Landslide",
+    "participantName": "Tucker Donahoe",
+    "picks": [
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "33",
+        "name": "Corey Conners",
+        "probability": 0.0088
+      }
+    ],
+    "pickCount": 7,
+    "probabilityTotal": 0.1492
+  },
+  {
+    "sourceFile": "MastersPool2026_GetADriverTiger.xlsx",
+    "teamName": "GetTigerADriver",
+    "participantName": "Dennis Follmer",
+    "picks": [
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "32",
+        "name": "Sepp Straka",
+        "probability": 0.0095
+      }
+    ],
+    "pickCount": 6,
+    "probabilityTotal": 0.1499
+  },
+  {
+    "sourceFile": "MastersPool2026_GoldJacketGreenJacket.xlsx",
+    "teamName": "Gold jacket, green jacket",
+    "participantName": "Jon Schreiber",
+    "picks": [
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "14",
+        "name": "Hideki Matsuyama",
+        "probability": 0.0183
+      },
+      {
+        "code": "14",
+        "name": "Hideki Matsuyama",
+        "probability": 0.0183
+      },
+      {
+        "code": "14",
+        "name": "Hideki Matsuyama",
+        "probability": 0.0183
+      },
+      {
+        "code": "14",
+        "name": "Hideki Matsuyama",
+        "probability": 0.0183
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1484
+  },
+  {
+    "sourceFile": "MastersPool2026_GrassyBoys.xlsx",
+    "teamName": "Grassy Boys",
+    "participantName": "Robbie Donahoe",
+    "picks": [
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "13",
+        "name": "Brooks Koepka",
+        "probability": 0.0188
+      },
+      {
+        "code": "13",
+        "name": "Brooks Koepka",
+        "probability": 0.0188
+      },
+      {
+        "code": "13",
+        "name": "Brooks Koepka",
+        "probability": 0.0188
+      },
+      {
+        "code": "24",
+        "name": "Akshay Bhatia",
+        "probability": 0.0123
+      },
+      {
+        "code": "24",
+        "name": "Akshay Bhatia",
+        "probability": 0.0123
+      },
+      {
+        "code": "24",
+        "name": "Akshay Bhatia",
+        "probability": 0.0123
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1481
+  },
+  {
+    "sourceFile": "MastersPool2026_GreenMachine.xlsx",
+    "teamName": "Green Machine",
+    "participantName": "Laura Green",
+    "picks": [
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "13",
+        "name": "Brooks Koepka",
+        "probability": 0.0188
+      },
+      {
+        "code": "22",
+        "name": "Justin Thomas",
+        "probability": 0.013
+      },
+      {
+        "code": "19",
+        "name": "Viktor Hovland",
+        "probability": 0.0155
+      },
+      {
+        "code": "80",
+        "name": "Danny Willett",
+        "probability": 0.0003
+      }
+    ],
+    "pickCount": 7,
+    "probabilityTotal": 0.15
+  },
+  {
+    "sourceFile": "MastersPool2026_HelloFriends.xlsx",
+    "teamName": "Hello Friends",
+    "participantName": "Norm Boucher",
+    "picks": [
+      {
+        "code": "2",
+        "name": "Jon Rahm",
+        "probability": 0.0706
+      },
+      {
+        "code": "5",
+        "name": "Ludvig Aberg",
+        "probability": 0.0396
+      },
+      {
+        "code": "14",
+        "name": "Hideki Matsuyama",
+        "probability": 0.0183
+      },
+      {
+        "code": "16",
+        "name": "Jordan Spieth",
+        "probability": 0.0162
+      },
+      {
+        "code": "46",
+        "name": "Keegan Bradley",
+        "probability": 0.0052
+      }
+    ],
+    "pickCount": 5,
+    "probabilityTotal": 0.1499
+  },
+  {
+    "sourceFile": "MastersPool2026_KangarooTookMyBall.xlsx",
+    "teamName": "KangarooTookMyBall",
+    "participantName": "Chris Floyd",
+    "picks": [
+      {
+        "code": "5",
+        "name": "Ludvig Aberg",
+        "probability": 0.0396
+      },
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "33",
+        "name": "Corey Conners",
+        "probability": 0.0088
+      }
+    ],
+    "pickCount": 5,
+    "probabilityTotal": 0.1413
+  },
+  {
+    "sourceFile": "MastersPool2026_LaPlant.xlsx",
+    "teamName": "LaPlant",
+    "participantName": "Matthew LaPlant",
+    "picks": [
+      {
+        "code": "2",
+        "name": "Jon Rahm",
+        "probability": 0.0706
+      },
+      {
+        "code": "2",
+        "name": "Jon Rahm",
+        "probability": 0.0706
+      },
+      {
+        "code": "33",
+        "name": "Corey Conners",
+        "probability": 0.0088
+      }
+    ],
+    "pickCount": 3,
+    "probabilityTotal": 0.15
+  },
+  {
+    "sourceFile": "MastersPool2026_LaffertyDaniel.xlsx",
+    "teamName": "Lafferty, Daniel",
+    "participantName": "Brad McLaughlin",
+    "picks": [
+      {
+        "code": "2",
+        "name": "Jon Rahm",
+        "probability": 0.0706
+      },
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "25",
+        "name": "Adam Scott",
+        "probability": 0.0115
+      },
+      {
+        "code": "66",
+        "name": "Nico Echavarria",
+        "probability": 0.0024
+      },
+      {
+        "code": "90",
+        "name": "Fred Couples",
+        "probability": 0.0001
+      },
+      {
+        "code": "90",
+        "name": "Fred Couples",
+        "probability": 0.0001
+      },
+      {
+        "code": "86",
+        "name": "Jackson Herrington",
+        "probability": 0.0002
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1498
+  },
+  {
+    "sourceFile": "MastersPool2026_LordOfTheSwings.xlsx",
+    "teamName": "Lord of the swings",
+    "participantName": "Tom Nelson",
+    "picks": [
+      {
+        "code": "5",
+        "name": "Ludvig Aberg",
+        "probability": 0.0396
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "10",
+        "name": "Collin Morikawa",
+        "probability": 0.0223
+      },
+      {
+        "code": "11",
+        "name": "Justin Rose",
+        "probability": 0.0198
+      },
+      {
+        "code": "11",
+        "name": "Justin Rose",
+        "probability": 0.0198
+      },
+      {
+        "code": "34",
+        "name": "Nicolai Hojgaard",
+        "probability": 0.0086
+      },
+      {
+        "code": "36",
+        "name": "Jacob Bridgeman",
+        "probability": 0.0077
+      },
+      {
+        "code": "55",
+        "name": "Ryan Fox",
+        "probability": 0.0034
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1486
+  },
+  {
+    "sourceFile": "MastersPool2026_MakeItMine.xlsx",
+    "teamName": "Make it Min(e)",
+    "participantName": "Bill Kohli",
+    "picks": [
+      {
+        "code": "21",
+        "name": "Min Woo Lee",
+        "probability": 0.0132
+      },
+      {
+        "code": "21",
+        "name": "Min Woo Lee",
+        "probability": 0.0132
+      },
+      {
+        "code": "21",
+        "name": "Min Woo Lee",
+        "probability": 0.0132
+      },
+      {
+        "code": "5",
+        "name": "Ludvig Aberg",
+        "probability": 0.0396
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "19",
+        "name": "Viktor Hovland",
+        "probability": 0.0155
+      }
+    ],
+    "pickCount": 7,
+    "probabilityTotal": 0.1495
+  },
+  {
+    "sourceFile": "MastersPool2026_MastersChoices.xlsx",
+    "teamName": "Masters Choices",
+    "participantName": "Brett Litz",
+    "picks": [
+      {
+        "code": "3",
+        "name": "Rory McIlroy",
+        "probability": 0.0607
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "59",
+        "name": "Max Greyserman",
+        "probability": 0.0032
+      }
+    ],
+    "pickCount": 5,
+    "probabilityTotal": 0.1484
+  },
+  {
+    "sourceFile": "MastersPool2026_McIl-RoyaleWCheese.xlsx",
+    "teamName": "McIl-Royale with Cheese",
+    "participantName": "Atlas Salm",
+    "picks": [
+      {
+        "code": "2",
+        "name": "Jon Rahm",
+        "probability": 0.0706
+      },
+      {
+        "code": "3",
+        "name": "Rory McIlroy",
+        "probability": 0.0607
+      },
+      {
+        "code": "14",
+        "name": "Hideki Matsuyama",
+        "probability": 0.0183
+      }
+    ],
+    "pickCount": 3,
+    "probabilityTotal": 0.1496
+  },
+  {
+    "sourceFile": "MastersPool2026_MinnesotaMiracle.xlsx",
+    "teamName": "Minnesota Miracle",
+    "participantName": "Thad Williams",
+    "picks": [
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "14",
+        "name": "Hideki Matsuyama",
+        "probability": 0.0183
+      },
+      {
+        "code": "14",
+        "name": "Hideki Matsuyama",
+        "probability": 0.0183
+      },
+      {
+        "code": "34",
+        "name": "Nicolai Hojgaard",
+        "probability": 0.0086
+      },
+      {
+        "code": "66",
+        "name": "Nico Echavarria",
+        "probability": 0.0024
+      }
+    ],
+    "pickCount": 7,
+    "probabilityTotal": 0.15
+  },
+  {
+    "sourceFile": "MastersPool2026_NoMoreGnomes.xlsx",
+    "teamName": "No More Gnomes",
+    "participantName": "Jason Vaillancourt",
+    "picks": [
+      {
+        "code": "5",
+        "name": "Ludvig Aberg",
+        "probability": 0.0396
+      },
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "18",
+        "name": "Si Woo Kim",
+        "probability": 0.0155
+      }
+    ],
+    "pickCount": 5,
+    "probabilityTotal": 0.1497
+  },
+  {
+    "sourceFile": "MastersPool2026_PimentoCheesePlease.xlsx",
+    "teamName": "Pimento Cheese Please",
+    "participantName": "Scott Sipple",
+    "picks": [
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "15",
+        "name": "Chris Gotterup",
+        "probability": 0.0166
+      },
+      {
+        "code": "18",
+        "name": "Si Woo Kim",
+        "probability": 0.0155
+      },
+      {
+        "code": "30",
+        "name": "Sam Burns",
+        "probability": 0.01
+      },
+      {
+        "code": "40",
+        "name": "Gary Woodland",
+        "probability": 0.0067
+      },
+      {
+        "code": "47",
+        "name": "Marco Penge",
+        "probability": 0.0051
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1485
+  },
+  {
+    "sourceFile": "MastersPool2026_PlayLikeADefendingChampionToday.xlsx",
+    "teamName": "Play Like a Defending Champion Today",
+    "participantName": "Jim Fetch",
+    "picks": [
+      {
+        "code": "5",
+        "name": "Ludvig Aberg",
+        "probability": 0.0396
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "11",
+        "name": "Justin Rose",
+        "probability": 0.0198
+      },
+      {
+        "code": "31",
+        "name": "J.J. Spaun",
+        "probability": 0.0098
+      },
+      {
+        "code": "33",
+        "name": "Corey Conners",
+        "probability": 0.0088
+      },
+      {
+        "code": "36",
+        "name": "Jacob Bridgeman",
+        "probability": 0.0077
+      },
+      {
+        "code": "38",
+        "name": "Cameron Smith",
+        "probability": 0.0072
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.15
+  },
+  {
+    "sourceFile": "MastersPool2026_President.xlsx",
+    "teamName": "I was just talking to the President",
+    "participantName": "Rob Schoen",
+    "picks": [
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "18",
+        "name": "Si Woo Kim",
+        "probability": 0.0155
+      },
+      {
+        "code": "20",
+        "name": "Russell Henley",
+        "probability": 0.0149
+      },
+      {
+        "code": "20",
+        "name": "Russell Henley",
+        "probability": 0.0149
+      },
+      {
+        "code": "28",
+        "name": "Jake Knapp",
+        "probability": 0.0103
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1486
+  },
+  {
+    "sourceFile": "MastersPool2026_ProperLuncher.xlsx",
+    "teamName": "TheProperLuncher",
+    "participantName": "Charles Ouellet",
+    "picks": [
+      {
+        "code": "1",
+        "name": "Scottie Scheffler",
+        "probability": 0.1321
+      },
+      {
+        "code": "33",
+        "name": "Corey Conners",
+        "probability": 0.0088
+      },
+      {
+        "code": "34",
+        "name": "Nicolai Hojgaard",
+        "probability": 0.0086
+      },
+      {
+        "code": "81",
+        "name": "Angel Cabrera",
+        "probability": 0.0002
+      },
+      {
+        "code": "84",
+        "name": "Vijay Singh",
+        "probability": 0.0002
+      },
+      {
+        "code": "90",
+        "name": "Fred Couples",
+        "probability": 0.0001
+      }
+    ],
+    "pickCount": 6,
+    "probabilityTotal": 0.15
+  },
+  {
+    "sourceFile": "MastersPool2026_RahmRahmThankYouMaam.xlsx",
+    "teamName": "Rahm Rahm Thank You Ma'am",
+    "participantName": "Mike Salm",
+    "picks": [
+      {
+        "code": "2",
+        "name": "Jon Rahm",
+        "probability": 0.0706
+      },
+      {
+        "code": "2",
+        "name": "Jon Rahm",
+        "probability": 0.0706
+      },
+      {
+        "code": "33",
+        "name": "Corey Conners",
+        "probability": 0.0088
+      }
+    ],
+    "pickCount": 3,
+    "probabilityTotal": 0.15
+  },
+  {
+    "sourceFile": "MastersPool2026_RedFigures.xlsx",
+    "teamName": "Red-Figures",
+    "participantName": "Jeff Weishaar",
+    "picks": [
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "31",
+        "name": "J.J. Spaun",
+        "probability": 0.0098
+      },
+      {
+        "code": "26",
+        "name": "Jason Day",
+        "probability": 0.0105
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1499
+  },
+  {
+    "sourceFile": "MastersPool2026_RoseBeforeHos.xlsx",
+    "teamName": "Rose Before Hos",
+    "participantName": "Adrian Chan",
+    "picks": [
+      {
+        "code": "11",
+        "name": "Justin Rose",
+        "probability": 0.0198
+      },
+      {
+        "code": "11",
+        "name": "Justin Rose",
+        "probability": 0.0198
+      },
+      {
+        "code": "11",
+        "name": "Justin Rose",
+        "probability": 0.0198
+      },
+      {
+        "code": "10",
+        "name": "Collin Morikawa",
+        "probability": 0.0223
+      },
+      {
+        "code": "10",
+        "name": "Collin Morikawa",
+        "probability": 0.0223
+      },
+      {
+        "code": "10",
+        "name": "Collin Morikawa",
+        "probability": 0.0223
+      },
+      {
+        "code": "21",
+        "name": "Min Woo Lee",
+        "probability": 0.0132
+      },
+      {
+        "code": "28",
+        "name": "Jake Knapp",
+        "probability": 0.0103
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1498
+  },
+  {
+    "sourceFile": "MastersPool2026_RyderCupRockstars.xlsx",
+    "teamName": "Ryder Cup Rockstars",
+    "participantName": "Paul Castergine",
+    "picks": [
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "34",
+        "name": "Nicolai Hojgaard",
+        "probability": 0.0086
+      },
+      {
+        "code": "11",
+        "name": "Justin Rose",
+        "probability": 0.0198
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "58",
+        "name": "Michael Kim",
+        "probability": 0.0032
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1471
+  },
+  {
+    "sourceFile": "MastersPool2026_SlapCut.xlsx",
+    "teamName": "Slap Cut",
+    "participantName": "Charles Ouellet",
+    "picks": [
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "11",
+        "name": "Justin Rose",
+        "probability": 0.0198
+      },
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "15",
+        "name": "Chris Gotterup",
+        "probability": 0.0166
+      },
+      {
+        "code": "36",
+        "name": "Jacob Bridgeman",
+        "probability": 0.0077
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1493
+  },
+  {
+    "sourceFile": "MastersPool2026_SnapperSoup.xlsx",
+    "teamName": "Snapper Soup",
+    "participantName": "Charles Ouellet",
+    "picks": [
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "5",
+        "name": "Ludvig Aberg",
+        "probability": 0.0396
+      },
+      {
+        "code": "5",
+        "name": "Ludvig Aberg",
+        "probability": 0.0396
+      },
+      {
+        "code": "24",
+        "name": "Akshay Bhatia",
+        "probability": 0.0123
+      },
+      {
+        "code": "81",
+        "name": "Angel Cabrera",
+        "probability": 0.0002
+      },
+      {
+        "code": "90",
+        "name": "Fred Couples",
+        "probability": 0.0001
+      }
+    ],
+    "pickCount": 7,
+    "probabilityTotal": 0.15
+  },
+  {
+    "sourceFile": "MastersPool2026_TaxFreeMan.xlsx",
+    "teamName": "Tax (free) Man",
+    "participantName": "Paul Drury",
+    "picks": [
+      {
+        "code": "4",
+        "name": "Bryson DeChambeau",
+        "probability": 0.0607
+      },
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "15",
+        "name": "Chris Gotterup",
+        "probability": 0.0166
+      },
+      {
+        "code": "36",
+        "name": "Jacob Bridgeman",
+        "probability": 0.0077
+      }
+    ],
+    "pickCount": 5,
+    "probabilityTotal": 0.1499
+  },
+  {
+    "sourceFile": "MastersPool2026_TerribleSlouches.xlsx",
+    "teamName": "Terrible Slouches",
+    "participantName": "Caroline Stone",
+    "picks": [
+      {
+        "code": "4",
+        "name": "Bryson DeChambeau",
+        "probability": 0.0607
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "24",
+        "name": "Akshay Bhatia",
+        "probability": 0.0123
+      }
+    ],
+    "pickCount": 6,
+    "probabilityTotal": 0.1495
+  },
+  {
+    "sourceFile": "MastersPool2026_TheWedgies.xlsx",
+    "teamName": "The Wedgies",
+    "participantName": "Kim Arney",
+    "picks": [
+      {
+        "code": "11",
+        "name": "Justin Rose",
+        "probability": 0.0198
+      },
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "6",
+        "name": "Xander Schauffele",
+        "probability": 0.0375
+      },
+      {
+        "code": "17",
+        "name": "Patrick Reed",
+        "probability": 0.0158
+      },
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "14",
+        "name": "Hideki Matsuyama",
+        "probability": 0.0183
+      },
+      {
+        "code": "68",
+        "name": "Andrew Novak",
+        "probability": 0.0023
+      }
+    ],
+    "pickCount": 7,
+    "probabilityTotal": 0.15
+  },
+  {
+    "sourceFile": "MastersPool2026_TheYoungFleet.xlsx",
+    "teamName": "The Young Fleet",
+    "participantName": "Seamus Young",
+    "picks": [
+      {
+        "code": "5",
+        "name": "Ludvig Aberg",
+        "probability": 0.0396
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "8",
+        "name": "Tommy Fleetwood",
+        "probability": 0.028
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "26",
+        "name": "Jason Day",
+        "probability": 0.0105
+      },
+      {
+        "code": "33",
+        "name": "Corey Conners",
+        "probability": 0.0088
+      },
+      {
+        "code": "43",
+        "name": "Sung-Jae Im",
+        "probability": 0.0061
+      }
+    ],
+    "pickCount": 7,
+    "probabilityTotal": 0.1495
+  },
+  {
+    "sourceFile": "MastersPool2026_TremendousSlouch.xlsx",
+    "teamName": "Tremendous Slouch",
+    "participantName": "Daniel Lahrman",
+    "picks": [
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "41",
+        "name": "Daniel Berger",
+        "probability": 0.0067
+      },
+      {
+        "code": "28",
+        "name": "Jake Knapp",
+        "probability": 0.0103
+      },
+      {
+        "code": "28",
+        "name": "Jake Knapp",
+        "probability": 0.0103
+      },
+      {
+        "code": "33",
+        "name": "Corey Conners",
+        "probability": 0.0088
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      }
+    ],
+    "pickCount": 8,
+    "probabilityTotal": 0.1491
+  },
+  {
+    "sourceFile": "MastersPool2026_YoullGetNothingAndLikeIt.xlsx",
+    "teamName": "You'll get nothing and like it!!!",
+    "participantName": "Michael Wands",
+    "picks": [
+      {
+        "code": "4",
+        "name": "Bryson DeChambeau",
+        "probability": 0.0607
+      },
+      {
+        "code": "7",
+        "name": "Cameron Young",
+        "probability": 0.0291
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "23",
+        "name": "Patrick Cantlay",
+        "probability": 0.0125
+      }
+    ],
+    "pickCount": 5,
+    "probabilityTotal": 0.1485
+  },
+  {
+    "sourceFile": "MastersPool2026_Mulligan$$$.xlsx",
+    "teamName": "Mulligans$$$$$$",
+    "participantName": "Andy Mullins",
+    "picks": [
+      {
+        "code": "2",
+        "name": "Jon Rahm",
+        "probability": 0.0706
+      },
+      {
+        "code": "11",
+        "name": "Justin Rose",
+        "probability": 0.0198
+      },
+      {
+        "code": "9",
+        "name": "Matt Fitzpatrick",
+        "probability": 0.0274
+      },
+      {
+        "code": "12",
+        "name": "Robert MacIntyre",
+        "probability": 0.0188
+      },
+      {
+        "code": "34",
+        "name": "Nicolai Hojgaard",
+        "probability": 0.0086
+      },
+      {
+        "code": "51",
+        "name": "Nick Taylor",
+        "probability": 0.0039
+      },
+      {
+        "code": "85",
+        "name": "Mateo Pulcini",
+        "probability": 0.0002
+      }
+    ],
+    "pickCount": 7,
+    "probabilityTotal": 0.1493
+  }
+]

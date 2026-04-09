@@ -1,0 +1,36 @@
+{
+  "name": "masters-pool",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "dev:2025": "MASTERS_MODE=replay2025 next dev",
+    "dev:roster": "MASTERS_MODE=rosterSandbox next dev",
+    "dev:leaderboard": "MASTERS_MODE=leaderboardSandbox next dev",
+    "dev:live": "MASTERS_MODE=live next dev",
+    "build": "next build",
+    "build:static": "STATIC_EXPORT=1 next build",
+    "start": "next start",
+    "typecheck": "node scripts/typecheck.mjs",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@fontsource-variable/montserrat": "^5.2.8",
+    "@supabase/supabase-js": "^2.52.1",
+    "cheerio": "^1.1.2",
+    "next": "^15.3.1",
+    "papaparse": "^5.5.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "zod": "^3.25.17"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "@types/papaparse": "^5.3.16",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "jsdom": "^26.1.0",
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
+  }
+}

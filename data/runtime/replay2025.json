@@ -1,0 +1,6266 @@
+{
+  "tournament": {
+    "id": "masters-pool",
+    "name": "Masters Pool",
+    "year": 2025,
+    "lockTimeIso": "2099-04-10T11:00:00.000Z",
+    "entryFee": 65,
+    "payoutPercentages": {
+      "round1": 12.5,
+      "round2": 12.5,
+      "round3": 12.5,
+      "round4": 12.5,
+      "final": 50
+    },
+    "viewerPasscode": "secret",
+    "updatedAt": "2026-04-03T23:46:50.780Z"
+  },
+  "golfers": [
+    {
+      "code": "1",
+      "name": "Scottie Scheffler",
+      "odds": 450,
+      "probability": 0.13067831365301757,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "2",
+      "name": "Rory McIlroy",
+      "odds": 650,
+      "probability": 0.09583076334554622,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "3",
+      "name": "Jon Rahm",
+      "odds": 1400,
+      "probability": 0.04791538167277311,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "4",
+      "name": "Ludvig Aberg",
+      "odds": 1600,
+      "probability": 0.04227827794656451,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "5",
+      "name": "Collin Morikawa",
+      "odds": 1600,
+      "probability": 0.04227827794656451,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "6",
+      "name": "Xander Schauffele",
+      "odds": 1800,
+      "probability": 0.037827932899557715,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "7",
+      "name": "Bryson DeChambeau",
+      "odds": 2000,
+      "probability": 0.03422527262340936,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "8",
+      "name": "Justin Thomas",
+      "odds": 2200,
+      "probability": 0.0312491619605042,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "9",
+      "name": "Joaquin Niemann",
+      "odds": 2800,
+      "probability": 0.02478381810660678,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "10",
+      "name": "Hideki Matsuyama",
+      "odds": 2800,
+      "probability": 0.02478381810660678,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "11",
+      "name": "Brooks Koepka",
+      "odds": 3000,
+      "probability": 0.023184862099728924,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "12",
+      "name": "Jordan Spieth",
+      "odds": 3300,
+      "probability": 0.021139138973282255,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "13",
+      "name": "Tommy Fleetwood",
+      "odds": 3500,
+      "probability": 0.01996474236365546,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "14",
+      "name": "Shane Lowry",
+      "odds": 3500,
+      "probability": 0.01996474236365546,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "15",
+      "name": "Viktor Hovland",
+      "odds": 3500,
+      "probability": 0.01996474236365546,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "16",
+      "name": "Patrick Cantlay",
+      "odds": 3500,
+      "probability": 0.01996474236365546,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "17",
+      "name": "Tyrrell Hatton",
+      "odds": 4000,
+      "probability": 0.017530017685160895,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "18",
+      "name": "Russell Henley",
+      "odds": 5000,
+      "probability": 0.014092759315521503,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "19",
+      "name": "Robert MacIntyre",
+      "odds": 5500,
+      "probability": 0.01283447723377851,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "20",
+      "name": "Min Woo Lee",
+      "odds": 5500,
+      "probability": 0.01283447723377851,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "21",
+      "name": "Will Zalatoris",
+      "odds": 5500,
+      "probability": 0.01283447723377851,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "22",
+      "name": "Cameron Smith",
+      "odds": 6000,
+      "probability": 0.01178247090314093,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "23",
+      "name": "Akshay Bhatia",
+      "odds": 6500,
+      "probability": 0.010889859471084798,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "24",
+      "name": "Corey Conners",
+      "odds": 6500,
+      "probability": 0.010889859471084798,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "25",
+      "name": "Tony Finau",
+      "odds": 7500,
+      "probability": 0.009456983224889429,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "26",
+      "name": "Jason Day",
+      "odds": 8000,
+      "probability": 0.008873218828291316,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "27",
+      "name": "Wyndham Clark",
+      "odds": 8000,
+      "probability": 0.008873218828291316,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "28",
+      "name": "Sepp Straka",
+      "odds": 8000,
+      "probability": 0.008873218828291316,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "29",
+      "name": "Dustin Johnson",
+      "odds": 8000,
+      "probability": 0.008873218828291316,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "30",
+      "name": "Sergio Garcia",
+      "odds": 8000,
+      "probability": 0.008873218828291316,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "31",
+      "name": "Patrick Reed",
+      "odds": 8000,
+      "probability": 0.008873218828291316,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "32",
+      "name": "Sahith Theegala",
+      "odds": 9000,
+      "probability": 0.007898139836171393,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "33",
+      "name": "Keegan Bradley",
+      "odds": 11000,
+      "probability": 0.006475051577401771,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "34",
+      "name": "Tom Kim",
+      "odds": 11000,
+      "probability": 0.006475051577401771,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "35",
+      "name": "Justin Rose",
+      "odds": 11000,
+      "probability": 0.006475051577401771,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "36",
+      "name": "Sungjae Im",
+      "odds": 11000,
+      "probability": 0.006475051577401771,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "37",
+      "name": "Daniel Berger",
+      "odds": 11000,
+      "probability": 0.006475051577401771,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "38",
+      "name": "Brian Harman",
+      "odds": 11000,
+      "probability": 0.006475051577401771,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "39",
+      "name": "Matt Fitzpatrick",
+      "odds": 12000,
+      "probability": 0.005939923347864435,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "40",
+      "name": "Adam Scott",
+      "odds": 12000,
+      "probability": 0.005939923347864435,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "41",
+      "name": "J. J. Spaun",
+      "odds": 12000,
+      "probability": 0.005939923347864435,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "42",
+      "name": "Sam Burns",
+      "odds": 12000,
+      "probability": 0.005939923347864435,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "43",
+      "name": "Davis Thompson",
+      "odds": 12000,
+      "probability": 0.005939923347864435,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "44",
+      "name": "Phil Mickelson",
+      "odds": 12000,
+      "probability": 0.005939923347864435,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "45",
+      "name": "Billy Horschel",
+      "odds": 15000,
+      "probability": 0.004759806126434415,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "46",
+      "name": "Taylor Pendrith",
+      "odds": 15000,
+      "probability": 0.004759806126434415,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "47",
+      "name": "Byeong Hun An",
+      "odds": 15000,
+      "probability": 0.004759806126434415,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "48",
+      "name": "Aaron Rai",
+      "odds": 15000,
+      "probability": 0.004759806126434415,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "49",
+      "name": "Denny McCarthy",
+      "odds": 15000,
+      "probability": 0.004759806126434415,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "50",
+      "name": "Maverick McNealy",
+      "odds": 15000,
+      "probability": 0.004759806126434415,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "51",
+      "name": "Lucas Glover",
+      "odds": 17000,
+      "probability": 0.004203103655506413,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "52",
+      "name": "Thomas Detry",
+      "odds": 17000,
+      "probability": 0.004203103655506413,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "53",
+      "name": "Michael Kim",
+      "odds": 17000,
+      "probability": 0.004203103655506413,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "54",
+      "name": "Cameron Young",
+      "odds": 17000,
+      "probability": 0.004203103655506413,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "55",
+      "name": "Nicolai Højgaard",
+      "odds": 20000,
+      "probability": 0.0035757747516994855,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "56",
+      "name": "Rasmus Højgaard",
+      "odds": 20000,
+      "probability": 0.0035757747516994855,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "57",
+      "name": "J.T. Poston",
+      "odds": 22000,
+      "probability": 0.0032521752266588084,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "58",
+      "name": "Harris English",
+      "odds": 22000,
+      "probability": 0.0032521752266588084,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "59",
+      "name": "Laurie Canter",
+      "odds": 22000,
+      "probability": 0.0032521752266588084,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "60",
+      "name": "Max Homa",
+      "odds": 25000,
+      "probability": 0.002863469024269309,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "61",
+      "name": "Stephan Jaeger",
+      "odds": 27000,
+      "probability": 0.0026521428970169617,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "62",
+      "name": "Nick Taylor",
+      "odds": 27000,
+      "probability": 0.0026521428970169617,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "63",
+      "name": "Nicolas Echavarria",
+      "odds": 30000,
+      "probability": 0.002387809717912281,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "64",
+      "name": "Christiaan Bezuidenhout",
+      "odds": 30000,
+      "probability": 0.002387809717912281,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "65",
+      "name": "Joe Highsmith",
+      "odds": 30000,
+      "probability": 0.002387809717912281,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "66",
+      "name": "Charl Schwartzel",
+      "odds": 30000,
+      "probability": 0.002387809717912281,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "67",
+      "name": "Cameron Davis",
+      "odds": 30000,
+      "probability": 0.002387809717912281,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "68",
+      "name": "Max Greyserman",
+      "odds": 30000,
+      "probability": 0.002387809717912281,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "69",
+      "name": "Kevin Yu",
+      "odds": 30000,
+      "probability": 0.002387809717912281,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "70",
+      "name": "Austin Eckroat",
+      "odds": 35000,
+      "probability": 0.0020476658834518422,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "71",
+      "name": "Tom Hoge",
+      "odds": 35000,
+      "probability": 0.0020476658834518422,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "72",
+      "name": "Chris Kirk",
+      "odds": 35000,
+      "probability": 0.0020476658834518422,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "73",
+      "name": "Nick Dunlap",
+      "odds": 40000,
+      "probability": 0.0017923459478593432,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "74",
+      "name": "Davis Riley",
+      "odds": 50000,
+      "probability": 0.0014345922656518893,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "75",
+      "name": "Matt Mccarty",
+      "odds": 50000,
+      "probability": 0.0014345922656518893,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "76",
+      "name": "Jhonattan Vegas",
+      "odds": 50000,
+      "probability": 0.0014345922656518893,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "77",
+      "name": "Matthieu Pavon",
+      "odds": 50000,
+      "probability": 0.0014345922656518893,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "78",
+      "name": "Bubba Watson",
+      "odds": 50000,
+      "probability": 0.0014345922656518893,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "79",
+      "name": "Adam Schenk",
+      "odds": 75000,
+      "probability": 0.000957031591333684,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "80",
+      "name": "Thriston Lawrence",
+      "odds": 75000,
+      "probability": 0.000957031591333684,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "81",
+      "name": "Danny Willett",
+      "odds": 75000,
+      "probability": 0.000957031591333684,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "82",
+      "name": "Brian Campbell",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "83",
+      "name": "Angel Cabrera",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "84",
+      "name": "Evan Beck",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "85",
+      "name": "Rafael Campos",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "86",
+      "name": "Hiroshi Tai",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "87",
+      "name": "Justin Hastings",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "88",
+      "name": "Bernhard Langer",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "89",
+      "name": "Noah Kent",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "90",
+      "name": "Fred Couples",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "91",
+      "name": "Mike Weir",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "92",
+      "name": "Patton Kizzire",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "93",
+      "name": "Jose Maria Olazábal",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "94",
+      "name": "Jose Luis Ballester",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    },
+    {
+      "code": "95",
+      "name": "Zach Johnson",
+      "odds": 100000,
+      "probability": 0.0007180127123792174,
+      "isActive": true,
+      "createdAt": "2025-04-01T12:00:00.000Z",
+      "updatedAt": "2025-04-01T12:00:00.000Z"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "submission_001",
+      "tournamentId": "masters-pool",
+      "participantName": "Paul Castergine",
+      "email": "mock-1@example.com",
+      "venmoHandle": null,
+      "teamName": "Just when I thought I was out, they pull me back in",
+      "picks": [
+        "4",
+        "11",
+        "13",
+        "16",
+        "30",
+        "30",
+        "12",
+        "54"
+      ],
+      "probabilityTotal": 0.14848130505897567,
+      "paymentStatus": "pending",
+      "editTokenHash": "1e5e9584e4e33054f6b42845313f413941ef0f25676b3d91a7c646b326f53629",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_002",
+      "tournamentId": "masters-pool",
+      "participantName": "Nick Hooten",
+      "email": "mock-2@example.com",
+      "venmoHandle": null,
+      "teamName": "Subpar Effort",
+      "picks": [
+        "6",
+        "6",
+        "11",
+        "11",
+        "25",
+        "25",
+        "54",
+        "50"
+      ],
+      "probabilityTotal": 0.14990246623029296,
+      "paymentStatus": "pending",
+      "editTokenHash": "fef74ea0626dd2acbd6a844eb5c7ab9558cbe55155f88d5e8ccea66575cc30b6",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_003",
+      "tournamentId": "masters-pool",
+      "participantName": "Thad Williams",
+      "email": "mock-3@example.com",
+      "venmoHandle": null,
+      "teamName": "Minnesota Miracle",
+      "picks": [
+        "5",
+        "10",
+        "10",
+        "11",
+        "19",
+        "21",
+        "44",
+        "59"
+      ],
+      "probabilityTotal": 0.14989182930158726,
+      "paymentStatus": "pending",
+      "editTokenHash": "019931d41b95b77a8b5a773b943a0a8d5972a3258112345debd7035252fe1691",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_004",
+      "tournamentId": "masters-pool",
+      "participantName": "Dan Riordan",
+      "email": "mock-4@example.com",
+      "venmoHandle": null,
+      "teamName": "Play the fade",
+      "picks": [
+        "4",
+        "8",
+        "10",
+        "18",
+        "23",
+        "23",
+        "24",
+        "51"
+      ],
+      "probabilityTotal": 0.1492766993979578,
+      "paymentStatus": "pending",
+      "editTokenHash": "daa0b8d485125cf41e44ace364e7cd5ded695c34a43f28b24337acb498407a67",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_005",
+      "tournamentId": "masters-pool",
+      "participantName": "Rob Schoen",
+      "email": "mock-5@example.com",
+      "venmoHandle": null,
+      "teamName": "I Need A Pain Sponge",
+      "picks": [
+        "8",
+        "8",
+        "14",
+        "18",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "probabilityTotal": 0.14915201661704242,
+      "paymentStatus": "pending",
+      "editTokenHash": "2e7c8d41436b6ed355f9994d292978f05c64c635c3ff6686cf3144bab48c9c4a",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_006",
+      "tournamentId": "masters-pool",
+      "participantName": "Dan Lahrman",
+      "email": "mock-6@example.com",
+      "venmoHandle": null,
+      "teamName": "Fire Nico",
+      "picks": [
+        "15",
+        "15",
+        "12",
+        "12",
+        "10",
+        "10",
+        "26",
+        "26"
+      ],
+      "probabilityTotal": 0.14952183654367163,
+      "paymentStatus": "pending",
+      "editTokenHash": "0d7d047490c6463459d5dffd27bcc9a11d3f9962fcb18421e2de19a77e676f1b",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_007",
+      "tournamentId": "masters-pool",
+      "participantName": "Jon Schreiber",
+      "email": "mock-7@example.com",
+      "venmoHandle": null,
+      "teamName": "Gold Jacket, Green Jacket…",
+      "picks": [
+        "5",
+        "5",
+        "5",
+        "31",
+        "50",
+        "54",
+        "61",
+        "68"
+      ],
+      "probabilityTotal": 0.14971091506485493,
+      "paymentStatus": "pending",
+      "editTokenHash": "5363e7f21bb0112f606061b84f8f68af6135550a16707e72a30e976670d8a0d9",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_008",
+      "tournamentId": "masters-pool",
+      "participantName": "Matt LaPlant",
+      "email": "mock-8@example.com",
+      "venmoHandle": null,
+      "teamName": "LaPlant",
+      "picks": [
+        "6",
+        "6",
+        "7",
+        "14",
+        "24",
+        "28"
+      ],
+      "probabilityTotal": 0.14960895908555635,
+      "paymentStatus": "pending",
+      "editTokenHash": "13b9c674d2ef82ad2bb782d5940ced6e281242d51259f305a51c60a8eddde636",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_009",
+      "tournamentId": "masters-pool",
+      "participantName": "Adrian Chan",
+      "email": "mock-9@example.com",
+      "venmoHandle": null,
+      "teamName": "Henley and the Double Eagles",
+      "picks": [
+        "5",
+        "5",
+        "18",
+        "19",
+        "19",
+        "21",
+        "21"
+      ],
+      "probabilityTotal": 0.14998722414376456,
+      "paymentStatus": "pending",
+      "editTokenHash": "a2fd807c1b1898dde0b973af6053df49962cc0c43d380d7b49cd9a14d385bce0",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_010",
+      "tournamentId": "masters-pool",
+      "participantName": "Kathryn Michalewicz",
+      "email": "mock-10@example.com",
+      "venmoHandle": null,
+      "teamName": "The Long Irons",
+      "picks": [
+        "2",
+        "13",
+        "15",
+        "20",
+        "77"
+      ],
+      "probabilityTotal": 0.15002931757228755,
+      "paymentStatus": "pending",
+      "editTokenHash": "c17080ab512c21562a0379291f77eb81b4305859113b85195f6486911ce4d94e",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_011",
+      "tournamentId": "masters-pool",
+      "participantName": "James Fetch",
+      "email": "mock-11@example.com",
+      "venmoHandle": null,
+      "teamName": "Every day in Moving Day",
+      "picks": [
+        "3",
+        "7",
+        "11",
+        "12",
+        "31",
+        "35",
+        "55",
+        "58"
+      ],
+      "probabilityTotal": 0.14864087575324503,
+      "paymentStatus": "pending",
+      "editTokenHash": "1b3d02354c518fa6eb2ce1cb97a2490c501144078222757a596030eac818036a",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_012",
+      "tournamentId": "masters-pool",
+      "participantName": "Brad McLaughlin",
+      "email": "mock-12@example.com",
+      "venmoHandle": null,
+      "teamName": "Lafferty, Daniel",
+      "picks": [
+        "4",
+        "5",
+        "15",
+        "7",
+        "25",
+        "73"
+      ],
+      "probabilityTotal": 0.1499959000529426,
+      "paymentStatus": "pending",
+      "editTokenHash": "3281d82f9b1eb3c44fcff9b4f6f96db78b6607b31526ced69fe9c4e7287ff315",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_013",
+      "tournamentId": "masters-pool",
+      "participantName": "Robbie Donahoe",
+      "email": "mock-13@example.com",
+      "venmoHandle": null,
+      "teamName": "Five Dollars Guaranteed",
+      "picks": [
+        "9",
+        "9",
+        "9",
+        "23",
+        "23",
+        "23",
+        "5"
+      ],
+      "probabilityTotal": 0.14929931067963925,
+      "paymentStatus": "pending",
+      "editTokenHash": "3d44abdd077ba429cf301d63213d48f1ef0f524f87348403305a2d00b5a96cc0",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_014",
+      "tournamentId": "masters-pool",
+      "participantName": "Tucker Donahoe",
+      "email": "mock-14@example.com",
+      "venmoHandle": null,
+      "teamName": "District Five",
+      "picks": [
+        "4",
+        "18",
+        "18",
+        "18",
+        "22",
+        "22",
+        "22",
+        "11"
+      ],
+      "probabilityTotal": 0.14308883070228073,
+      "paymentStatus": "pending",
+      "editTokenHash": "f28759d4d3736b118838da6b12bd34f9882c9b4626ede576f4d8b478be5eda32",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_015",
+      "tournamentId": "masters-pool",
+      "participantName": "Jacob Norris",
+      "email": "mock-15@example.com",
+      "venmoHandle": null,
+      "teamName": "Ludvig Levered 2x Daily",
+      "picks": [
+        "4",
+        "4",
+        "18",
+        "18",
+        "15",
+        "31",
+        "51",
+        "51"
+      ],
+      "probabilityTotal": 0.14998624302713162,
+      "paymentStatus": "pending",
+      "editTokenHash": "e19cb71b471918b3457dc8c3dd4fb8a1034b85b56a2b50940e6f0431264da246",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_016",
+      "tournamentId": "masters-pool",
+      "participantName": "Brett Goldstein",
+      "email": "mock-16@example.com",
+      "venmoHandle": null,
+      "teamName": "All in on Collin",
+      "picks": [
+        "5",
+        "5",
+        "5",
+        "14",
+        "60"
+      ],
+      "probabilityTotal": 0.1496630452276183,
+      "paymentStatus": "pending",
+      "editTokenHash": "3234bb5534977c07032290b9ba4f23a5a58ace9b4c8035162ce4255938e731cc",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_017",
+      "tournamentId": "masters-pool",
+      "participantName": "Paul Drury",
+      "email": "mock-17@example.com",
+      "venmoHandle": null,
+      "teamName": "Munis never sleep",
+      "picks": [
+        "4",
+        "14",
+        "18",
+        "5",
+        "10",
+        "41"
+      ],
+      "probabilityTotal": 0.1493377990267772,
+      "paymentStatus": "pending",
+      "editTokenHash": "5e978a6f60af1d189a1de788481829619c4851e8d210d9d71894b50f813a1a6f",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_018",
+      "tournamentId": "masters-pool",
+      "participantName": "Chris Floyd",
+      "email": "mock-18@example.com",
+      "venmoHandle": null,
+      "teamName": "Kangaroo Took My Ball",
+      "picks": [
+        "5",
+        "7",
+        "6",
+        "14",
+        "21",
+        "62"
+      ],
+      "probabilityTotal": 0.14978284596398253,
+      "paymentStatus": "pending",
+      "editTokenHash": "10df33fe7ad7febb2f163c996c5ef7409970439e451944c6e3f5f1738582624b",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_019",
+      "tournamentId": "masters-pool",
+      "participantName": "Zach Williams",
+      "email": "mock-19@example.com",
+      "venmoHandle": null,
+      "teamName": "ZWill #2",
+      "picks": [
+        "2",
+        "20",
+        "20",
+        "23",
+        "23",
+        "35"
+      ],
+      "probabilityTotal": 0.1497544883326746,
+      "paymentStatus": "pending",
+      "editTokenHash": "bbaee38551b7892d86aaccfdbd1950659404e92c093cf79ca9b53dcae0aecd7c",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_020",
+      "tournamentId": "masters-pool",
+      "participantName": "Zach Williams",
+      "email": "mock-20@example.com",
+      "venmoHandle": null,
+      "teamName": "ZWill #1",
+      "picks": [
+        "5",
+        "5",
+        "5",
+        "14",
+        "60"
+      ],
+      "probabilityTotal": 0.1496630452276183,
+      "paymentStatus": "pending",
+      "editTokenHash": "b60e4f9acda1131757414a013f3c8d734c7a0fa96391836a765ac2c324944439",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_021",
+      "tournamentId": "masters-pool",
+      "participantName": "Caroline Stone",
+      "email": "mock-21@example.com",
+      "venmoHandle": null,
+      "teamName": "Looks good on you though!",
+      "picks": [
+        "4",
+        "5",
+        "14",
+        "20",
+        "22",
+        "35",
+        "44",
+        "44"
+      ],
+      "probabilityTotal": 0.14749314466683455,
+      "paymentStatus": "pending",
+      "editTokenHash": "82a21d7c6e0761274472f2716a71ae02d42bb0cfaa3ed0c4d754a6d215c7cf8f",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_022",
+      "tournamentId": "masters-pool",
+      "participantName": "Bill Kohli",
+      "email": "mock-22@example.com",
+      "venmoHandle": null,
+      "teamName": "Scattershot",
+      "picks": [
+        "5",
+        "10",
+        "14",
+        "16",
+        "20",
+        "24",
+        "25",
+        "26"
+      ],
+      "probabilityTotal": 0.14904611953852626,
+      "paymentStatus": "pending",
+      "editTokenHash": "9ab0bbe69ec9204af8219a0a6be14c7edc99155bbfee0f7f20e0ba7655b7d677",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_023",
+      "tournamentId": "masters-pool",
+      "participantName": "Charles Ouellett",
+      "email": "mock-23@example.com",
+      "venmoHandle": null,
+      "teamName": "TheProperLuncher",
+      "picks": [
+        "4",
+        "4",
+        "4",
+        "22",
+        "24"
+      ],
+      "probabilityTotal": 0.14950716421391927,
+      "paymentStatus": "pending",
+      "editTokenHash": "789a29dc3e5961b3b923f95284312aeaaeb63acb59c0db15e72e491872e6fe5b",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_024",
+      "tournamentId": "masters-pool",
+      "participantName": "Charles Ouellett",
+      "email": "mock-24@example.com",
+      "venmoHandle": null,
+      "teamName": "TheProperLuncher2",
+      "picks": [
+        "2",
+        "9",
+        "11",
+        "40"
+      ],
+      "probabilityTotal": 0.14973936689974635,
+      "paymentStatus": "pending",
+      "editTokenHash": "996cd218f8fab12af1da0563629c34e5dd6eff76246fae00aae80ebb3e088aa0",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_025",
+      "tournamentId": "masters-pool",
+      "participantName": "Jason Vaillancourt",
+      "email": "mock-25@example.com",
+      "venmoHandle": null,
+      "teamName": "Let Him Cook",
+      "picks": [
+        "6",
+        "8",
+        "18",
+        "20",
+        "5",
+        "33",
+        "45"
+      ],
+      "probabilityTotal": 0.14951746705976263,
+      "paymentStatus": "pending",
+      "editTokenHash": "4e01331158eecb5aa96cd38f30241e9be8e80bd98e41a1476d824363b1727bc3",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_026",
+      "tournamentId": "masters-pool",
+      "participantName": "Mike Wands",
+      "email": "mock-26@example.com",
+      "venmoHandle": null,
+      "teamName": "The Tremendous Slouches",
+      "picks": [
+        "3",
+        "4",
+        "10",
+        "11",
+        "22"
+      ],
+      "probabilityTotal": 0.14994481072881424,
+      "paymentStatus": "pending",
+      "editTokenHash": "39c2814eae57cc1d31f9a980f82c2d424e4779f1410a6b3cc3103f399ffacbc4",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_027",
+      "tournamentId": "masters-pool",
+      "participantName": "Jeff Silverman",
+      "email": "mock-27@example.com",
+      "venmoHandle": null,
+      "teamName": "Saving Silverman",
+      "picks": [
+        "38",
+        "38",
+        "14",
+        "2",
+        "20",
+        "38"
+      ],
+      "probabilityTotal": 0.1480551376751855,
+      "paymentStatus": "pending",
+      "editTokenHash": "9dc5cfb435aeb00a94ad6681f6c80ff52452548ed0f608871c3a1f0fc59d97e1",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_028",
+      "tournamentId": "masters-pool",
+      "participantName": "Dennis Follmer",
+      "email": "mock-28@example.com",
+      "venmoHandle": null,
+      "teamName": "Mo Knows Golf",
+      "picks": [
+        "5",
+        "5",
+        "7",
+        "16",
+        "28",
+        "77"
+      ],
+      "probabilityTotal": 0.14905438197413703,
+      "paymentStatus": "pending",
+      "editTokenHash": "afc70fdf7f7c18e48cfa22db9d617c529c5afa97c1523f70fce5f21ee66f0100",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_029",
+      "tournamentId": "masters-pool",
+      "participantName": "Andy Mullins",
+      "email": "mock-29@example.com",
+      "venmoHandle": null,
+      "teamName": "MullinsDoubles",
+      "picks": [
+        "7",
+        "7",
+        "9",
+        "9",
+        "19",
+        "19"
+      ],
+      "probabilityTotal": 0.1436871359275893,
+      "paymentStatus": "pending",
+      "editTokenHash": "942fe264011e0bf6ca95d526b521c86e23ebb91ce58a5ce27e03dde7c4915851",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_030",
+      "tournamentId": "masters-pool",
+      "participantName": "Kim Arney",
+      "email": "mock-30@example.com",
+      "venmoHandle": null,
+      "teamName": "Dilly Dilly",
+      "picks": [
+        "33",
+        "95",
+        "14",
+        "15",
+        "15",
+        "28",
+        "4",
+        "8"
+      ],
+      "probabilityTotal": 0.1494879501161074,
+      "paymentStatus": "pending",
+      "editTokenHash": "4a5e4d1b99fb41efd6561fe066613da5037bc6f0c7bca7252580dc89788fafbd",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_031",
+      "tournamentId": "masters-pool",
+      "participantName": "Norm Boucher",
+      "email": "mock-31@example.com",
+      "venmoHandle": null,
+      "teamName": "Hello Friends",
+      "picks": [
+        "5",
+        "6",
+        "11",
+        "12",
+        "10",
+        "82"
+      ],
+      "probabilityTotal": 0.14993204273811941,
+      "paymentStatus": "pending",
+      "editTokenHash": "106c75d2c511cf30268bcf0b8ce4581a52f012959f6accb157d74bc9737616d0",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_032",
+      "tournamentId": "masters-pool",
+      "participantName": "Shep Perkins",
+      "email": "mock-32@example.com",
+      "venmoHandle": null,
+      "teamName": "O.B.",
+      "picks": [
+        "5",
+        "15",
+        "18",
+        "28",
+        "32",
+        "47",
+        "5",
+        "28"
+      ],
+      "probabilityTotal": 0.14901844119149443,
+      "paymentStatus": "pending",
+      "editTokenHash": "2344c45621cbed25cc0e3039cac697f9d22928fbf20782d691ef4b932436383e",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_033",
+      "tournamentId": "masters-pool",
+      "participantName": "Tom Nelson",
+      "email": "mock-33@example.com",
+      "venmoHandle": null,
+      "teamName": "Ty Webb's illegitimate stepchild",
+      "picks": [
+        "4",
+        "4",
+        "35",
+        "31",
+        "8",
+        "41",
+        "78",
+        "25"
+      ],
+      "probabilityTotal": 0.14798548709773207,
+      "paymentStatus": "pending",
+      "editTokenHash": "a743c062ba7df2b0357a61e7dd253d0a9ef1ec429a3139656fe7f41710da2979",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_034",
+      "tournamentId": "masters-pool",
+      "participantName": "Brian Kelley",
+      "email": "mock-34@example.com",
+      "venmoHandle": null,
+      "teamName": "The Angry Leprechauns",
+      "picks": [
+        "3",
+        "20",
+        "26",
+        "6",
+        "25",
+        "15",
+        "32",
+        "45"
+      ],
+      "probabilityTotal": 0.14953068218555135,
+      "paymentStatus": "pending",
+      "editTokenHash": "6eb83a30c5566ea1e4fff8bc20b13c855a8925f48e978d54a4076475ea85c4be",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_035",
+      "tournamentId": "masters-pool",
+      "participantName": "Ryan Nemes",
+      "email": "mock-35@example.com",
+      "venmoHandle": null,
+      "teamName": "The Nemeinators",
+      "picks": [
+        "9",
+        "9",
+        "5",
+        "5",
+        "20",
+        "60"
+      ],
+      "probabilityTotal": 0.1498221383643904,
+      "paymentStatus": "pending",
+      "editTokenHash": "218c58274d001e13c4eaaae69e9c3668aead24201eb42786794c84f3c4bfef31",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_036",
+      "tournamentId": "masters-pool",
+      "participantName": "Scott Sipple",
+      "email": "mock-36@example.com",
+      "venmoHandle": null,
+      "teamName": "Often wrong but never in doubt",
+      "picks": [
+        "2",
+        "4",
+        "37",
+        "50"
+      ],
+      "probabilityTotal": 0.1493438989959469,
+      "paymentStatus": "pending",
+      "editTokenHash": "124826315bf149c22556f9c2de01b040d4dcd946eacf8114af494f44335bd533",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_037",
+      "tournamentId": "masters-pool",
+      "participantName": "Jeff Aaron",
+      "email": "mock-37@example.com",
+      "venmoHandle": null,
+      "teamName": "Fairway Ninjas",
+      "picks": [
+        "2",
+        "13",
+        "14",
+        "25",
+        "45"
+      ],
+      "probabilityTotal": 0.14997703742418098,
+      "paymentStatus": "pending",
+      "editTokenHash": "2727118f96e6490f40e73fb16cec54e186608aa910d8b4f290339575e9cff7a3",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_038",
+      "tournamentId": "masters-pool",
+      "participantName": "Laura Green",
+      "email": "mock-38@example.com",
+      "venmoHandle": null,
+      "teamName": "Green Machine",
+      "picks": [
+        "4",
+        "4",
+        "7",
+        "20",
+        "32",
+        "45",
+        "54",
+        "76"
+      ],
+      "probabilityTotal": 0.149911947634081,
+      "paymentStatus": "pending",
+      "editTokenHash": "0ea88d7c8959898cacde2efbcb47dc6f2c7f397d5b63d9671bc39b6ed2f022ae",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_039",
+      "tournamentId": "masters-pool",
+      "participantName": "Peter Sharpe",
+      "email": "mock-39@example.com",
+      "venmoHandle": null,
+      "teamName": "The Chipinskis",
+      "picks": [
+        "5",
+        "6",
+        "71",
+        "17",
+        "20",
+        "14",
+        "38",
+        "24"
+      ],
+      "probabilityTotal": 0.1498480250606555,
+      "paymentStatus": "pending",
+      "editTokenHash": "2b04f593be98835bdef1093e44156ca9557044aa842947ca706673ed7c075794",
+      "createdAt": "2025-04-09T12:00:00.000Z",
+      "updatedAt": "2025-04-09T12:00:00.000Z",
+      "lockedAt": "2025-04-10T14:55:00.000Z"
+    },
+    {
+      "id": "submission_da998cba71a64e23bc482f835602f408",
+      "tournamentId": "masters-pool",
+      "participantName": "Trebor Neohcs",
+      "email": "maps765@yahoo.com",
+      "venmoHandle": null,
+      "teamName": "Death Squad",
+      "picks": [
+        "3",
+        "21",
+        "10",
+        "20",
+        "33",
+        "10",
+        "13"
+      ],
+      "probabilityTotal": 0.149592,
+      "paymentStatus": "pending",
+      "editTokenHash": "afc688cc33374198d23910c7f77c44be6e57fb9b80c55f32797337b71f6dc881",
+      "createdAt": "2026-04-06T00:29:36.160Z",
+      "updatedAt": "2026-04-06T00:29:36.160Z",
+      "lockedAt": null
+    }
+  ],
+  "scoreSnapshots": [
+    {
+      "id": "snapshot_2025_masters_final",
+      "tournamentId": "masters-pool",
+      "source": "espn",
+      "importedAt": "2025-04-14T12:00:00.000Z",
+      "sourceLabel": "2025 ESPN Masters final leaderboard (mock import)",
+      "rawPayload": "[\n  {\n    \"golferCode\": \"2\",\n    \"golferName\": \"Rory McIlroy\",\n    \"status\": \"-11\",\n    \"rounds\": [\n      72,\n      66,\n      66,\n      73\n    ],\n    \"total\": 277\n  },\n  {\n    \"golferCode\": \"35\",\n    \"golferName\": \"Justin Rose\",\n    \"status\": \"-11\",\n    \"rounds\": [\n      65,\n      71,\n      75,\n      66\n    ],\n    \"total\": 277\n  },\n  {\n    \"golferCode\": \"31\",\n    \"golferName\": \"Patrick Reed\",\n    \"status\": \"-9\",\n    \"rounds\": [\n      71,\n      70,\n      69,\n      69\n    ],\n    \"total\": 279\n  },\n  {\n    \"golferCode\": \"1\",\n    \"golferName\": \"Scottie Scheffler\",\n    \"status\": \"-8\",\n    \"rounds\": [\n      68,\n      71,\n      72,\n      69\n    ],\n    \"total\": 280\n  },\n  {\n    \"golferCode\": \"36\",\n    \"golferName\": \"Sungjae Im\",\n    \"status\": \"-7\",\n    \"rounds\": [\n      71,\n      70,\n      71,\n      69\n    ],\n    \"total\": 281\n  },\n  {\n    \"golferCode\": \"7\",\n    \"golferName\": \"Bryson DeChambeau\",\n    \"status\": \"-7\",\n    \"rounds\": [\n      69,\n      68,\n      69,\n      75\n    ],\n    \"total\": 281\n  },\n  {\n    \"golferCode\": \"4\",\n    \"golferName\": \"Ludvig Aberg\",\n    \"status\": \"-6\",\n    \"rounds\": [\n      68,\n      73,\n      69,\n      72\n    ],\n    \"total\": 282\n  },\n  {\n    \"golferCode\": \"95\",\n    \"golferName\": \"Zach Johnson\",\n    \"status\": \"-5\",\n    \"rounds\": [\n      72,\n      74,\n      66,\n      71\n    ],\n    \"total\": 283\n  },\n  {\n    \"golferCode\": \"6\",\n    \"golferName\": \"Xander Schauffele\",\n    \"status\": \"-5\",\n    \"rounds\": [\n      73,\n      69,\n      70,\n      71\n    ],\n    \"total\": 283\n  },\n  {\n    \"golferCode\": \"26\",\n    \"golferName\": \"Jason Day\",\n    \"status\": \"-5\",\n    \"rounds\": [\n      70,\n      70,\n      71,\n      72\n    ],\n    \"total\": 283\n  },\n  {\n    \"golferCode\": \"24\",\n    \"golferName\": \"Corey Conners\",\n    \"status\": \"-5\",\n    \"rounds\": [\n      68,\n      70,\n      70,\n      75\n    ],\n    \"total\": 283\n  },\n  {\n    \"golferCode\": \"58\",\n    \"golferName\": \"Harris English\",\n    \"status\": \"-4\",\n    \"rounds\": [\n      70,\n      73,\n      73,\n      68\n    ],\n    \"total\": 284\n  },\n  {\n    \"golferCode\": \"60\",\n    \"golferName\": \"Max Homa\",\n    \"status\": \"-4\",\n    \"rounds\": [\n      74,\n      70,\n      69,\n      71\n    ],\n    \"total\": 284\n  },\n  {\n    \"golferCode\": \"78\",\n    \"golferName\": \"Bubba Watson\",\n    \"status\": \"-3\",\n    \"rounds\": [\n      71,\n      72,\n      74,\n      68\n    ],\n    \"total\": 285\n  },\n  {\n    \"golferCode\": \"3\",\n    \"golferName\": \"Jon Rahm\",\n    \"status\": \"-3\",\n    \"rounds\": [\n      75,\n      71,\n      70,\n      69\n    ],\n    \"total\": 285\n  },\n  {\n    \"golferCode\": \"12\",\n    \"golferName\": \"Jordan Spieth\",\n    \"status\": \"-3\",\n    \"rounds\": [\n      73,\n      73,\n      69,\n      70\n    ],\n    \"total\": 285\n  },\n  {\n    \"golferCode\": \"71\",\n    \"golferName\": \"Tom Hoge\",\n    \"status\": \"-3\",\n    \"rounds\": [\n      72,\n      72,\n      70,\n      71\n    ],\n    \"total\": 285\n  },\n  {\n    \"golferCode\": \"17\",\n    \"golferName\": \"Tyrrell Hatton\",\n    \"status\": \"-3\",\n    \"rounds\": [\n      69,\n      70,\n      75,\n      71\n    ],\n    \"total\": 285\n  },\n  {\n    \"golferCode\": \"75\",\n    \"golferName\": \"Matt Mccarty\",\n    \"status\": \"-3\",\n    \"rounds\": [\n      71,\n      68,\n      75,\n      71\n    ],\n    \"total\": 285\n  },\n  {\n    \"golferCode\": \"5\",\n    \"golferName\": \"Collin Morikawa\",\n    \"status\": \"-3\",\n    \"rounds\": [\n      72,\n      69,\n      72,\n      72\n    ],\n    \"total\": 285\n  },\n  {\n    \"golferCode\": \"10\",\n    \"golferName\": \"Hideki Matsuyama\",\n    \"status\": \"-2\",\n    \"rounds\": [\n      73,\n      68,\n      79,\n      66\n    ],\n    \"total\": 286\n  },\n  {\n    \"golferCode\": \"37\",\n    \"golferName\": \"Daniel Berger\",\n    \"status\": \"-2\",\n    \"rounds\": [\n      71,\n      73,\n      73,\n      69\n    ],\n    \"total\": 286\n  },\n  {\n    \"golferCode\": \"74\",\n    \"golferName\": \"Davis Riley\",\n    \"status\": \"-2\",\n    \"rounds\": [\n      73,\n      69,\n      75,\n      69\n    ],\n    \"total\": 286\n  },\n  {\n    \"golferCode\": \"13\",\n    \"golferName\": \"Tommy Fleetwood\",\n    \"status\": \"-2\",\n    \"rounds\": [\n      73,\n      69,\n      75,\n      69\n    ],\n    \"total\": 286\n  },\n  {\n    \"golferCode\": \"47\",\n    \"golferName\": \"Byeong Hun An\",\n    \"status\": \"-2\",\n    \"rounds\": [\n      74,\n      71,\n      70,\n      71\n    ],\n    \"total\": 286\n  },\n  {\n    \"golferCode\": \"15\",\n    \"golferName\": \"Viktor Hovland\",\n    \"status\": \"-2\",\n    \"rounds\": [\n      71,\n      69,\n      73,\n      73\n    ],\n    \"total\": 286\n  },\n  {\n    \"golferCode\": \"48\",\n    \"golferName\": \"Aaron Rai\",\n    \"status\": \"-1\",\n    \"rounds\": [\n      70,\n      74,\n      73,\n      70\n    ],\n    \"total\": 287\n  },\n  {\n    \"golferCode\": \"53\",\n    \"golferName\": \"Michael Kim\",\n    \"status\": \"-1\",\n    \"rounds\": [\n      71,\n      71,\n      74,\n      71\n    ],\n    \"total\": 287\n  },\n  {\n    \"golferCode\": \"49\",\n    \"golferName\": \"Denny McCarthy\",\n    \"status\": \"E\",\n    \"rounds\": [\n      71,\n      75,\n      71,\n      71\n    ],\n    \"total\": 288\n  },\n  {\n    \"golferCode\": \"32\",\n    \"golferName\": \"Sahith Theegala\",\n    \"status\": \"E\",\n    \"rounds\": [\n      72,\n      72,\n      73,\n      71\n    ],\n    \"total\": 288\n  },\n  {\n    \"golferCode\": \"9\",\n    \"golferName\": \"Joaquin Niemann\",\n    \"status\": \"E\",\n    \"rounds\": [\n      72,\n      74,\n      70,\n      72\n    ],\n    \"total\": 288\n  },\n  {\n    \"golferCode\": \"82\",\n    \"golferName\": \"Brian Campbell\",\n    \"status\": \"+1\",\n    \"rounds\": [\n      72,\n      73,\n      76,\n      68\n    ],\n    \"total\": 289\n  },\n  {\n    \"golferCode\": \"50\",\n    \"golferName\": \"Maverick McNealy\",\n    \"status\": \"+1\",\n    \"rounds\": [\n      72,\n      73,\n      71,\n      73\n    ],\n    \"total\": 289\n  },\n  {\n    \"golferCode\": \"68\",\n    \"golferName\": \"Max Greyserman\",\n    \"status\": \"+1\",\n    \"rounds\": [\n      71,\n      75,\n      69,\n      74\n    ],\n    \"total\": 289\n  },\n  {\n    \"golferCode\": \"56\",\n    \"golferName\": \"Rasmus Højgaard\",\n    \"status\": \"+1\",\n    \"rounds\": [\n      73,\n      67,\n      75,\n      74\n    ],\n    \"total\": 289\n  },\n  {\n    \"golferCode\": \"8\",\n    \"golferName\": \"Justin Thomas\",\n    \"status\": \"+2\",\n    \"rounds\": [\n      73,\n      71,\n      76,\n      70\n    ],\n    \"total\": 290\n  },\n  {\n    \"golferCode\": \"16\",\n    \"golferName\": \"Patrick Cantlay\",\n    \"status\": \"+2\",\n    \"rounds\": [\n      74,\n      72,\n      73,\n      71\n    ],\n    \"total\": 290\n  },\n  {\n    \"golferCode\": \"38\",\n    \"golferName\": \"Brian Harman\",\n    \"status\": \"+2\",\n    \"rounds\": [\n      71,\n      71,\n      77,\n      71\n    ],\n    \"total\": 290\n  },\n  {\n    \"golferCode\": \"66\",\n    \"golferName\": \"Charl Schwartzel\",\n    \"status\": \"+2\",\n    \"rounds\": [\n      74,\n      72,\n      72,\n      72\n    ],\n    \"total\": 290\n  },\n  {\n    \"golferCode\": \"62\",\n    \"golferName\": \"Nick Taylor\",\n    \"status\": \"+3\",\n    \"rounds\": [\n      73,\n      71,\n      74,\n      73\n    ],\n    \"total\": 291\n  },\n  {\n    \"golferCode\": \"39\",\n    \"golferName\": \"Matt Fitzpatrick\",\n    \"status\": \"+3\",\n    \"rounds\": [\n      71,\n      73,\n      74,\n      73\n    ],\n    \"total\": 291\n  },\n  {\n    \"golferCode\": \"23\",\n    \"golferName\": \"Akshay Bhatia\",\n    \"status\": \"+4\",\n    \"rounds\": [\n      70,\n      76,\n      75,\n      71\n    ],\n    \"total\": 292\n  },\n  {\n    \"golferCode\": \"81\",\n    \"golferName\": \"Danny Willett\",\n    \"status\": \"+4\",\n    \"rounds\": [\n      75,\n      71,\n      73,\n      73\n    ],\n    \"total\": 292\n  },\n  {\n    \"golferCode\": \"57\",\n    \"golferName\": \"J.T. Poston\",\n    \"status\": \"+4\",\n    \"rounds\": [\n      74,\n      72,\n      73,\n      73\n    ],\n    \"total\": 292\n  },\n  {\n    \"golferCode\": \"14\",\n    \"golferName\": \"Shane Lowry\",\n    \"status\": \"+4\",\n    \"rounds\": [\n      71,\n      68,\n      72,\n      81\n    ],\n    \"total\": 292\n  },\n  {\n    \"golferCode\": \"27\",\n    \"golferName\": \"Wyndham Clark\",\n    \"status\": \"+5\",\n    \"rounds\": [\n      76,\n      68,\n      75,\n      74\n    ],\n    \"total\": 293\n  },\n  {\n    \"golferCode\": \"42\",\n    \"golferName\": \"Sam Burns\",\n    \"status\": \"+5\",\n    \"rounds\": [\n      73,\n      70,\n      75,\n      75\n    ],\n    \"total\": 293\n  },\n  {\n    \"golferCode\": \"43\",\n    \"golferName\": \"Davis Thompson\",\n    \"status\": \"+5\",\n    \"rounds\": [\n      71,\n      73,\n      70,\n      79\n    ],\n    \"total\": 293\n  },\n  {\n    \"golferCode\": \"20\",\n    \"golferName\": \"Min Woo Lee\",\n    \"status\": \"+6\",\n    \"rounds\": [\n      71,\n      72,\n      77,\n      74\n    ],\n    \"total\": 294\n  },\n  {\n    \"golferCode\": \"41\",\n    \"golferName\": \"J. J. Spaun\",\n    \"status\": \"+7\",\n    \"rounds\": [\n      74,\n      72,\n      74,\n      75\n    ],\n    \"total\": 295\n  },\n  {\n    \"golferCode\": \"63\",\n    \"golferName\": \"Nicolas Echavarria\",\n    \"status\": \"+8\",\n    \"rounds\": [\n      73,\n      70,\n      69,\n      84\n    ],\n    \"total\": 296\n  },\n  {\n    \"golferCode\": \"61\",\n    \"golferName\": \"Stephan Jaeger\",\n    \"status\": \"+9\",\n    \"rounds\": [\n      72,\n      74,\n      73,\n      78\n    ],\n    \"total\": 297\n  },\n  {\n    \"golferCode\": \"34\",\n    \"golferName\": \"Tom Kim\",\n    \"status\": \"+9\",\n    \"rounds\": [\n      73,\n      73,\n      72,\n      79\n    ],\n    \"total\": 297\n  },\n  {\n    \"golferCode\": \"18\",\n    \"golferName\": \"Russell Henley\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      79,\n      68,\n      null,\n      null\n    ],\n    \"total\": 147\n  },\n  {\n    \"golferCode\": \"72\",\n    \"golferName\": \"Chris Kirk\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      75,\n      72,\n      null,\n      null\n    ],\n    \"total\": 147\n  },\n  {\n    \"golferCode\": \"29\",\n    \"golferName\": \"Dustin Johnson\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      74,\n      73,\n      null,\n      null\n    ],\n    \"total\": 147\n  },\n  {\n    \"golferCode\": \"88\",\n    \"golferName\": \"Bernhard Langer\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      74,\n      73,\n      null,\n      null\n    ],\n    \"total\": 147\n  },\n  {\n    \"golferCode\": \"33\",\n    \"golferName\": \"Keegan Bradley\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      74,\n      73,\n      null,\n      null\n    ],\n    \"total\": 147\n  },\n  {\n    \"golferCode\": \"87\",\n    \"golferName\": \"Justin Hastings\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      76,\n      72,\n      null,\n      null\n    ],\n    \"total\": 148\n  },\n  {\n    \"golferCode\": \"65\",\n    \"golferName\": \"Joe Highsmith\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      76,\n      72,\n      null,\n      null\n    ],\n    \"total\": 148\n  },\n  {\n    \"golferCode\": \"85\",\n    \"golferName\": \"Rafael Campos\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      75,\n      73,\n      null,\n      null\n    ],\n    \"total\": 148\n  },\n  {\n    \"golferCode\": \"91\",\n    \"golferName\": \"Mike Weir\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      75,\n      73,\n      null,\n      null\n    ],\n    \"total\": 148\n  },\n  {\n    \"golferCode\": \"25\",\n    \"golferName\": \"Tony Finau\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      75,\n      73,\n      null,\n      null\n    ],\n    \"total\": 148\n  },\n  {\n    \"golferCode\": \"79\",\n    \"golferName\": \"Adam Schenk\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      73,\n      75,\n      null,\n      null\n    ],\n    \"total\": 148\n  },\n  {\n    \"golferCode\": \"30\",\n    \"golferName\": \"Sergio Garcia\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      72,\n      76,\n      null,\n      null\n    ],\n    \"total\": 148\n  },\n  {\n    \"golferCode\": \"90\",\n    \"golferName\": \"Fred Couples\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      71,\n      77,\n      null,\n      null\n    ],\n    \"total\": 148\n  },\n  {\n    \"golferCode\": \"28\",\n    \"golferName\": \"Sepp Straka\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      78,\n      71,\n      null,\n      null\n    ],\n    \"total\": 149\n  },\n  {\n    \"golferCode\": \"40\",\n    \"golferName\": \"Adam Scott\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      77,\n      72,\n      null,\n      null\n    ],\n    \"total\": 149\n  },\n  {\n    \"golferCode\": \"45\",\n    \"golferName\": \"Billy Horschel\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      77,\n      72,\n      null,\n      null\n    ],\n    \"total\": 149\n  },\n  {\n    \"golferCode\": \"44\",\n    \"golferName\": \"Phil Mickelson\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      75,\n      74,\n      null,\n      null\n    ],\n    \"total\": 149\n  },\n  {\n    \"golferCode\": \"11\",\n    \"golferName\": \"Brooks Koepka\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      74,\n      75,\n      null,\n      null\n    ],\n    \"total\": 149\n  },\n  {\n    \"golferCode\": \"22\",\n    \"golferName\": \"Cameron Smith\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      71,\n      78,\n      null,\n      null\n    ],\n    \"total\": 149\n  },\n  {\n    \"golferCode\": \"70\",\n    \"golferName\": \"Austin Eckroat\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      76,\n      74,\n      null,\n      null\n    ],\n    \"total\": 150\n  },\n  {\n    \"golferCode\": \"55\",\n    \"golferName\": \"Nicolai Højgaard\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      76,\n      74,\n      null,\n      null\n    ],\n    \"total\": 150\n  },\n  {\n    \"golferCode\": \"69\",\n    \"golferName\": \"Kevin Yu\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      76,\n      74,\n      null,\n      null\n    ],\n    \"total\": 150\n  },\n  {\n    \"golferCode\": \"76\",\n    \"golferName\": \"Jhonattan Vegas\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      75,\n      75,\n      null,\n      null\n    ],\n    \"total\": 150\n  },\n  {\n    \"golferCode\": \"19\",\n    \"golferName\": \"Robert MacIntyre\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      75,\n      75,\n      null,\n      null\n    ],\n    \"total\": 150\n  },\n  {\n    \"golferCode\": \"86\",\n    \"golferName\": \"Hiroshi Tai\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      73,\n      77,\n      null,\n      null\n    ],\n    \"total\": 150\n  },\n  {\n    \"golferCode\": \"93\",\n    \"golferName\": \"Jose Maria Olazábal\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      77,\n      74,\n      null,\n      null\n    ],\n    \"total\": 151\n  },\n  {\n    \"golferCode\": \"64\",\n    \"golferName\": \"Christiaan Bezuidenhout\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      76,\n      75,\n      null,\n      null\n    ],\n    \"total\": 151\n  },\n  {\n    \"golferCode\": \"54\",\n    \"golferName\": \"Cameron Young\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      72,\n      79,\n      null,\n      null\n    ],\n    \"total\": 151\n  },\n  {\n    \"golferCode\": \"92\",\n    \"golferName\": \"Patton Kizzire\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      79,\n      73,\n      null,\n      null\n    ],\n    \"total\": 152\n  },\n  {\n    \"golferCode\": \"51\",\n    \"golferName\": \"Lucas Glover\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      78,\n      74,\n      null,\n      null\n    ],\n    \"total\": 152\n  },\n  {\n    \"golferCode\": \"46\",\n    \"golferName\": \"Taylor Pendrith\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      77,\n      75,\n      null,\n      null\n    ],\n    \"total\": 152\n  },\n  {\n    \"golferCode\": \"21\",\n    \"golferName\": \"Will Zalatoris\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      74,\n      78,\n      null,\n      null\n    ],\n    \"total\": 152\n  },\n  {\n    \"golferCode\": \"52\",\n    \"golferName\": \"Thomas Detry\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      79,\n      74,\n      null,\n      null\n    ],\n    \"total\": 153\n  },\n  {\n    \"golferCode\": \"84\",\n    \"golferName\": \"Evan Beck\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      77,\n      76,\n      null,\n      null\n    ],\n    \"total\": 153\n  },\n  {\n    \"golferCode\": \"67\",\n    \"golferName\": \"Cameron Davis\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      74,\n      79,\n      null,\n      null\n    ],\n    \"total\": 153\n  },\n  {\n    \"golferCode\": \"77\",\n    \"golferName\": \"Matthieu Pavon\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      78,\n      76,\n      null,\n      null\n    ],\n    \"total\": 154\n  },\n  {\n    \"golferCode\": \"59\",\n    \"golferName\": \"Laurie Canter\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      77,\n      77,\n      null,\n      null\n    ],\n    \"total\": 154\n  },\n  {\n    \"golferCode\": \"94\",\n    \"golferName\": \"Jose Luis Ballester\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      76,\n      78,\n      null,\n      null\n    ],\n    \"total\": 154\n  },\n  {\n    \"golferCode\": \"80\",\n    \"golferName\": \"Thriston Lawrence\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      79,\n      76,\n      null,\n      null\n    ],\n    \"total\": 155\n  },\n  {\n    \"golferCode\": \"89\",\n    \"golferName\": \"Noah Kent\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      79,\n      76,\n      null,\n      null\n    ],\n    \"total\": 155\n  },\n  {\n    \"golferCode\": \"83\",\n    \"golferName\": \"Angel Cabrera\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      75,\n      80,\n      null,\n      null\n    ],\n    \"total\": 155\n  },\n  {\n    \"golferCode\": \"73\",\n    \"golferName\": \"Nick Dunlap\",\n    \"status\": \"CUT\",\n    \"rounds\": [\n      90,\n      71,\n      null,\n      null\n    ],\n    \"total\": 161\n  }\n]"
+    }
+  ],
+  "playerScores": [
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "1",
+      "golferName": "Scottie Scheffler",
+      "status": "-8",
+      "rounds": [
+        68,
+        71,
+        72,
+        69
+      ],
+      "total": 280
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "2",
+      "golferName": "Rory McIlroy",
+      "status": "-11",
+      "rounds": [
+        72,
+        66,
+        66,
+        73
+      ],
+      "total": 277
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "3",
+      "golferName": "Jon Rahm",
+      "status": "-3",
+      "rounds": [
+        75,
+        71,
+        70,
+        69
+      ],
+      "total": 285
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "4",
+      "golferName": "Ludvig Aberg",
+      "status": "-6",
+      "rounds": [
+        68,
+        73,
+        69,
+        72
+      ],
+      "total": 282
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "5",
+      "golferName": "Collin Morikawa",
+      "status": "-3",
+      "rounds": [
+        72,
+        69,
+        72,
+        72
+      ],
+      "total": 285
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "6",
+      "golferName": "Xander Schauffele",
+      "status": "-5",
+      "rounds": [
+        73,
+        69,
+        70,
+        71
+      ],
+      "total": 283
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "7",
+      "golferName": "Bryson DeChambeau",
+      "status": "-7",
+      "rounds": [
+        69,
+        68,
+        69,
+        75
+      ],
+      "total": 281
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "8",
+      "golferName": "Justin Thomas",
+      "status": "+2",
+      "rounds": [
+        73,
+        71,
+        76,
+        70
+      ],
+      "total": 290
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "9",
+      "golferName": "Joaquin Niemann",
+      "status": "E",
+      "rounds": [
+        72,
+        74,
+        70,
+        72
+      ],
+      "total": 288
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "10",
+      "golferName": "Hideki Matsuyama",
+      "status": "-2",
+      "rounds": [
+        73,
+        68,
+        79,
+        66
+      ],
+      "total": 286
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "11",
+      "golferName": "Brooks Koepka",
+      "status": "CUT",
+      "rounds": [
+        74,
+        75,
+        null,
+        null
+      ],
+      "total": 149
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "12",
+      "golferName": "Jordan Spieth",
+      "status": "-3",
+      "rounds": [
+        73,
+        73,
+        69,
+        70
+      ],
+      "total": 285
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "13",
+      "golferName": "Tommy Fleetwood",
+      "status": "-2",
+      "rounds": [
+        73,
+        69,
+        75,
+        69
+      ],
+      "total": 286
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "14",
+      "golferName": "Shane Lowry",
+      "status": "+4",
+      "rounds": [
+        71,
+        68,
+        72,
+        81
+      ],
+      "total": 292
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "15",
+      "golferName": "Viktor Hovland",
+      "status": "-2",
+      "rounds": [
+        71,
+        69,
+        73,
+        73
+      ],
+      "total": 286
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "16",
+      "golferName": "Patrick Cantlay",
+      "status": "+2",
+      "rounds": [
+        74,
+        72,
+        73,
+        71
+      ],
+      "total": 290
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "17",
+      "golferName": "Tyrrell Hatton",
+      "status": "-3",
+      "rounds": [
+        69,
+        70,
+        75,
+        71
+      ],
+      "total": 285
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "18",
+      "golferName": "Russell Henley",
+      "status": "CUT",
+      "rounds": [
+        79,
+        68,
+        null,
+        null
+      ],
+      "total": 147
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "19",
+      "golferName": "Robert MacIntyre",
+      "status": "CUT",
+      "rounds": [
+        75,
+        75,
+        null,
+        null
+      ],
+      "total": 150
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "20",
+      "golferName": "Min Woo Lee",
+      "status": "+6",
+      "rounds": [
+        71,
+        72,
+        77,
+        74
+      ],
+      "total": 294
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "21",
+      "golferName": "Will Zalatoris",
+      "status": "CUT",
+      "rounds": [
+        74,
+        78,
+        null,
+        null
+      ],
+      "total": 152
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "22",
+      "golferName": "Cameron Smith",
+      "status": "CUT",
+      "rounds": [
+        71,
+        78,
+        null,
+        null
+      ],
+      "total": 149
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "23",
+      "golferName": "Akshay Bhatia",
+      "status": "+4",
+      "rounds": [
+        70,
+        76,
+        75,
+        71
+      ],
+      "total": 292
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "24",
+      "golferName": "Corey Conners",
+      "status": "-5",
+      "rounds": [
+        68,
+        70,
+        70,
+        75
+      ],
+      "total": 283
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "25",
+      "golferName": "Tony Finau",
+      "status": "CUT",
+      "rounds": [
+        75,
+        73,
+        null,
+        null
+      ],
+      "total": 148
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "26",
+      "golferName": "Jason Day",
+      "status": "-5",
+      "rounds": [
+        70,
+        70,
+        71,
+        72
+      ],
+      "total": 283
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "27",
+      "golferName": "Wyndham Clark",
+      "status": "+5",
+      "rounds": [
+        76,
+        68,
+        75,
+        74
+      ],
+      "total": 293
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "28",
+      "golferName": "Sepp Straka",
+      "status": "CUT",
+      "rounds": [
+        78,
+        71,
+        null,
+        null
+      ],
+      "total": 149
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "29",
+      "golferName": "Dustin Johnson",
+      "status": "CUT",
+      "rounds": [
+        74,
+        73,
+        null,
+        null
+      ],
+      "total": 147
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "30",
+      "golferName": "Sergio Garcia",
+      "status": "CUT",
+      "rounds": [
+        72,
+        76,
+        null,
+        null
+      ],
+      "total": 148
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "31",
+      "golferName": "Patrick Reed",
+      "status": "-9",
+      "rounds": [
+        71,
+        70,
+        69,
+        69
+      ],
+      "total": 279
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "32",
+      "golferName": "Sahith Theegala",
+      "status": "E",
+      "rounds": [
+        72,
+        72,
+        73,
+        71
+      ],
+      "total": 288
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "33",
+      "golferName": "Keegan Bradley",
+      "status": "CUT",
+      "rounds": [
+        74,
+        73,
+        null,
+        null
+      ],
+      "total": 147
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "34",
+      "golferName": "Tom Kim",
+      "status": "+9",
+      "rounds": [
+        73,
+        73,
+        72,
+        79
+      ],
+      "total": 297
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "35",
+      "golferName": "Justin Rose",
+      "status": "-11",
+      "rounds": [
+        65,
+        71,
+        75,
+        66
+      ],
+      "total": 277
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "36",
+      "golferName": "Sungjae Im",
+      "status": "-7",
+      "rounds": [
+        71,
+        70,
+        71,
+        69
+      ],
+      "total": 281
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "37",
+      "golferName": "Daniel Berger",
+      "status": "-2",
+      "rounds": [
+        71,
+        73,
+        73,
+        69
+      ],
+      "total": 286
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "38",
+      "golferName": "Brian Harman",
+      "status": "+2",
+      "rounds": [
+        71,
+        71,
+        77,
+        71
+      ],
+      "total": 290
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "39",
+      "golferName": "Matt Fitzpatrick",
+      "status": "+3",
+      "rounds": [
+        71,
+        73,
+        74,
+        73
+      ],
+      "total": 291
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "40",
+      "golferName": "Adam Scott",
+      "status": "CUT",
+      "rounds": [
+        77,
+        72,
+        null,
+        null
+      ],
+      "total": 149
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "41",
+      "golferName": "J. J. Spaun",
+      "status": "+7",
+      "rounds": [
+        74,
+        72,
+        74,
+        75
+      ],
+      "total": 295
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "42",
+      "golferName": "Sam Burns",
+      "status": "+5",
+      "rounds": [
+        73,
+        70,
+        75,
+        75
+      ],
+      "total": 293
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "43",
+      "golferName": "Davis Thompson",
+      "status": "+5",
+      "rounds": [
+        71,
+        73,
+        70,
+        79
+      ],
+      "total": 293
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "44",
+      "golferName": "Phil Mickelson",
+      "status": "CUT",
+      "rounds": [
+        75,
+        74,
+        null,
+        null
+      ],
+      "total": 149
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "45",
+      "golferName": "Billy Horschel",
+      "status": "CUT",
+      "rounds": [
+        77,
+        72,
+        null,
+        null
+      ],
+      "total": 149
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "46",
+      "golferName": "Taylor Pendrith",
+      "status": "CUT",
+      "rounds": [
+        77,
+        75,
+        null,
+        null
+      ],
+      "total": 152
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "47",
+      "golferName": "Byeong Hun An",
+      "status": "-2",
+      "rounds": [
+        74,
+        71,
+        70,
+        71
+      ],
+      "total": 286
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "48",
+      "golferName": "Aaron Rai",
+      "status": "-1",
+      "rounds": [
+        70,
+        74,
+        73,
+        70
+      ],
+      "total": 287
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "49",
+      "golferName": "Denny McCarthy",
+      "status": "E",
+      "rounds": [
+        71,
+        75,
+        71,
+        71
+      ],
+      "total": 288
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "50",
+      "golferName": "Maverick McNealy",
+      "status": "+1",
+      "rounds": [
+        72,
+        73,
+        71,
+        73
+      ],
+      "total": 289
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "51",
+      "golferName": "Lucas Glover",
+      "status": "CUT",
+      "rounds": [
+        78,
+        74,
+        null,
+        null
+      ],
+      "total": 152
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "52",
+      "golferName": "Thomas Detry",
+      "status": "CUT",
+      "rounds": [
+        79,
+        74,
+        null,
+        null
+      ],
+      "total": 153
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "53",
+      "golferName": "Michael Kim",
+      "status": "-1",
+      "rounds": [
+        71,
+        71,
+        74,
+        71
+      ],
+      "total": 287
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "54",
+      "golferName": "Cameron Young",
+      "status": "CUT",
+      "rounds": [
+        72,
+        79,
+        null,
+        null
+      ],
+      "total": 151
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "55",
+      "golferName": "Nicolai Højgaard",
+      "status": "CUT",
+      "rounds": [
+        76,
+        74,
+        null,
+        null
+      ],
+      "total": 150
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "56",
+      "golferName": "Rasmus Højgaard",
+      "status": "+1",
+      "rounds": [
+        73,
+        67,
+        75,
+        74
+      ],
+      "total": 289
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "57",
+      "golferName": "J.T. Poston",
+      "status": "+4",
+      "rounds": [
+        74,
+        72,
+        73,
+        73
+      ],
+      "total": 292
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "58",
+      "golferName": "Harris English",
+      "status": "-4",
+      "rounds": [
+        70,
+        73,
+        73,
+        68
+      ],
+      "total": 284
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "59",
+      "golferName": "Laurie Canter",
+      "status": "CUT",
+      "rounds": [
+        77,
+        77,
+        null,
+        null
+      ],
+      "total": 154
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "60",
+      "golferName": "Max Homa",
+      "status": "-4",
+      "rounds": [
+        74,
+        70,
+        69,
+        71
+      ],
+      "total": 284
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "61",
+      "golferName": "Stephan Jaeger",
+      "status": "+9",
+      "rounds": [
+        72,
+        74,
+        73,
+        78
+      ],
+      "total": 297
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "62",
+      "golferName": "Nick Taylor",
+      "status": "+3",
+      "rounds": [
+        73,
+        71,
+        74,
+        73
+      ],
+      "total": 291
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "63",
+      "golferName": "Nicolas Echavarria",
+      "status": "+8",
+      "rounds": [
+        73,
+        70,
+        69,
+        84
+      ],
+      "total": 296
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "64",
+      "golferName": "Christiaan Bezuidenhout",
+      "status": "CUT",
+      "rounds": [
+        76,
+        75,
+        null,
+        null
+      ],
+      "total": 151
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "65",
+      "golferName": "Joe Highsmith",
+      "status": "CUT",
+      "rounds": [
+        76,
+        72,
+        null,
+        null
+      ],
+      "total": 148
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "66",
+      "golferName": "Charl Schwartzel",
+      "status": "+2",
+      "rounds": [
+        74,
+        72,
+        72,
+        72
+      ],
+      "total": 290
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "67",
+      "golferName": "Cameron Davis",
+      "status": "CUT",
+      "rounds": [
+        74,
+        79,
+        null,
+        null
+      ],
+      "total": 153
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "68",
+      "golferName": "Max Greyserman",
+      "status": "+1",
+      "rounds": [
+        71,
+        75,
+        69,
+        74
+      ],
+      "total": 289
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "69",
+      "golferName": "Kevin Yu",
+      "status": "CUT",
+      "rounds": [
+        76,
+        74,
+        null,
+        null
+      ],
+      "total": 150
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "70",
+      "golferName": "Austin Eckroat",
+      "status": "CUT",
+      "rounds": [
+        76,
+        74,
+        null,
+        null
+      ],
+      "total": 150
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "71",
+      "golferName": "Tom Hoge",
+      "status": "-3",
+      "rounds": [
+        72,
+        72,
+        70,
+        71
+      ],
+      "total": 285
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "72",
+      "golferName": "Chris Kirk",
+      "status": "CUT",
+      "rounds": [
+        75,
+        72,
+        null,
+        null
+      ],
+      "total": 147
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "73",
+      "golferName": "Nick Dunlap",
+      "status": "CUT",
+      "rounds": [
+        90,
+        71,
+        null,
+        null
+      ],
+      "total": 161
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "74",
+      "golferName": "Davis Riley",
+      "status": "-2",
+      "rounds": [
+        73,
+        69,
+        75,
+        69
+      ],
+      "total": 286
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "75",
+      "golferName": "Matt Mccarty",
+      "status": "-3",
+      "rounds": [
+        71,
+        68,
+        75,
+        71
+      ],
+      "total": 285
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "76",
+      "golferName": "Jhonattan Vegas",
+      "status": "CUT",
+      "rounds": [
+        75,
+        75,
+        null,
+        null
+      ],
+      "total": 150
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "77",
+      "golferName": "Matthieu Pavon",
+      "status": "CUT",
+      "rounds": [
+        78,
+        76,
+        null,
+        null
+      ],
+      "total": 154
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "78",
+      "golferName": "Bubba Watson",
+      "status": "-3",
+      "rounds": [
+        71,
+        72,
+        74,
+        68
+      ],
+      "total": 285
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "79",
+      "golferName": "Adam Schenk",
+      "status": "CUT",
+      "rounds": [
+        73,
+        75,
+        null,
+        null
+      ],
+      "total": 148
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "80",
+      "golferName": "Thriston Lawrence",
+      "status": "CUT",
+      "rounds": [
+        79,
+        76,
+        null,
+        null
+      ],
+      "total": 155
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "81",
+      "golferName": "Danny Willett",
+      "status": "+4",
+      "rounds": [
+        75,
+        71,
+        73,
+        73
+      ],
+      "total": 292
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "82",
+      "golferName": "Brian Campbell",
+      "status": "+1",
+      "rounds": [
+        72,
+        73,
+        76,
+        68
+      ],
+      "total": 289
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "83",
+      "golferName": "Angel Cabrera",
+      "status": "CUT",
+      "rounds": [
+        75,
+        80,
+        null,
+        null
+      ],
+      "total": 155
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "84",
+      "golferName": "Evan Beck",
+      "status": "CUT",
+      "rounds": [
+        77,
+        76,
+        null,
+        null
+      ],
+      "total": 153
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "85",
+      "golferName": "Rafael Campos",
+      "status": "CUT",
+      "rounds": [
+        75,
+        73,
+        null,
+        null
+      ],
+      "total": 148
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "86",
+      "golferName": "Hiroshi Tai",
+      "status": "CUT",
+      "rounds": [
+        73,
+        77,
+        null,
+        null
+      ],
+      "total": 150
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "87",
+      "golferName": "Justin Hastings",
+      "status": "CUT",
+      "rounds": [
+        76,
+        72,
+        null,
+        null
+      ],
+      "total": 148
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "88",
+      "golferName": "Bernhard Langer",
+      "status": "CUT",
+      "rounds": [
+        74,
+        73,
+        null,
+        null
+      ],
+      "total": 147
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "89",
+      "golferName": "Noah Kent",
+      "status": "CUT",
+      "rounds": [
+        79,
+        76,
+        null,
+        null
+      ],
+      "total": 155
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "90",
+      "golferName": "Fred Couples",
+      "status": "CUT",
+      "rounds": [
+        71,
+        77,
+        null,
+        null
+      ],
+      "total": 148
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "91",
+      "golferName": "Mike Weir",
+      "status": "CUT",
+      "rounds": [
+        75,
+        73,
+        null,
+        null
+      ],
+      "total": 148
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "92",
+      "golferName": "Patton Kizzire",
+      "status": "CUT",
+      "rounds": [
+        79,
+        73,
+        null,
+        null
+      ],
+      "total": 152
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "93",
+      "golferName": "Jose Maria Olazábal",
+      "status": "CUT",
+      "rounds": [
+        77,
+        74,
+        null,
+        null
+      ],
+      "total": 151
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "94",
+      "golferName": "Jose Luis Ballester",
+      "status": "CUT",
+      "rounds": [
+        76,
+        78,
+        null,
+        null
+      ],
+      "total": 154
+    },
+    {
+      "snapshotId": "snapshot_2025_masters_final",
+      "golferCode": "95",
+      "golferName": "Zach Johnson",
+      "status": "-5",
+      "rounds": [
+        72,
+        74,
+        66,
+        71
+      ],
+      "total": 283
+    }
+  ],
+  "derivedTeamStandings": [
+    {
+      "submissionId": "submission_001",
+      "teamName": "Just when I thought I was out, they pull me back in",
+      "participantName": "Paul Castergine",
+      "picks": [
+        "4",
+        "11",
+        "13",
+        "16",
+        "30",
+        "30",
+        "12",
+        "54"
+      ],
+      "probabilityTotal": 0.14848130505897567,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 212,
+          "tiebreak": 72,
+          "countedCodes": [
+            "4",
+            "30",
+            "30"
+          ],
+          "fallbackScore": 91,
+          "rank": 20,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 214,
+          "tiebreak": 73,
+          "countedCodes": [
+            "13",
+            "16",
+            "4"
+          ],
+          "fallbackScore": 81,
+          "rank": 38,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 211,
+          "tiebreak": 75,
+          "countedCodes": [
+            "4",
+            "12",
+            "16"
+          ],
+          "fallbackScore": 80,
+          "rank": 18,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 210,
+          "tiebreak": 72,
+          "countedCodes": [
+            "13",
+            "12",
+            "16"
+          ],
+          "fallbackScore": 85,
+          "rank": 11,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 853,
+        "tiebreak": 290,
+        "countedCodes": [
+          "4",
+          "12",
+          "13"
+        ],
+        "fallbackScore": 317,
+        "rank": 23,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_002",
+      "teamName": "Subpar Effort",
+      "participantName": "Nick Hooten",
+      "picks": [
+        "6",
+        "6",
+        "11",
+        "11",
+        "25",
+        "25",
+        "54",
+        "50"
+      ],
+      "probabilityTotal": 0.14990246623029296,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 217,
+          "tiebreak": 73,
+          "countedCodes": [
+            "54",
+            "50",
+            "6"
+          ],
+          "fallbackScore": 91,
+          "rank": 35,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 211,
+          "tiebreak": 73,
+          "countedCodes": [
+            "6",
+            "6",
+            "25"
+          ],
+          "fallbackScore": 81,
+          "rank": 32,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 211,
+          "tiebreak": 80,
+          "countedCodes": [
+            "6",
+            "6",
+            "50"
+          ],
+          "fallbackScore": 80,
+          "rank": 20,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 215,
+          "tiebreak": 85,
+          "countedCodes": [
+            "6",
+            "6",
+            "50"
+          ],
+          "fallbackScore": 85,
+          "rank": 31,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 855,
+        "tiebreak": 313,
+        "countedCodes": [
+          "6",
+          "6",
+          "50"
+        ],
+        "fallbackScore": 317,
+        "rank": 29,
+        "split": true
+      }
+    },
+    {
+      "submissionId": "submission_003",
+      "teamName": "Minnesota Miracle",
+      "participantName": "Thad Williams",
+      "picks": [
+        "5",
+        "10",
+        "10",
+        "11",
+        "19",
+        "21",
+        "44",
+        "59"
+      ],
+      "probabilityTotal": 0.14989182930158726,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 218,
+          "tiebreak": 74,
+          "countedCodes": [
+            "5",
+            "10",
+            "10"
+          ],
+          "fallbackScore": 91,
+          "rank": 38,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 205,
+          "tiebreak": 74,
+          "countedCodes": [
+            "10",
+            "10",
+            "5"
+          ],
+          "fallbackScore": 81,
+          "rank": 13,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 230,
+          "tiebreak": 80,
+          "countedCodes": [
+            "5",
+            "10",
+            "10"
+          ],
+          "fallbackScore": 80,
+          "rank": 40,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 204,
+          "tiebreak": 85,
+          "countedCodes": [
+            "10",
+            "10",
+            "5"
+          ],
+          "fallbackScore": 85,
+          "rank": 6,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 857,
+        "tiebreak": 314,
+        "countedCodes": [
+          "5",
+          "10",
+          "10"
+        ],
+        "fallbackScore": 320,
+        "rank": 34,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_004",
+      "teamName": "Play the fade",
+      "participantName": "Dan Riordan",
+      "picks": [
+        "4",
+        "8",
+        "10",
+        "18",
+        "23",
+        "23",
+        "24",
+        "51"
+      ],
+      "probabilityTotal": 0.1492766993979578,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 206,
+          "tiebreak": 70,
+          "countedCodes": [
+            "4",
+            "24",
+            "23"
+          ],
+          "fallbackScore": 91,
+          "rank": 7,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 206,
+          "tiebreak": 71,
+          "countedCodes": [
+            "10",
+            "18",
+            "24"
+          ],
+          "fallbackScore": 81,
+          "rank": 18,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 214,
+          "tiebreak": 75,
+          "countedCodes": [
+            "4",
+            "24",
+            "23"
+          ],
+          "fallbackScore": 80,
+          "rank": 29,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 207,
+          "tiebreak": 71,
+          "countedCodes": [
+            "10",
+            "8",
+            "23"
+          ],
+          "fallbackScore": 85,
+          "rank": 7,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 851,
+        "tiebreak": 290,
+        "countedCodes": [
+          "4",
+          "24",
+          "10"
+        ],
+        "fallbackScore": 318,
+        "rank": 20,
+        "split": true
+      }
+    },
+    {
+      "submissionId": "submission_005",
+      "teamName": "I Need A Pain Sponge",
+      "participantName": "Rob Schoen",
+      "picks": [
+        "8",
+        "8",
+        "14",
+        "18",
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "probabilityTotal": 0.14915201661704242,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 215,
+          "tiebreak": 73,
+          "countedCodes": [
+            "14",
+            "20",
+            "8"
+          ],
+          "fallbackScore": 91,
+          "rank": 32,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 204,
+          "tiebreak": 71,
+          "countedCodes": [
+            "14",
+            "18",
+            "18"
+          ],
+          "fallbackScore": 81,
+          "rank": 3,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 224,
+          "tiebreak": 77,
+          "countedCodes": [
+            "14",
+            "8",
+            "8"
+          ],
+          "fallbackScore": 80,
+          "rank": 37,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 214,
+          "tiebreak": 81,
+          "countedCodes": [
+            "8",
+            "8",
+            "20"
+          ],
+          "fallbackScore": 85,
+          "rank": 24,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 872,
+        "tiebreak": 294,
+        "countedCodes": [
+          "8",
+          "8",
+          "14"
+        ],
+        "fallbackScore": 318,
+        "rank": 37,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_006",
+      "teamName": "Fire Nico",
+      "participantName": "Dan Lahrman",
+      "picks": [
+        "15",
+        "15",
+        "12",
+        "12",
+        "10",
+        "10",
+        "26",
+        "26"
+      ],
+      "probabilityTotal": 0.14952183654367163,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 211,
+          "tiebreak": 71,
+          "countedCodes": [
+            "26",
+            "26",
+            "15"
+          ],
+          "fallbackScore": 91,
+          "rank": 17,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 205,
+          "tiebreak": 69,
+          "countedCodes": [
+            "10",
+            "10",
+            "15"
+          ],
+          "fallbackScore": 81,
+          "rank": 6,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 209,
+          "tiebreak": 71,
+          "countedCodes": [
+            "12",
+            "12",
+            "26"
+          ],
+          "fallbackScore": 80,
+          "rank": 10,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 202,
+          "tiebreak": 70,
+          "countedCodes": [
+            "10",
+            "10",
+            "12"
+          ],
+          "fallbackScore": 85,
+          "rank": 2,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 851,
+        "tiebreak": 285,
+        "countedCodes": [
+          "26",
+          "26",
+          "12"
+        ],
+        "fallbackScore": 301,
+        "rank": 15,
+        "split": true
+      }
+    },
+    {
+      "submissionId": "submission_007",
+      "teamName": "Gold Jacket, Green Jacket…",
+      "participantName": "Jon Schreiber",
+      "picks": [
+        "5",
+        "5",
+        "5",
+        "31",
+        "50",
+        "54",
+        "61",
+        "68"
+      ],
+      "probabilityTotal": 0.14971091506485493,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 214,
+          "tiebreak": 72,
+          "countedCodes": [
+            "31",
+            "68",
+            "5"
+          ],
+          "fallbackScore": 91,
+          "rank": 26,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 207,
+          "tiebreak": 70,
+          "countedCodes": [
+            "5",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 81,
+          "rank": 25,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 209,
+          "tiebreak": 72,
+          "countedCodes": [
+            "31",
+            "68",
+            "50"
+          ],
+          "fallbackScore": 80,
+          "rank": 11,
+          "split": true
+        },
+        {
+          "round": 4,
+          "score": 213,
+          "tiebreak": 72,
+          "countedCodes": [
+            "31",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 85,
+          "rank": 16,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 849,
+        "tiebreak": 285,
+        "countedCodes": [
+          "31",
+          "5",
+          "5"
+        ],
+        "fallbackScore": 317,
+        "rank": 11,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_008",
+      "teamName": "LaPlant",
+      "participantName": "Matt LaPlant",
+      "picks": [
+        "6",
+        "6",
+        "7",
+        "14",
+        "24",
+        "28"
+      ],
+      "probabilityTotal": 0.14960895908555635,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 208,
+          "tiebreak": 73,
+          "countedCodes": [
+            "24",
+            "7",
+            "14"
+          ],
+          "fallbackScore": 91,
+          "rank": 11,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 205,
+          "tiebreak": 69,
+          "countedCodes": [
+            "7",
+            "14",
+            "6"
+          ],
+          "fallbackScore": 81,
+          "rank": 6,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 209,
+          "tiebreak": 70,
+          "countedCodes": [
+            "7",
+            "6",
+            "6"
+          ],
+          "fallbackScore": 80,
+          "rank": 9,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 217,
+          "tiebreak": 75,
+          "countedCodes": [
+            "6",
+            "6",
+            "7"
+          ],
+          "fallbackScore": 85,
+          "rank": 34,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 847,
+        "tiebreak": 283,
+        "countedCodes": [
+          "7",
+          "6",
+          "6"
+        ],
+        "fallbackScore": 315,
+        "rank": 9,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_009",
+      "teamName": "Henley and the Double Eagles",
+      "participantName": "Adrian Chan",
+      "picks": [
+        "5",
+        "5",
+        "18",
+        "19",
+        "19",
+        "21",
+        "21"
+      ],
+      "probabilityTotal": 0.14998722414376456,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 218,
+          "tiebreak": 74,
+          "countedCodes": [
+            "5",
+            "5",
+            "21"
+          ],
+          "fallbackScore": 91,
+          "rank": 38,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 206,
+          "tiebreak": 75,
+          "countedCodes": [
+            "18",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 81,
+          "rank": 24,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 224,
+          "tiebreak": 80,
+          "countedCodes": [
+            "5",
+            "5",
+            "18"
+          ],
+          "fallbackScore": 80,
+          "rank": 38,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 229,
+          "tiebreak": 85,
+          "countedCodes": [
+            "5",
+            "5",
+            "18"
+          ],
+          "fallbackScore": 85,
+          "rank": 38,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 882,
+        "tiebreak": 315,
+        "countedCodes": [
+          "5",
+          "5",
+          "18"
+        ],
+        "fallbackScore": 318,
+        "rank": 39,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_010",
+      "teamName": "The Long Irons",
+      "participantName": "Kathryn Michalewicz",
+      "picks": [
+        "2",
+        "13",
+        "15",
+        "20",
+        "77"
+      ],
+      "probabilityTotal": 0.15002931757228755,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 214,
+          "tiebreak": 73,
+          "countedCodes": [
+            "15",
+            "20",
+            "2"
+          ],
+          "fallbackScore": 91,
+          "rank": 27,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 204,
+          "tiebreak": 72,
+          "countedCodes": [
+            "2",
+            "13",
+            "15"
+          ],
+          "fallbackScore": 81,
+          "rank": 4,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 214,
+          "tiebreak": 77,
+          "countedCodes": [
+            "2",
+            "15",
+            "13"
+          ],
+          "fallbackScore": 80,
+          "rank": 30,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 215,
+          "tiebreak": 74,
+          "countedCodes": [
+            "13",
+            "2",
+            "15"
+          ],
+          "fallbackScore": 85,
+          "rank": 28,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 849,
+        "tiebreak": 294,
+        "countedCodes": [
+          "2",
+          "13",
+          "15"
+        ],
+        "fallbackScore": 320,
+        "rank": 13,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_011",
+      "teamName": "Every day in Moving Day",
+      "participantName": "James Fetch",
+      "picks": [
+        "3",
+        "7",
+        "11",
+        "12",
+        "31",
+        "35",
+        "55",
+        "58"
+      ],
+      "probabilityTotal": 0.14864087575324503,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 204,
+          "tiebreak": 71,
+          "countedCodes": [
+            "35",
+            "7",
+            "58"
+          ],
+          "fallbackScore": 91,
+          "rank": 3,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 209,
+          "tiebreak": 71,
+          "countedCodes": [
+            "7",
+            "31",
+            "3"
+          ],
+          "fallbackScore": 81,
+          "rank": 29,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 207,
+          "tiebreak": 70,
+          "countedCodes": [
+            "7",
+            "12",
+            "31"
+          ],
+          "fallbackScore": 80,
+          "rank": 2,
+          "split": true
+        },
+        {
+          "round": 4,
+          "score": 203,
+          "tiebreak": 69,
+          "countedCodes": [
+            "35",
+            "58",
+            "3"
+          ],
+          "fallbackScore": 85,
+          "rank": 3,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 837,
+        "tiebreak": 284,
+        "countedCodes": [
+          "35",
+          "31",
+          "7"
+        ],
+        "fallbackScore": 316,
+        "rank": 1,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_012",
+      "teamName": "Lafferty, Daniel",
+      "participantName": "Brad McLaughlin",
+      "picks": [
+        "4",
+        "5",
+        "15",
+        "7",
+        "25",
+        "73"
+      ],
+      "probabilityTotal": 0.1499959000529426,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 208,
+          "tiebreak": 72,
+          "countedCodes": [
+            "4",
+            "7",
+            "15"
+          ],
+          "fallbackScore": 91,
+          "rank": 10,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 206,
+          "tiebreak": 71,
+          "countedCodes": [
+            "7",
+            "5",
+            "15"
+          ],
+          "fallbackScore": 81,
+          "rank": 18,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 210,
+          "tiebreak": 73,
+          "countedCodes": [
+            "4",
+            "7",
+            "5"
+          ],
+          "fallbackScore": 80,
+          "rank": 15,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 217,
+          "tiebreak": 75,
+          "countedCodes": [
+            "4",
+            "5",
+            "15"
+          ],
+          "fallbackScore": 85,
+          "rank": 34,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 848,
+        "tiebreak": 286,
+        "countedCodes": [
+          "7",
+          "4",
+          "5"
+        ],
+        "fallbackScore": 327,
+        "rank": 10,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_013",
+      "teamName": "Five Dollars Guaranteed",
+      "participantName": "Robbie Donahoe",
+      "picks": [
+        "9",
+        "9",
+        "9",
+        "23",
+        "23",
+        "23",
+        "5"
+      ],
+      "probabilityTotal": 0.14929931067963925,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 210,
+          "tiebreak": 72,
+          "countedCodes": [
+            "23",
+            "23",
+            "23"
+          ],
+          "fallbackScore": 91,
+          "rank": 15,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 217,
+          "tiebreak": 74,
+          "countedCodes": [
+            "5",
+            "9",
+            "9"
+          ],
+          "fallbackScore": 81,
+          "rank": 40,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 210,
+          "tiebreak": 72,
+          "countedCodes": [
+            "9",
+            "9",
+            "9"
+          ],
+          "fallbackScore": 80,
+          "rank": 13,
+          "split": true
+        },
+        {
+          "round": 4,
+          "score": 213,
+          "tiebreak": 72,
+          "countedCodes": [
+            "23",
+            "23",
+            "23"
+          ],
+          "fallbackScore": 85,
+          "rank": 16,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 861,
+        "tiebreak": 288,
+        "countedCodes": [
+          "5",
+          "9",
+          "9"
+        ],
+        "fallbackScore": 301,
+        "rank": 36,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_014",
+      "teamName": "District Five",
+      "participantName": "Tucker Donahoe",
+      "picks": [
+        "4",
+        "18",
+        "18",
+        "18",
+        "22",
+        "22",
+        "22",
+        "11"
+      ],
+      "probabilityTotal": 0.14308883070228073,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 210,
+          "tiebreak": 71,
+          "countedCodes": [
+            "4",
+            "22",
+            "22"
+          ],
+          "fallbackScore": 91,
+          "rank": 13,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 204,
+          "tiebreak": 73,
+          "countedCodes": [
+            "18",
+            "18",
+            "18"
+          ],
+          "fallbackScore": 81,
+          "rank": 5,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 229,
+          "tiebreak": 80,
+          "countedCodes": [
+            "4",
+            "18",
+            "18"
+          ],
+          "fallbackScore": 80,
+          "rank": 39,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 242,
+          "tiebreak": 85,
+          "countedCodes": [
+            "4",
+            "18",
+            "18"
+          ],
+          "fallbackScore": 85,
+          "rank": 40,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 906,
+        "tiebreak": 312,
+        "countedCodes": [
+          "4",
+          "18",
+          "18"
+        ],
+        "fallbackScore": 315,
+        "rank": 40,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_015",
+      "teamName": "Ludvig Levered 2x Daily",
+      "participantName": "Jacob Norris",
+      "picks": [
+        "4",
+        "4",
+        "18",
+        "18",
+        "15",
+        "31",
+        "51",
+        "51"
+      ],
+      "probabilityTotal": 0.14998624302713162,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 207,
+          "tiebreak": 71,
+          "countedCodes": [
+            "4",
+            "4",
+            "15"
+          ],
+          "fallbackScore": 91,
+          "rank": 8,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 205,
+          "tiebreak": 70,
+          "countedCodes": [
+            "18",
+            "18",
+            "15"
+          ],
+          "fallbackScore": 81,
+          "rank": 9,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 207,
+          "tiebreak": 73,
+          "countedCodes": [
+            "4",
+            "4",
+            "31"
+          ],
+          "fallbackScore": 80,
+          "rank": 4,
+          "split": true
+        },
+        {
+          "round": 4,
+          "score": 213,
+          "tiebreak": 73,
+          "countedCodes": [
+            "31",
+            "4",
+            "4"
+          ],
+          "fallbackScore": 85,
+          "rank": 18,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 843,
+        "tiebreak": 286,
+        "countedCodes": [
+          "31",
+          "4",
+          "4"
+        ],
+        "fallbackScore": 318,
+        "rank": 3,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_016",
+      "teamName": "All in on Collin",
+      "participantName": "Brett Goldstein",
+      "picks": [
+        "5",
+        "5",
+        "5",
+        "14",
+        "60"
+      ],
+      "probabilityTotal": 0.1496630452276183,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 215,
+          "tiebreak": 72,
+          "countedCodes": [
+            "14",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 91,
+          "rank": 28,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 206,
+          "tiebreak": 69,
+          "countedCodes": [
+            "14",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 81,
+          "rank": 14,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 213,
+          "tiebreak": 72,
+          "countedCodes": [
+            "60",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 80,
+          "rank": 21,
+          "split": true
+        },
+        {
+          "round": 4,
+          "score": 215,
+          "tiebreak": 72,
+          "countedCodes": [
+            "60",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 85,
+          "rank": 25,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 854,
+        "tiebreak": 285,
+        "countedCodes": [
+          "60",
+          "5",
+          "5"
+        ],
+        "fallbackScore": 301,
+        "rank": 26,
+        "split": true
+      }
+    },
+    {
+      "submissionId": "submission_017",
+      "teamName": "Munis never sleep",
+      "participantName": "Paul Drury",
+      "picks": [
+        "4",
+        "14",
+        "18",
+        "5",
+        "10",
+        "41"
+      ],
+      "probabilityTotal": 0.1493377990267772,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 211,
+          "tiebreak": 73,
+          "countedCodes": [
+            "4",
+            "14",
+            "5"
+          ],
+          "fallbackScore": 91,
+          "rank": 19,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 204,
+          "tiebreak": 69,
+          "countedCodes": [
+            "14",
+            "18",
+            "10"
+          ],
+          "fallbackScore": 81,
+          "rank": 2,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 213,
+          "tiebreak": 74,
+          "countedCodes": [
+            "4",
+            "14",
+            "5"
+          ],
+          "fallbackScore": 80,
+          "rank": 25,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 210,
+          "tiebreak": 75,
+          "countedCodes": [
+            "10",
+            "4",
+            "5"
+          ],
+          "fallbackScore": 85,
+          "rank": 13,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 853,
+        "tiebreak": 292,
+        "countedCodes": [
+          "4",
+          "5",
+          "10"
+        ],
+        "fallbackScore": 313,
+        "rank": 24,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_018",
+      "teamName": "Kangaroo Took My Ball",
+      "participantName": "Chris Floyd",
+      "picks": [
+        "5",
+        "7",
+        "6",
+        "14",
+        "21",
+        "62"
+      ],
+      "probabilityTotal": 0.14978284596398253,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 212,
+          "tiebreak": 73,
+          "countedCodes": [
+            "7",
+            "14",
+            "5"
+          ],
+          "fallbackScore": 91,
+          "rank": 22,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 205,
+          "tiebreak": 69,
+          "countedCodes": [
+            "7",
+            "14",
+            "5"
+          ],
+          "fallbackScore": 81,
+          "rank": 6,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 211,
+          "tiebreak": 72,
+          "countedCodes": [
+            "7",
+            "6",
+            "5"
+          ],
+          "fallbackScore": 80,
+          "rank": 16,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 216,
+          "tiebreak": 75,
+          "countedCodes": [
+            "6",
+            "5",
+            "62"
+          ],
+          "fallbackScore": 85,
+          "rank": 32,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 849,
+        "tiebreak": 291,
+        "countedCodes": [
+          "7",
+          "6",
+          "5"
+        ],
+        "fallbackScore": 318,
+        "rank": 12,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_019",
+      "teamName": "ZWill #2",
+      "participantName": "Zach Williams",
+      "picks": [
+        "2",
+        "20",
+        "20",
+        "23",
+        "23",
+        "35"
+      ],
+      "probabilityTotal": 0.1497544883326746,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 205,
+          "tiebreak": 71,
+          "countedCodes": [
+            "35",
+            "23",
+            "23"
+          ],
+          "fallbackScore": 91,
+          "rank": 5,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 209,
+          "tiebreak": 72,
+          "countedCodes": [
+            "2",
+            "35",
+            "20"
+          ],
+          "fallbackScore": 81,
+          "rank": 30,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 216,
+          "tiebreak": 75,
+          "countedCodes": [
+            "2",
+            "23",
+            "23"
+          ],
+          "fallbackScore": 80,
+          "rank": 32,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 208,
+          "tiebreak": 73,
+          "countedCodes": [
+            "35",
+            "23",
+            "23"
+          ],
+          "fallbackScore": 85,
+          "rank": 9,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 846,
+        "tiebreak": 292,
+        "countedCodes": [
+          "2",
+          "35",
+          "23"
+        ],
+        "fallbackScore": 301,
+        "rank": 8,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_020",
+      "teamName": "ZWill #1",
+      "participantName": "Zach Williams",
+      "picks": [
+        "5",
+        "5",
+        "5",
+        "14",
+        "60"
+      ],
+      "probabilityTotal": 0.1496630452276183,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 215,
+          "tiebreak": 72,
+          "countedCodes": [
+            "14",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 91,
+          "rank": 28,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 206,
+          "tiebreak": 69,
+          "countedCodes": [
+            "14",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 81,
+          "rank": 14,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 213,
+          "tiebreak": 72,
+          "countedCodes": [
+            "60",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 80,
+          "rank": 21,
+          "split": true
+        },
+        {
+          "round": 4,
+          "score": 215,
+          "tiebreak": 72,
+          "countedCodes": [
+            "60",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 85,
+          "rank": 25,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 854,
+        "tiebreak": 285,
+        "countedCodes": [
+          "60",
+          "5",
+          "5"
+        ],
+        "fallbackScore": 301,
+        "rank": 26,
+        "split": true
+      }
+    },
+    {
+      "submissionId": "submission_021",
+      "teamName": "Looks good on you though!",
+      "participantName": "Caroline Stone",
+      "picks": [
+        "4",
+        "5",
+        "14",
+        "20",
+        "22",
+        "35",
+        "44",
+        "44"
+      ],
+      "probabilityTotal": 0.14749314466683455,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 204,
+          "tiebreak": 71,
+          "countedCodes": [
+            "35",
+            "4",
+            "14"
+          ],
+          "fallbackScore": 91,
+          "rank": 3,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 208,
+          "tiebreak": 72,
+          "countedCodes": [
+            "14",
+            "5",
+            "35"
+          ],
+          "fallbackScore": 81,
+          "rank": 27,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 213,
+          "tiebreak": 75,
+          "countedCodes": [
+            "4",
+            "5",
+            "14"
+          ],
+          "fallbackScore": 80,
+          "rank": 26,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 210,
+          "tiebreak": 74,
+          "countedCodes": [
+            "35",
+            "4",
+            "5"
+          ],
+          "fallbackScore": 85,
+          "rank": 12,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 844,
+        "tiebreak": 292,
+        "countedCodes": [
+          "35",
+          "4",
+          "5"
+        ],
+        "fallbackScore": 315,
+        "rank": 4,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_022",
+      "teamName": "Scattershot",
+      "participantName": "Bill Kohli",
+      "picks": [
+        "5",
+        "10",
+        "14",
+        "16",
+        "20",
+        "24",
+        "25",
+        "26"
+      ],
+      "probabilityTotal": 0.14904611953852626,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 209,
+          "tiebreak": 71,
+          "countedCodes": [
+            "24",
+            "26",
+            "14"
+          ],
+          "fallbackScore": 91,
+          "rank": 12,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 205,
+          "tiebreak": 70,
+          "countedCodes": [
+            "10",
+            "14",
+            "5"
+          ],
+          "fallbackScore": 81,
+          "rank": 9,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 213,
+          "tiebreak": 72,
+          "countedCodes": [
+            "24",
+            "26",
+            "5"
+          ],
+          "fallbackScore": 80,
+          "rank": 21,
+          "split": true
+        },
+        {
+          "round": 4,
+          "score": 209,
+          "tiebreak": 72,
+          "countedCodes": [
+            "10",
+            "16",
+            "5"
+          ],
+          "fallbackScore": 85,
+          "rank": 10,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 851,
+        "tiebreak": 286,
+        "countedCodes": [
+          "24",
+          "26",
+          "5"
+        ],
+        "fallbackScore": 314,
+        "rank": 17,
+        "split": true
+      }
+    },
+    {
+      "submissionId": "submission_023",
+      "teamName": "TheProperLuncher",
+      "participantName": "Charles Ouellett",
+      "picks": [
+        "4",
+        "4",
+        "4",
+        "22",
+        "24"
+      ],
+      "probabilityTotal": 0.14950716421391927,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 204,
+          "tiebreak": 68,
+          "countedCodes": [
+            "4",
+            "4",
+            "4"
+          ],
+          "fallbackScore": 91,
+          "rank": 2,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 216,
+          "tiebreak": 73,
+          "countedCodes": [
+            "24",
+            "4",
+            "4"
+          ],
+          "fallbackScore": 81,
+          "rank": 39,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 207,
+          "tiebreak": 70,
+          "countedCodes": [
+            "4",
+            "4",
+            "4"
+          ],
+          "fallbackScore": 80,
+          "rank": 2,
+          "split": true
+        },
+        {
+          "round": 4,
+          "score": 216,
+          "tiebreak": 75,
+          "countedCodes": [
+            "4",
+            "4",
+            "4"
+          ],
+          "fallbackScore": 85,
+          "rank": 32,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 846,
+        "tiebreak": 283,
+        "countedCodes": [
+          "4",
+          "4",
+          "4"
+        ],
+        "fallbackScore": 315,
+        "rank": 7,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_024",
+      "teamName": "TheProperLuncher2",
+      "participantName": "Charles Ouellett",
+      "picks": [
+        "2",
+        "9",
+        "11",
+        "40"
+      ],
+      "probabilityTotal": 0.14973936689974635,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 218,
+          "tiebreak": 77,
+          "countedCodes": [
+            "2",
+            "9",
+            "11"
+          ],
+          "fallbackScore": 91,
+          "rank": 40,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 212,
+          "tiebreak": 75,
+          "countedCodes": [
+            "2",
+            "40",
+            "9"
+          ],
+          "fallbackScore": 81,
+          "rank": 36,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 216,
+          "tiebreak": 80,
+          "countedCodes": [
+            "2",
+            "9",
+            "11"
+          ],
+          "fallbackScore": 80,
+          "rank": 33,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 230,
+          "tiebreak": 85,
+          "countedCodes": [
+            "9",
+            "2",
+            "11"
+          ],
+          "fallbackScore": 85,
+          "rank": 39,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 879,
+        "tiebreak": 314,
+        "countedCodes": [
+          "2",
+          "9",
+          "11"
+        ],
+        "fallbackScore": 315,
+        "rank": 38,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_025",
+      "teamName": "Let Him Cook",
+      "participantName": "Jason Vaillancourt",
+      "picks": [
+        "6",
+        "8",
+        "18",
+        "20",
+        "5",
+        "33",
+        "45"
+      ],
+      "probabilityTotal": 0.14951746705976263,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 216,
+          "tiebreak": 73,
+          "countedCodes": [
+            "20",
+            "5",
+            "6"
+          ],
+          "fallbackScore": 91,
+          "rank": 33,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 206,
+          "tiebreak": 71,
+          "countedCodes": [
+            "18",
+            "6",
+            "5"
+          ],
+          "fallbackScore": 81,
+          "rank": 18,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 218,
+          "tiebreak": 77,
+          "countedCodes": [
+            "6",
+            "5",
+            "8"
+          ],
+          "fallbackScore": 80,
+          "rank": 34,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 213,
+          "tiebreak": 74,
+          "countedCodes": [
+            "8",
+            "6",
+            "5"
+          ],
+          "fallbackScore": 85,
+          "rank": 21,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 858,
+        "tiebreak": 294,
+        "countedCodes": [
+          "6",
+          "5",
+          "8"
+        ],
+        "fallbackScore": 315,
+        "rank": 35,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_026",
+      "teamName": "The Tremendous Slouches",
+      "participantName": "Mike Wands",
+      "picks": [
+        "3",
+        "4",
+        "10",
+        "11",
+        "22"
+      ],
+      "probabilityTotal": 0.14994481072881424,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 212,
+          "tiebreak": 74,
+          "countedCodes": [
+            "4",
+            "22",
+            "10"
+          ],
+          "fallbackScore": 91,
+          "rank": 23,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 212,
+          "tiebreak": 75,
+          "countedCodes": [
+            "10",
+            "3",
+            "4"
+          ],
+          "fallbackScore": 81,
+          "rank": 36,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 218,
+          "tiebreak": 80,
+          "countedCodes": [
+            "4",
+            "3",
+            "10"
+          ],
+          "fallbackScore": 80,
+          "rank": 35,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 207,
+          "tiebreak": 85,
+          "countedCodes": [
+            "10",
+            "3",
+            "4"
+          ],
+          "fallbackScore": 85,
+          "rank": 8,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 853,
+        "tiebreak": 314,
+        "countedCodes": [
+          "4",
+          "3",
+          "10"
+        ],
+        "fallbackScore": 315,
+        "rank": 25,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_027",
+      "teamName": "Saving Silverman",
+      "participantName": "Jeff Silverman",
+      "picks": [
+        "38",
+        "38",
+        "14",
+        "2",
+        "20",
+        "38"
+      ],
+      "probabilityTotal": 0.1480551376751855,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 213,
+          "tiebreak": 71,
+          "countedCodes": [
+            "38",
+            "38",
+            "14"
+          ],
+          "fallbackScore": 91,
+          "rank": 24,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 205,
+          "tiebreak": 71,
+          "countedCodes": [
+            "2",
+            "14",
+            "38"
+          ],
+          "fallbackScore": 81,
+          "rank": 11,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 215,
+          "tiebreak": 77,
+          "countedCodes": [
+            "2",
+            "14",
+            "38"
+          ],
+          "fallbackScore": 80,
+          "rank": 31,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 213,
+          "tiebreak": 73,
+          "countedCodes": [
+            "38",
+            "38",
+            "38"
+          ],
+          "fallbackScore": 85,
+          "rank": 18,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 857,
+        "tiebreak": 290,
+        "countedCodes": [
+          "2",
+          "38",
+          "38"
+        ],
+        "fallbackScore": 301,
+        "rank": 33,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_028",
+      "teamName": "Mo Knows Golf",
+      "participantName": "Dennis Follmer",
+      "picks": [
+        "5",
+        "5",
+        "7",
+        "16",
+        "28",
+        "77"
+      ],
+      "probabilityTotal": 0.14905438197413703,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 213,
+          "tiebreak": 74,
+          "countedCodes": [
+            "7",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 91,
+          "rank": 25,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 206,
+          "tiebreak": 71,
+          "countedCodes": [
+            "7",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 81,
+          "rank": 18,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 213,
+          "tiebreak": 73,
+          "countedCodes": [
+            "7",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 80,
+          "rank": 24,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 215,
+          "tiebreak": 75,
+          "countedCodes": [
+            "16",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 85,
+          "rank": 30,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 851,
+        "tiebreak": 290,
+        "countedCodes": [
+          "7",
+          "5",
+          "5"
+        ],
+        "fallbackScore": 320,
+        "rank": 20,
+        "split": true
+      }
+    },
+    {
+      "submissionId": "submission_029",
+      "teamName": "MullinsDoubles",
+      "participantName": "Andy Mullins",
+      "picks": [
+        "7",
+        "7",
+        "9",
+        "9",
+        "19",
+        "19"
+      ],
+      "probabilityTotal": 0.1436871359275893,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 210,
+          "tiebreak": 72,
+          "countedCodes": [
+            "7",
+            "7",
+            "9"
+          ],
+          "fallbackScore": 91,
+          "rank": 15,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 210,
+          "tiebreak": 74,
+          "countedCodes": [
+            "7",
+            "7",
+            "9"
+          ],
+          "fallbackScore": 81,
+          "rank": 31,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 208,
+          "tiebreak": 70,
+          "countedCodes": [
+            "7",
+            "7",
+            "9"
+          ],
+          "fallbackScore": 80,
+          "rank": 8,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 219,
+          "tiebreak": 75,
+          "countedCodes": [
+            "9",
+            "9",
+            "7"
+          ],
+          "fallbackScore": 85,
+          "rank": 36,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 850,
+        "tiebreak": 288,
+        "countedCodes": [
+          "7",
+          "7",
+          "9"
+        ],
+        "fallbackScore": 316,
+        "rank": 14,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_030",
+      "teamName": "Dilly Dilly",
+      "participantName": "Kim Arney",
+      "picks": [
+        "33",
+        "95",
+        "14",
+        "15",
+        "15",
+        "28",
+        "4",
+        "8"
+      ],
+      "probabilityTotal": 0.1494879501161074,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 210,
+          "tiebreak": 71,
+          "countedCodes": [
+            "4",
+            "14",
+            "15"
+          ],
+          "fallbackScore": 91,
+          "rank": 13,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 206,
+          "tiebreak": 71,
+          "countedCodes": [
+            "14",
+            "15",
+            "15"
+          ],
+          "fallbackScore": 81,
+          "rank": 18,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 207,
+          "tiebreak": 73,
+          "countedCodes": [
+            "95",
+            "4",
+            "14"
+          ],
+          "fallbackScore": 80,
+          "rank": 4,
+          "split": true
+        },
+        {
+          "round": 4,
+          "score": 213,
+          "tiebreak": 73,
+          "countedCodes": [
+            "8",
+            "95",
+            "4"
+          ],
+          "fallbackScore": 85,
+          "rank": 18,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 851,
+        "tiebreak": 286,
+        "countedCodes": [
+          "4",
+          "95",
+          "15"
+        ],
+        "fallbackScore": 315,
+        "rank": 17,
+        "split": true
+      }
+    },
+    {
+      "submissionId": "submission_031",
+      "teamName": "Hello Friends",
+      "participantName": "Norm Boucher",
+      "picks": [
+        "5",
+        "6",
+        "11",
+        "12",
+        "10",
+        "82"
+      ],
+      "probabilityTotal": 0.14993204273811941,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 217,
+          "tiebreak": 73,
+          "countedCodes": [
+            "5",
+            "82",
+            "6"
+          ],
+          "fallbackScore": 91,
+          "rank": 35,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 206,
+          "tiebreak": 73,
+          "countedCodes": [
+            "10",
+            "5",
+            "6"
+          ],
+          "fallbackScore": 81,
+          "rank": 23,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 211,
+          "tiebreak": 76,
+          "countedCodes": [
+            "12",
+            "6",
+            "5"
+          ],
+          "fallbackScore": 80,
+          "rank": 19,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 204,
+          "tiebreak": 71,
+          "countedCodes": [
+            "10",
+            "82",
+            "12"
+          ],
+          "fallbackScore": 85,
+          "rank": 5,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 853,
+        "tiebreak": 286,
+        "countedCodes": [
+          "6",
+          "5",
+          "12"
+        ],
+        "fallbackScore": 315,
+        "rank": 22,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_032",
+      "teamName": "O.B.",
+      "participantName": "Shep Perkins",
+      "picks": [
+        "5",
+        "15",
+        "18",
+        "28",
+        "32",
+        "47",
+        "5",
+        "28"
+      ],
+      "probabilityTotal": 0.14901844119149443,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 215,
+          "tiebreak": 72,
+          "countedCodes": [
+            "15",
+            "5",
+            "32"
+          ],
+          "fallbackScore": 91,
+          "rank": 28,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 206,
+          "tiebreak": 69,
+          "countedCodes": [
+            "18",
+            "5",
+            "15"
+          ],
+          "fallbackScore": 81,
+          "rank": 14,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 214,
+          "tiebreak": 73,
+          "countedCodes": [
+            "47",
+            "5",
+            "5"
+          ],
+          "fallbackScore": 80,
+          "rank": 28,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 214,
+          "tiebreak": 72,
+          "countedCodes": [
+            "32",
+            "47",
+            "5"
+          ],
+          "fallbackScore": 85,
+          "rank": 22,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 856,
+        "tiebreak": 286,
+        "countedCodes": [
+          "5",
+          "5",
+          "15"
+        ],
+        "fallbackScore": 315,
+        "rank": 31,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_033",
+      "teamName": "Ty Webb's illegitimate stepchild",
+      "participantName": "Tom Nelson",
+      "picks": [
+        "4",
+        "4",
+        "35",
+        "31",
+        "8",
+        "41",
+        "78",
+        "25"
+      ],
+      "probabilityTotal": 0.14798548709773207,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 201,
+          "tiebreak": 71,
+          "countedCodes": [
+            "35",
+            "4",
+            "4"
+          ],
+          "fallbackScore": 91,
+          "rank": 1,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 212,
+          "tiebreak": 72,
+          "countedCodes": [
+            "31",
+            "35",
+            "8"
+          ],
+          "fallbackScore": 81,
+          "rank": 33,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 207,
+          "tiebreak": 74,
+          "countedCodes": [
+            "4",
+            "4",
+            "31"
+          ],
+          "fallbackScore": 80,
+          "rank": 7,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 203,
+          "tiebreak": 70,
+          "countedCodes": [
+            "35",
+            "78",
+            "31"
+          ],
+          "fallbackScore": 85,
+          "rank": 4,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 838,
+        "tiebreak": 282,
+        "countedCodes": [
+          "35",
+          "31",
+          "4"
+        ],
+        "fallbackScore": 314,
+        "rank": 2,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_034",
+      "teamName": "The Angry Leprechauns",
+      "participantName": "Brian Kelley",
+      "picks": [
+        "3",
+        "20",
+        "26",
+        "6",
+        "25",
+        "15",
+        "32",
+        "45"
+      ],
+      "probabilityTotal": 0.14953068218555135,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 212,
+          "tiebreak": 72,
+          "countedCodes": [
+            "26",
+            "20",
+            "15"
+          ],
+          "fallbackScore": 91,
+          "rank": 20,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 208,
+          "tiebreak": 71,
+          "countedCodes": [
+            "6",
+            "15",
+            "26"
+          ],
+          "fallbackScore": 81,
+          "rank": 26,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 211,
+          "tiebreak": 73,
+          "countedCodes": [
+            "3",
+            "6",
+            "26"
+          ],
+          "fallbackScore": 80,
+          "rank": 17,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 211,
+          "tiebreak": 72,
+          "countedCodes": [
+            "3",
+            "6",
+            "32"
+          ],
+          "fallbackScore": 85,
+          "rank": 14,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 851,
+        "tiebreak": 286,
+        "countedCodes": [
+          "26",
+          "6",
+          "3"
+        ],
+        "fallbackScore": 315,
+        "rank": 17,
+        "split": true
+      }
+    },
+    {
+      "submissionId": "submission_035",
+      "teamName": "The Nemeinators",
+      "participantName": "Ryan Nemes",
+      "picks": [
+        "9",
+        "9",
+        "5",
+        "5",
+        "20",
+        "60"
+      ],
+      "probabilityTotal": 0.1498221383643904,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 215,
+          "tiebreak": 72,
+          "countedCodes": [
+            "20",
+            "9",
+            "9"
+          ],
+          "fallbackScore": 91,
+          "rank": 28,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 208,
+          "tiebreak": 72,
+          "countedCodes": [
+            "5",
+            "5",
+            "60"
+          ],
+          "fallbackScore": 81,
+          "rank": 27,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 209,
+          "tiebreak": 72,
+          "countedCodes": [
+            "60",
+            "9",
+            "9"
+          ],
+          "fallbackScore": 80,
+          "rank": 11,
+          "split": true
+        },
+        {
+          "round": 4,
+          "score": 215,
+          "tiebreak": 72,
+          "countedCodes": [
+            "60",
+            "9",
+            "9"
+          ],
+          "fallbackScore": 85,
+          "rank": 25,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 854,
+        "tiebreak": 288,
+        "countedCodes": [
+          "60",
+          "5",
+          "5"
+        ],
+        "fallbackScore": 301,
+        "rank": 28,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_036",
+      "teamName": "Often wrong but never in doubt",
+      "participantName": "Scott Sipple",
+      "picks": [
+        "2",
+        "4",
+        "37",
+        "50"
+      ],
+      "probabilityTotal": 0.1493438989959469,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 211,
+          "tiebreak": 72,
+          "countedCodes": [
+            "4",
+            "37",
+            "2"
+          ],
+          "fallbackScore": 91,
+          "rank": 18,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 212,
+          "tiebreak": 73,
+          "countedCodes": [
+            "2",
+            "4",
+            "37"
+          ],
+          "fallbackScore": 81,
+          "rank": 35,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 206,
+          "tiebreak": 73,
+          "countedCodes": [
+            "2",
+            "4",
+            "50"
+          ],
+          "fallbackScore": 80,
+          "rank": 1,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 214,
+          "tiebreak": 73,
+          "countedCodes": [
+            "37",
+            "4",
+            "2"
+          ],
+          "fallbackScore": 85,
+          "rank": 23,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 845,
+        "tiebreak": 289,
+        "countedCodes": [
+          "2",
+          "4",
+          "37"
+        ],
+        "fallbackScore": 301,
+        "rank": 6,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_037",
+      "teamName": "Fairway Ninjas",
+      "participantName": "Jeff Aaron",
+      "picks": [
+        "2",
+        "13",
+        "14",
+        "25",
+        "45"
+      ],
+      "probabilityTotal": 0.14997703742418098,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 216,
+          "tiebreak": 75,
+          "countedCodes": [
+            "14",
+            "2",
+            "13"
+          ],
+          "fallbackScore": 91,
+          "rank": 34,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 203,
+          "tiebreak": 72,
+          "countedCodes": [
+            "2",
+            "14",
+            "13"
+          ],
+          "fallbackScore": 81,
+          "rank": 1,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 213,
+          "tiebreak": 80,
+          "countedCodes": [
+            "2",
+            "14",
+            "13"
+          ],
+          "fallbackScore": 80,
+          "rank": 27,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 223,
+          "tiebreak": 85,
+          "countedCodes": [
+            "13",
+            "2",
+            "14"
+          ],
+          "fallbackScore": 85,
+          "rank": 37,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 855,
+        "tiebreak": 313,
+        "countedCodes": [
+          "2",
+          "13",
+          "14"
+        ],
+        "fallbackScore": 315,
+        "rank": 29,
+        "split": true
+      }
+    },
+    {
+      "submissionId": "submission_038",
+      "teamName": "Green Machine",
+      "participantName": "Laura Green",
+      "picks": [
+        "4",
+        "4",
+        "7",
+        "20",
+        "32",
+        "45",
+        "54",
+        "76"
+      ],
+      "probabilityTotal": 0.149911947634081,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 205,
+          "tiebreak": 71,
+          "countedCodes": [
+            "4",
+            "4",
+            "7"
+          ],
+          "fallbackScore": 91,
+          "rank": 5,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 212,
+          "tiebreak": 72,
+          "countedCodes": [
+            "7",
+            "20",
+            "32"
+          ],
+          "fallbackScore": 81,
+          "rank": 33,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 207,
+          "tiebreak": 73,
+          "countedCodes": [
+            "4",
+            "4",
+            "7"
+          ],
+          "fallbackScore": 80,
+          "rank": 4,
+          "split": true
+        },
+        {
+          "round": 4,
+          "score": 215,
+          "tiebreak": 74,
+          "countedCodes": [
+            "32",
+            "4",
+            "4"
+          ],
+          "fallbackScore": 85,
+          "rank": 28,
+          "split": true
+        }
+      ],
+      "final": {
+        "score": 845,
+        "tiebreak": 288,
+        "countedCodes": [
+          "7",
+          "4",
+          "4"
+        ],
+        "fallbackScore": 317,
+        "rank": 5,
+        "split": false
+      }
+    },
+    {
+      "submissionId": "submission_039",
+      "teamName": "The Chipinskis",
+      "participantName": "Peter Sharpe",
+      "picks": [
+        "5",
+        "6",
+        "71",
+        "17",
+        "20",
+        "14",
+        "38",
+        "24"
+      ],
+      "probabilityTotal": 0.1498480250606555,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 208,
+          "tiebreak": 71,
+          "countedCodes": [
+            "24",
+            "17",
+            "20"
+          ],
+          "fallbackScore": 91,
+          "rank": 9,
+          "split": false
+        },
+        {
+          "round": 2,
+          "score": 206,
+          "tiebreak": 70,
+          "countedCodes": [
+            "14",
+            "5",
+            "6"
+          ],
+          "fallbackScore": 81,
+          "rank": 17,
+          "split": false
+        },
+        {
+          "round": 3,
+          "score": 210,
+          "tiebreak": 72,
+          "countedCodes": [
+            "6",
+            "71",
+            "24"
+          ],
+          "fallbackScore": 80,
+          "rank": 13,
+          "split": true
+        },
+        {
+          "round": 4,
+          "score": 213,
+          "tiebreak": 71,
+          "countedCodes": [
+            "6",
+            "71",
+            "17"
+          ],
+          "fallbackScore": 85,
+          "rank": 15,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 851,
+        "tiebreak": 285,
+        "countedCodes": [
+          "6",
+          "24",
+          "5"
+        ],
+        "fallbackScore": 301,
+        "rank": 15,
+        "split": true
+      }
+    },
+    {
+      "submissionId": "submission_da998cba71a64e23bc482f835602f408",
+      "teamName": "Death Squad",
+      "participantName": "Trebor Neohcs",
+      "picks": [
+        "3",
+        "21",
+        "10",
+        "20",
+        "33",
+        "10",
+        "13"
+      ],
+      "probabilityTotal": 0.149592,
+      "rounds": [
+        {
+          "round": 1,
+          "score": 217,
+          "tiebreak": 73,
+          "countedCodes": [
+            "20",
+            "10",
+            "10"
+          ],
+          "fallbackScore": 91,
+          "rank": 35,
+          "split": true
+        },
+        {
+          "round": 2,
+          "score": 205,
+          "tiebreak": 71,
+          "countedCodes": [
+            "10",
+            "10",
+            "13"
+          ],
+          "fallbackScore": 81,
+          "rank": 11,
+          "split": true
+        },
+        {
+          "round": 3,
+          "score": 222,
+          "tiebreak": 79,
+          "countedCodes": [
+            "3",
+            "13",
+            "20"
+          ],
+          "fallbackScore": 80,
+          "rank": 36,
+          "split": false
+        },
+        {
+          "round": 4,
+          "score": 201,
+          "tiebreak": 69,
+          "countedCodes": [
+            "10",
+            "10",
+            "3"
+          ],
+          "fallbackScore": 85,
+          "rank": 1,
+          "split": false
+        }
+      ],
+      "final": {
+        "score": 857,
+        "tiebreak": 286,
+        "countedCodes": [
+          "3",
+          "10",
+          "10"
+        ],
+        "fallbackScore": 318,
+        "rank": 32,
+        "split": false
+      }
+    }
+  ]
+}

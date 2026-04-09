@@ -1,0 +1,646 @@
+[
+  {
+    "code": "1",
+    "name": "Scottie Scheffler",
+    "odds": 440,
+    "probability": 0.1321,
+    "isActive": true
+  },
+  {
+    "code": "2",
+    "name": "Jon Rahm",
+    "odds": 910,
+    "probability": 0.0706,
+    "isActive": true
+  },
+  {
+    "code": "3",
+    "name": "Rory McIlroy",
+    "odds": 1075,
+    "probability": 0.0607,
+    "isActive": true
+  },
+  {
+    "code": "4",
+    "name": "Bryson DeChambeau",
+    "odds": 1075,
+    "probability": 0.0607,
+    "isActive": true
+  },
+  {
+    "code": "5",
+    "name": "Ludvig Aberg",
+    "odds": 1700,
+    "probability": 0.0396,
+    "isActive": true
+  },
+  {
+    "code": "6",
+    "name": "Xander Schauffele",
+    "odds": 1800,
+    "probability": 0.0375,
+    "isActive": true
+  },
+  {
+    "code": "7",
+    "name": "Cameron Young",
+    "odds": 2350,
+    "probability": 0.0291,
+    "isActive": true
+  },
+  {
+    "code": "8",
+    "name": "Tommy Fleetwood",
+    "odds": 2450,
+    "probability": 0.028,
+    "isActive": true
+  },
+  {
+    "code": "9",
+    "name": "Matt Fitzpatrick",
+    "odds": 2500,
+    "probability": 0.0274,
+    "isActive": true
+  },
+  {
+    "code": "10",
+    "name": "Collin Morikawa",
+    "odds": 3100,
+    "probability": 0.0223,
+    "isActive": true
+  },
+  {
+    "code": "11",
+    "name": "Justin Rose",
+    "odds": 3500,
+    "probability": 0.0198,
+    "isActive": true
+  },
+  {
+    "code": "12",
+    "name": "Robert MacIntyre",
+    "odds": 3700,
+    "probability": 0.0188,
+    "isActive": true
+  },
+  {
+    "code": "13",
+    "name": "Brooks Koepka",
+    "odds": 3700,
+    "probability": 0.0188,
+    "isActive": true
+  },
+  {
+    "code": "14",
+    "name": "Hideki Matsuyama",
+    "odds": 3800,
+    "probability": 0.0183,
+    "isActive": true
+  },
+  {
+    "code": "15",
+    "name": "Chris Gotterup",
+    "odds": 4200,
+    "probability": 0.0166,
+    "isActive": true
+  },
+  {
+    "code": "16",
+    "name": "Jordan Spieth",
+    "odds": 4300,
+    "probability": 0.0162,
+    "isActive": true
+  },
+  {
+    "code": "17",
+    "name": "Patrick Reed",
+    "odds": 4400,
+    "probability": 0.0158,
+    "isActive": true
+  },
+  {
+    "code": "18",
+    "name": "Si Woo Kim",
+    "odds": 4500,
+    "probability": 0.0155,
+    "isActive": true
+  },
+  {
+    "code": "19",
+    "name": "Viktor Hovland",
+    "odds": 4500,
+    "probability": 0.0155,
+    "isActive": true
+  },
+  {
+    "code": "20",
+    "name": "Russell Henley",
+    "odds": 4700,
+    "probability": 0.0149,
+    "isActive": true
+  },
+  {
+    "code": "21",
+    "name": "Min Woo Lee",
+    "odds": 5300,
+    "probability": 0.0132,
+    "isActive": true
+  },
+  {
+    "code": "22",
+    "name": "Justin Thomas",
+    "odds": 5400,
+    "probability": 0.013,
+    "isActive": true
+  },
+  {
+    "code": "23",
+    "name": "Patrick Cantlay",
+    "odds": 5600,
+    "probability": 0.0125,
+    "isActive": true
+  },
+  {
+    "code": "24",
+    "name": "Akshay Bhatia",
+    "odds": 5700,
+    "probability": 0.0123,
+    "isActive": true
+  },
+  {
+    "code": "25",
+    "name": "Adam Scott",
+    "odds": 6100,
+    "probability": 0.0115,
+    "isActive": true
+  },
+  {
+    "code": "26",
+    "name": "Jason Day",
+    "odds": 6700,
+    "probability": 0.0105,
+    "isActive": true
+  },
+  {
+    "code": "27",
+    "name": "Tyrrell Hatton",
+    "odds": 6700,
+    "probability": 0.0105,
+    "isActive": true
+  },
+  {
+    "code": "28",
+    "name": "Jake Knapp",
+    "odds": 6800,
+    "probability": 0.0103,
+    "isActive": true
+  },
+  {
+    "code": "29",
+    "name": "Shane Lowry",
+    "odds": 6900,
+    "probability": 0.0102,
+    "isActive": true
+  },
+  {
+    "code": "30",
+    "name": "Sam Burns",
+    "odds": 7000,
+    "probability": 0.01,
+    "isActive": true
+  },
+  {
+    "code": "31",
+    "name": "J.J. Spaun",
+    "odds": 7200,
+    "probability": 0.0098,
+    "isActive": true
+  },
+  {
+    "code": "32",
+    "name": "Sepp Straka",
+    "odds": 7400,
+    "probability": 0.0095,
+    "isActive": true
+  },
+  {
+    "code": "33",
+    "name": "Corey Conners",
+    "odds": 8000,
+    "probability": 0.0088,
+    "isActive": true
+  },
+  {
+    "code": "34",
+    "name": "Nicolai Hojgaard",
+    "odds": 8200,
+    "probability": 0.0086,
+    "isActive": true
+  },
+  {
+    "code": "35",
+    "name": "Kurt Kitayama",
+    "odds": 8600,
+    "probability": 0.0082,
+    "isActive": true
+  },
+  {
+    "code": "36",
+    "name": "Jacob Bridgeman",
+    "odds": 9200,
+    "probability": 0.0077,
+    "isActive": true
+  },
+  {
+    "code": "37",
+    "name": "Maverick McNealy",
+    "odds": 9400,
+    "probability": 0.0075,
+    "isActive": true
+  },
+  {
+    "code": "38",
+    "name": "Cameron Smith",
+    "odds": 9800,
+    "probability": 0.0072,
+    "isActive": true
+  },
+  {
+    "code": "39",
+    "name": "Harris English",
+    "odds": 10000,
+    "probability": 0.0071,
+    "isActive": true
+  },
+  {
+    "code": "40",
+    "name": "Gary Woodland",
+    "odds": 10500,
+    "probability": 0.0067,
+    "isActive": true
+  },
+  {
+    "code": "41",
+    "name": "Daniel Berger",
+    "odds": 10500,
+    "probability": 0.0067,
+    "isActive": true
+  },
+  {
+    "code": "42",
+    "name": "Ben Griffin",
+    "odds": 11000,
+    "probability": 0.0064,
+    "isActive": true
+  },
+  {
+    "code": "43",
+    "name": "Sung-Jae Im",
+    "odds": 11500,
+    "probability": 0.0061,
+    "isActive": true
+  },
+  {
+    "code": "44",
+    "name": "Max Homa",
+    "odds": 12000,
+    "probability": 0.0059,
+    "isActive": true
+  },
+  {
+    "code": "45",
+    "name": "Rasmus Hojgaard",
+    "odds": 12500,
+    "probability": 0.0057,
+    "isActive": true
+  },
+  {
+    "code": "46",
+    "name": "Keegan Bradley",
+    "odds": 13500,
+    "probability": 0.0052,
+    "isActive": true
+  },
+  {
+    "code": "47",
+    "name": "Marco Penge",
+    "odds": 14000,
+    "probability": 0.0051,
+    "isActive": true
+  },
+  {
+    "code": "48",
+    "name": "Harry Hall",
+    "odds": 15500,
+    "probability": 0.0046,
+    "isActive": true
+  },
+  {
+    "code": "49",
+    "name": "Alex Noren",
+    "odds": 16000,
+    "probability": 0.0044,
+    "isActive": true
+  },
+  {
+    "code": "50",
+    "name": "Ryan Gerard",
+    "odds": 16500,
+    "probability": 0.0043,
+    "isActive": true
+  },
+  {
+    "code": "51",
+    "name": "Nick Taylor",
+    "odds": 18000,
+    "probability": 0.0039,
+    "isActive": true
+  },
+  {
+    "code": "52",
+    "name": "Aaron Rai",
+    "odds": 19000,
+    "probability": 0.0037,
+    "isActive": true
+  },
+  {
+    "code": "53",
+    "name": "Brian Harman",
+    "odds": 20000,
+    "probability": 0.0035,
+    "isActive": true
+  },
+  {
+    "code": "54",
+    "name": "Sam Stevens",
+    "odds": 20000,
+    "probability": 0.0035,
+    "isActive": true
+  },
+  {
+    "code": "55",
+    "name": "Ryan Fox",
+    "odds": 21000,
+    "probability": 0.0034,
+    "isActive": true
+  },
+  {
+    "code": "56",
+    "name": "Wyndham Clark",
+    "odds": 21000,
+    "probability": 0.0034,
+    "isActive": true
+  },
+  {
+    "code": "57",
+    "name": "Sergio Garcia",
+    "odds": 22000,
+    "probability": 0.0032,
+    "isActive": true
+  },
+  {
+    "code": "58",
+    "name": "Michael Kim",
+    "odds": 22500,
+    "probability": 0.0032,
+    "isActive": true
+  },
+  {
+    "code": "59",
+    "name": "Max Greyserman",
+    "odds": 22500,
+    "probability": 0.0032,
+    "isActive": true
+  },
+  {
+    "code": "60",
+    "name": "Dustin Johnson",
+    "odds": 23000,
+    "probability": 0.0031,
+    "isActive": true
+  },
+  {
+    "code": "61",
+    "name": "Kristoffer Reitan",
+    "odds": 23000,
+    "probability": 0.0031,
+    "isActive": true
+  },
+  {
+    "code": "62",
+    "name": "Casey Jarvis",
+    "odds": 24000,
+    "probability": 0.003,
+    "isActive": true
+  },
+  {
+    "code": "63",
+    "name": "Carlos Ortiz",
+    "odds": 25000,
+    "probability": 0.0028,
+    "isActive": true
+  },
+  {
+    "code": "64",
+    "name": "Tom McKibbin",
+    "odds": 26000,
+    "probability": 0.0027,
+    "isActive": true
+  },
+  {
+    "code": "65",
+    "name": "Haotong Li",
+    "odds": 30000,
+    "probability": 0.0024,
+    "isActive": true
+  },
+  {
+    "code": "66",
+    "name": "Nico Echavarria",
+    "odds": 30000,
+    "probability": 0.0024,
+    "isActive": true
+  },
+  {
+    "code": "67",
+    "name": "Matt McCarty",
+    "odds": 30000,
+    "probability": 0.0024,
+    "isActive": true
+  },
+  {
+    "code": "68",
+    "name": "Andrew Novak",
+    "odds": 31000,
+    "probability": 0.0023,
+    "isActive": true
+  },
+  {
+    "code": "69",
+    "name": "Rasmus Neergaard-Petersen",
+    "odds": 31000,
+    "probability": 0.0023,
+    "isActive": true
+  },
+  {
+    "code": "70",
+    "name": "Aldrich Potgieter",
+    "odds": 39000,
+    "probability": 0.0018,
+    "isActive": true
+  },
+  {
+    "code": "71",
+    "name": "Sami Valimaki",
+    "odds": 40000,
+    "probability": 0.0018,
+    "isActive": true
+  },
+  {
+    "code": "72",
+    "name": "John Keefer",
+    "odds": 40000,
+    "probability": 0.0018,
+    "isActive": true
+  },
+  {
+    "code": "73",
+    "name": "Michael Brennan",
+    "odds": 41000,
+    "probability": 0.0017,
+    "isActive": true
+  },
+  {
+    "code": "74",
+    "name": "Davis Riley",
+    "odds": 55000,
+    "probability": 0.0013,
+    "isActive": true
+  },
+  {
+    "code": "75",
+    "name": "Charl Schwartzel",
+    "odds": 57500,
+    "probability": 0.0012,
+    "isActive": true
+  },
+  {
+    "code": "76",
+    "name": "Bubba Watson",
+    "odds": 57500,
+    "probability": 0.0012,
+    "isActive": true
+  },
+  {
+    "code": "77",
+    "name": "Zach Johnson",
+    "odds": 57500,
+    "probability": 0.0012,
+    "isActive": true
+  },
+  {
+    "code": "78",
+    "name": "Brian Campbell",
+    "odds": 250000,
+    "probability": 0.0003,
+    "isActive": true
+  },
+  {
+    "code": "79",
+    "name": "Ethan Fang",
+    "odds": 250000,
+    "probability": 0.0003,
+    "isActive": true
+  },
+  {
+    "code": "80",
+    "name": "Danny Willett",
+    "odds": 250000,
+    "probability": 0.0003,
+    "isActive": true
+  },
+  {
+    "code": "81",
+    "name": "Angel Cabrera",
+    "odds": 350000,
+    "probability": 0.0002,
+    "isActive": true
+  },
+  {
+    "code": "82",
+    "name": "Pongsapak Laopakdee",
+    "odds": 350000,
+    "probability": 0.0002,
+    "isActive": true
+  },
+  {
+    "code": "83",
+    "name": "Mason Howell",
+    "odds": 400000,
+    "probability": 0.0002,
+    "isActive": true
+  },
+  {
+    "code": "84",
+    "name": "Vijay Singh",
+    "odds": 450000,
+    "probability": 0.0002,
+    "isActive": true
+  },
+  {
+    "code": "85",
+    "name": "Mateo Pulcini",
+    "odds": 450000,
+    "probability": 0.0002,
+    "isActive": true
+  },
+  {
+    "code": "86",
+    "name": "Jackson Herrington",
+    "odds": 450000,
+    "probability": 0.0002,
+    "isActive": true
+  },
+  {
+    "code": "87",
+    "name": "Naoyuki Kataoka",
+    "odds": 450000,
+    "probability": 0.0002,
+    "isActive": true
+  },
+  {
+    "code": "88",
+    "name": "Brandon Holtz",
+    "odds": 500000,
+    "probability": 0.0001,
+    "isActive": true
+  },
+  {
+    "code": "89",
+    "name": "Mike Weir",
+    "odds": 500000,
+    "probability": 0.0001,
+    "isActive": true
+  },
+  {
+    "code": "90",
+    "name": "Fred Couples",
+    "odds": 500000,
+    "probability": 0.0001,
+    "isActive": true
+  },
+  {
+    "code": "91",
+    "name": "Jose Maria Olazabal",
+    "odds": 500000,
+    "probability": 0.0001,
+    "isActive": true
+  },
+  {
+    "code": "0",
+    "name": "No Player",
+    "odds": 999999,
+    "probability": 0.0,
+    "isActive": true
+  }
+]

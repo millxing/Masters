@@ -1,0 +1,33 @@
+Rules (please read closely)
+• Pick a name for your team. Please don’t leave it to us to name your team. You won’t like it.
+• Each team picks 3-8 golfers from the pool of golfers.
+• You can pick the same golfer multiple times. 
+• Note that the pool of golfers is larger than the size of the Masters field. It's on you to make sure that everyone you pick is actually competing in the tournament.
+The sum of the golfer probabilities on a team cannot exceed 15%.
+• Enter your team into the attached spreadsheet. When completed, make sure that cell D16 is GREEN. If it is RED, your entry is not legal (decimal points above the 15% limit).
+• For each round, the team with the lowest combined score of any THREE golfers will win that round.
+• The Final Score is won by the team with the lowest combined final score (4 round total) of any THREE golfers.
+• All ties are broken by the 4th lowest score on each team. If there is still a tie, then the pot will be split. Any team without a 4th golfer will get the highest score in that round plus one as their 4th best score (i.e. you lose).
+• Any golfers that do not golf in a given round (withdraw or missed cut) get the highest score in that round plus one. 
+• Playoff rounds do not count toward the 4th round or the final score. The pool ends after the 18th hole on the 4th round.
+
+Payouts
+1st Round: 12.5% of pot
+2nd Round: 12.5% of pot
+3rd Round: 12.5% of pot
+4th Round: 12.5% of pot
+Final Score: 50.0% of pot
+Unbroken ties split the pot equally.
+ 
+$65 entry. All proceeds distributed to winners. 
+
+All payments, distributions made via Venmo (@robschoen). 
+
+
+
+
+Odds to win the Masters were collected from Fanduel (on 4/7/2025), converted to probabilities and normalized to sum to 100%.
+
+There are more players listed here than may ultimately participate in the field. It is your responsibility to only pick golfers that are  competing in the tournament.
+
+
