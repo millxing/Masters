@@ -178,7 +178,10 @@ export function buildRoundRows(
       const playerScore = scoreMap.get(code);
 
       if (useLiveRoundOne) {
-        const liveValue = getLiveRoundScoreToPar(playerScore);
+        const liveValue =
+          code === "0"
+            ? null
+            : getLiveRoundScoreToPar(playerScore) ?? 0;
 
         return {
           golfer: golferMap.get(code) ?? emptySlotLabel,
