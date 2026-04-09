@@ -7,6 +7,19 @@ function hasLiveToPar(status: string) {
   return trimmed === "E" || /^[+-]?\d+$/.test(trimmed);
 }
 
+function isRoundFinished(
+  playerScores: Array<{ rounds: Array<number | null>; status: string }>,
+  roundIndex: number
+) {
+  return playerScores.length > 0 && playerScores.every((score) => {
+    if (typeof score.rounds[roundIndex] === "number") {
+      return true;
+    }
+
+    return roundIndex >= 2 && score.status.trim().toUpperCase() === "CUT";
+  });
+}
+
 export function RoundResultsPage({ roundNumber }: { roundNumber: 1 | 2 | 3 | 4 }) {
   const golfers = repository.listGolfers();
   const submissions = repository.listSubmissions();
@@ -21,14 +34,16 @@ export function RoundResultsPage({ roundNumber }: { roundNumber: 1 | 2 | 3 | 4 }
   const rows = hasRoundScores
     ? buildRoundRows(submissions, golfers, standings, playerScores, roundNumber)
     : [];
-  const isFinished = playerScores.length > 0 && playerScores.every((score) => typeof score.total === "number");
+  const isFinished = isRoundFinished(playerScores, roundIndex);
+  const statusLabel = !hasRoundScores ? "Not Started" : isFinished ? "Round Finished" : "In Progress";
 
   return (
     <RoundResultsTable
       rows={rows}
       roundNumber={roundNumber}
-      statusLabel={!hasRoundScores ? "Not Started" : isFinished ? "Round Finished" : "In Progress"}
+      statusLabel={statusLabel}
       emptyMessage="Round results will appear once ESPN publishes round scores."
+      lastUpdatedAt={statusLabel === "In Progress" ? snapshot?.importedAt : undefined}
     />
   );
 }

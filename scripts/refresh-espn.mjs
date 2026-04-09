@@ -42,6 +42,16 @@ if (rows.length === 0) {
   throw new Error("Unable to parse ESPN leaderboard data.");
 }
 
+const rawPayload = JSON.stringify(rows, null, 2);
+const latestEspnSnapshot = [...db.scoreSnapshots]
+  .reverse()
+  .find((snapshot) => snapshot.source === "espn");
+
+if (latestEspnSnapshot?.rawPayload === rawPayload) {
+  console.log("ESPN leaderboard unchanged; skipping db update.");
+  process.exit(0);
+}
+
 const golfersByCode = new Map(db.golfers.map((golfer) => [golfer.code, golfer]));
 const golfersByName = new Map();
 for (const golfer of db.golfers) {
@@ -83,7 +93,7 @@ const snapshot = {
   source: "espn",
   importedAt: new Date().toISOString(),
   sourceLabel: "ESPN leaderboard",
-  rawPayload: JSON.stringify(rows, null, 2)
+  rawPayload
 };
 
 const snapshotScores = playerScores.map((score) => ({

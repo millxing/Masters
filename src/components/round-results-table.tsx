@@ -1,4 +1,5 @@
 import type { RoundDisplayRow } from "@/lib/pool-display";
+import { formatDateTime } from "@/lib/dates";
 
 type RoundResultsTableProps = {
   rows: RoundDisplayRow[];
@@ -7,6 +8,7 @@ type RoundResultsTableProps = {
   statusLabel?: string;
   title?: string;
   emptyMessage?: string;
+  lastUpdatedAt?: string;
 };
 
 export function RoundResultsTable({
@@ -15,7 +17,8 @@ export function RoundResultsTable({
   scoreLabel = "Score",
   statusLabel = "In Progress",
   title,
-  emptyMessage
+  emptyMessage,
+  lastUpdatedAt
 }: RoundResultsTableProps) {
   const heading = title ?? `Round ${roundNumber} Results`;
   const showCaptain = rows.some((row) => row.captain.trim().length > 0);
@@ -25,6 +28,7 @@ export function RoundResultsTable({
       <section className="panel page-panel page-panel-centered">
         <h1 className="page-heading">{heading}</h1>
         <p className="results-subheading">{statusLabel}</p>
+        {lastUpdatedAt ? <p className="page-note">Last updated {formatDateTime(lastUpdatedAt)}</p> : null}
         <p className="page-note">
           {emptyMessage ?? (title
             ? "Results will appear once scores are available."
@@ -39,6 +43,7 @@ export function RoundResultsTable({
       <section className="page-panel">
         <h1 className="page-heading">{heading}</h1>
         <p className="results-subheading">{statusLabel}</p>
+        {lastUpdatedAt ? <p className="page-note">Last updated {formatDateTime(lastUpdatedAt)}</p> : null}
       </section>
       <section className="results-table-shell">
         <div className="results-table-wrap">

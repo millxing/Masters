@@ -164,6 +164,14 @@ button {
   width: min(980px, 100%);
 }
 
+.rules-page-wrap {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  padding-right: 8px;
+  padding-bottom: 28px;
+}
+
 .form-page-wrap {
   flex: 1;
   min-height: 0;

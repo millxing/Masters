@@ -64,6 +64,21 @@ function formatToPar(value: number) {
   return value > 0 ? `+${value}` : `${value}`;
 }
 
+function sortDisplaySlots<T extends { golfer: string; score: number | string }>(slots: T[]) {
+  return [...slots].sort((left, right) => {
+    const leftScore = typeof left.score === "number" ? left.score : Number.POSITIVE_INFINITY;
+    const rightScore = typeof right.score === "number" ? right.score : Number.POSITIVE_INFINITY;
+
+    if (leftScore !== rightScore) return leftScore - rightScore;
+
+    const leftIsPlaceholder = left.golfer === emptySlotLabel;
+    const rightIsPlaceholder = right.golfer === emptySlotLabel;
+    if (leftIsPlaceholder !== rightIsPlaceholder) return leftIsPlaceholder ? 1 : -1;
+
+    return left.golfer.localeCompare(right.golfer);
+  });
+}
+
 function getScoreDisplay(score: PlayerScore) {
   if (score.status) {
     return score.status;
@@ -215,7 +230,7 @@ export function buildRoundRows(
       teamName: submission.teamName,
       captain: submission.participantName,
       initials: getParticipantInitials(submission.participantName),
-      slots,
+      slots: sortDisplaySlots(slots),
       teamScore:
         useLiveRoundOne
           ? liveScoreCount >= 3 ? liveTeamScore : "—"
@@ -253,7 +268,7 @@ export function buildOverallRows(
       teamName: submission.teamName,
       captain: submission.participantName,
       initials: getParticipantInitials(submission.participantName),
-      slots: padPicks(submission.picks).map((code) => {
+      slots: sortDisplaySlots(padPicks(submission.picks).map((code) => {
         const playerScore = scoreMap.get(code);
         const rawScore = [0, 1, 2, 3].reduce((sum, roundIndex) => {
           const roundScore =
@@ -270,7 +285,7 @@ export function buildOverallRows(
           golfer: golferMap.get(code) ?? emptySlotLabel,
           score: formatRelative(rawScore, totalPar)
         };
-      }),
+      })),
       teamScore:
         typeof standing?.final.score === "number"
           ? formatRelative(standing.final.score, teamTotalPar)

@@ -13,14 +13,16 @@ export function OverallResultsPage() {
     ? buildOverallRows(submissions, golfers, standings, playerScores)
     : [];
   const isFinished = hasFinalScores && playerScores.every((score) => typeof score.total === "number");
+  const statusLabel = !hasFinalScores ? "Not Started" : isFinished ? "Tournament Finished" : "In Progress";
 
   return (
     <RoundResultsTable
       rows={rows}
       title="Overall Results"
       scoreLabel="Final"
-      statusLabel={!hasFinalScores ? "Not Started" : isFinished ? "Tournament Finished" : "In Progress"}
+      statusLabel={statusLabel}
       emptyMessage="Overall results will appear once final-round scores are available."
+      lastUpdatedAt={statusLabel === "In Progress" ? snapshot?.importedAt : undefined}
     />
   );
 }

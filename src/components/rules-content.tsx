@@ -3,7 +3,7 @@ import { payoutLines, rulesParagraphs } from "@/lib/site-content";
 
 export function RulesContent() {
   return (
-    <div className="page-wrap">
+    <div className="page-wrap rules-page-wrap">
       <section className="page-panel page-panel-copy">
         <h1 className="page-heading">Rules</h1>
         <div className="rules-copy rules-copy-spaced">
