@@ -8,17 +8,19 @@ export function OverallResultsPage() {
   const standings = repository.getDerivedStandings();
   const snapshot = repository.getLatestSnapshot();
   const playerScores = snapshot ? repository.getPlayerScoresForSnapshot(snapshot.id) : [];
-  const rows = playerScores.length > 0
+  const hasFinalScores = playerScores.some((score) => typeof score.rounds[3] === "number");
+  const rows = hasFinalScores
     ? buildOverallRows(submissions, golfers, standings, playerScores)
     : [];
-  const isFinished = playerScores.length > 0 && playerScores.every((score) => typeof score.total === "number");
+  const isFinished = hasFinalScores && playerScores.every((score) => typeof score.total === "number");
 
   return (
     <RoundResultsTable
       rows={rows}
       title="Overall Results"
       scoreLabel="Final"
-      statusLabel={isFinished ? "Tournament Finished" : "In Progress"}
+      statusLabel={!hasFinalScores ? "Not Started" : isFinished ? "Tournament Finished" : "In Progress"}
+      emptyMessage="Overall results will appear once final-round scores are available."
     />
   );
 }

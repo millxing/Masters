@@ -6,6 +6,7 @@ type RoundResultsTableProps = {
   scoreLabel?: string;
   statusLabel?: string;
   title?: string;
+  emptyMessage?: string;
 };
 
 export function RoundResultsTable({
@@ -13,7 +14,8 @@ export function RoundResultsTable({
   roundNumber,
   scoreLabel = "Score",
   statusLabel = "In Progress",
-  title
+  title,
+  emptyMessage
 }: RoundResultsTableProps) {
   const heading = title ?? `Round ${roundNumber} Results`;
   const showCaptain = rows.some((row) => row.captain.trim().length > 0);
@@ -23,7 +25,11 @@ export function RoundResultsTable({
       <section className="panel page-panel page-panel-centered">
         <h1 className="page-heading">{heading}</h1>
         <p className="results-subheading">{statusLabel}</p>
-        <p className="page-note">{title ? "Results will appear after the first score import." : "Round results will appear after the first score import."}</p>
+        <p className="page-note">
+          {emptyMessage ?? (title
+            ? "Results will appear once scores are available."
+            : "Round results will appear once scores are available.")}
+        </p>
       </section>
     );
   }
