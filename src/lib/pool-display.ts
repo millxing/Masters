@@ -104,6 +104,15 @@ function parseToParValue(value: string) {
   return Number.POSITIVE_INFINITY;
 }
 
+function getLiveRoundScoreToPar(score: PlayerScore | undefined) {
+  if (!score) {
+    return null;
+  }
+
+  const liveToPar = parseToParValue(score.status);
+  return Number.isFinite(liveToPar) ? liveToPar : null;
+}
+
 function parsePositionValue(value: string) {
   const trimmed = value.trim().toUpperCase();
   if (!trimmed) return Number.POSITIVE_INFINITY;
@@ -157,32 +166,57 @@ export function buildRoundRows(
   const standingsBySubmissionId = new Map(standings.map((standing) => [standing.submissionId, standing]));
   const scoreMap = new Map(playerScores.map((score) => [score.golferCode, score]));
   const fallback = buildRoundFallback(playerScores, roundIndex);
+  const useLiveRoundOne =
+    roundNumber === 1 &&
+    playerScores.some((score) => getLiveRoundScoreToPar(score) !== null) &&
+    !playerScores.every((score) => typeof score.rounds[0] === "number");
 
   const rows = submissions.map((submission, index) => {
     const standing = standingsBySubmissionId.get(submission.id);
     const roundStanding = standing?.rounds.find((round) => round.round === roundNumber);
+    const slots = padPicks(submission.picks).map((code) => {
+      const playerScore = scoreMap.get(code);
+
+      if (useLiveRoundOne) {
+        const liveValue = getLiveRoundScoreToPar(playerScore);
+
+        return {
+          golfer: golferMap.get(code) ?? emptySlotLabel,
+          score: typeof liveValue === "number" ? liveValue : "—"
+        };
+      }
+
+      const rawScore =
+        code === "0"
+          ? fallback
+          : typeof playerScore?.rounds[roundIndex] === "number"
+            ? playerScore.rounds[roundIndex]
+            : fallback;
+
+      return {
+        golfer: golferMap.get(code) ?? emptySlotLabel,
+        score: formatRelative(rawScore, roundPar)
+      };
+    });
+
+    const liveTeamScore = [...slots]
+      .map((slot) => slot.score)
+      .filter((value): value is number => typeof value === "number")
+      .sort((left, right) => left - right)
+      .slice(0, 3)
+      .reduce((sum, value) => sum + value, 0);
+    const liveScoreCount = slots.filter((slot) => typeof slot.score === "number").length;
 
     return {
       teamNumber: index + 1,
       teamName: submission.teamName,
       captain: submission.participantName,
       initials: getParticipantInitials(submission.participantName),
-      slots: padPicks(submission.picks).map((code) => {
-        const playerScore = scoreMap.get(code);
-        const rawScore =
-          code === "0"
-            ? fallback
-            : typeof playerScore?.rounds[roundIndex] === "number"
-              ? playerScore.rounds[roundIndex]
-              : fallback;
-
-        return {
-          golfer: golferMap.get(code) ?? emptySlotLabel,
-          score: formatRelative(rawScore, roundPar)
-        };
-      }),
+      slots,
       teamScore:
-        typeof roundStanding?.score === "number"
+        useLiveRoundOne
+          ? liveScoreCount >= 3 ? liveTeamScore : "—"
+          : typeof roundStanding?.score === "number"
           ? formatRelative(roundStanding.score, teamRoundPar)
           : ""
     };
@@ -315,9 +349,14 @@ export function buildGolferScoreboardRows(playerScores: PlayerScore[]): GolferSc
       scoreValue: getScoreSortValue(score, effectiveTotal, completedRounds, worstScoreToPar),
       hole: score.thru?.trim() || "-",
       holeValue: parseThruValue(score.thru ?? ""),
-      rounds: score.rounds.map((round) => round ?? "—"),
+      rounds: score.rounds.map((round) =>
+        typeof round === "number" ? formatToPar(formatRelative(round, roundPar)) : "—"
+      ),
       roundValues,
-      total: score.total ?? "—",
+      total:
+        typeof score.total === "number" && completedRounds > 0
+          ? formatToPar(score.total - completedRounds * roundPar)
+          : "—",
       totalValue: effectiveTotal
     };
   });
