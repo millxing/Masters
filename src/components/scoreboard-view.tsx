@@ -13,7 +13,7 @@ export function ScoreboardView() {
     <div className="page-wrap page-wrap-wide results-page-wrap">
       <AutoRefresh />
       <section className="page-panel page-panel-centered">
-        <h1 className="page-heading">Live Scoreboard</h1>
+        <h1 className="page-heading">Scoreboard</h1>
         <p className="page-note">
           {snapshot
             ? `Last updated ${formatDateTime(snapshot.importedAt)}`
